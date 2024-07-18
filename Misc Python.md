@@ -1,0 +1,17 @@
+-   Graphics and Game Libraries:
+    -   [Pygame](https://www.pygame.org/)
+    -   [Pyglet](http://pyglet.org/)
+    -   [PyQt](https://www.riverbankcomputing.com/software/pyqt/intro)
+    -   [Kivy](https://kivy.org/)
+    -   [PyGTK](https://www.pygtk.org/)
+    -   [Tkinter](https://docs.python.org/3/library/tkinter.html)
+-   Physics Engine Libraries:
+    -   [Pymunk](http://www.pymunk.org/)
+    -   [pyBox2D](https://github.com/pybox2d/pybox2d)
+    -   [pybullet](https://pybullet.org/)
+-   Text-to-Speech Libraries:
+    -   [pyttsx3](https://pypi.org/project/pyttsx3/)
+    -   [gTTS](https://pypi.org/project/gTTS/)
+    -   [pyttsx](https://pypi.org/project/pyttsx/)
+-   Audio Libraries:
+    -   [pyaudio](https://people.csail.mit.edu/hubert/pyaudio/)

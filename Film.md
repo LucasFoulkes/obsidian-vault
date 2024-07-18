@@ -1,0 +1,28 @@
+- **thief and the cobler**
+- **maritian express**
+- **martian express** really good 2d animated. #seen
+- **Colossus: The Forbin Project**
+- **Abigail** Vampires girl trap. funny good #seen
+- **Beau Is Afraid**: A surrealist horror comedy film starring Joaquin Phoenix, exploring themes of anxiety and paranoia.
+- **BlackBerry**: A biographical drama about the rise and fall of the BlackBerry smartphone, offering a nostalgic look at the early 2000s tech industry.
+- **How to Have Sex**: A coming-of-age drama about a teenage girl's sexual awakening, tackling themes of identity and self-discovery.
+- **Rye Lane**: A romantic comedy set in South London, following two young people as they navigate love and relationships.
+- **Theater Camp**: A mockumentary comedy about a theater camp, poking fun at the quirks and passions of the theater community.
+- **Barbie**: A comedy film based on the popular Mattel doll, starring Margot Robbie and Ryan Gosling, offering a lighthearted and humorous take on femininity and identity. #seen
+- **Asteroid City**: A romantic comedy-drama set in a fictional American desert town in the 1950s, exploring themes of love, family, and community.
+- **Infinity Pool**: A science fiction horror film about a couple on vacation at a mysterious resort, delving into the darker side of human desire and excess.
+- **Past Lives**: A romantic drama about two childhood friends who reconnect as adults, exploring the complexities of love and relationships.
+- **Anatomy of a Fall**: A courtroom drama about a woman accused of murdering her husband, raising questions about justice and morality.
+- **The Boy and the Heron**: No additional information available.
+- **Showing Up**: A comedy-drama about an artist preparing for a new exhibition, offering a relatable and humorous take on creative struggles.
+- **Oppenheimer**: A biographical drama about J. Robert Oppenheimer, the physicist who led the Manhattan Project, providing a historical and thought-provoking look at the development of the atomic bomb.
+- **Fallen Leaves**: A drama about a budding romance between two lonely people, exploring themes of love, connection, and human vulnerability.
+- **Passages**: A drama about a German filmmaker whose life is upended when he falls in love with a French woman, delving into the complexities of love and identity.
+- **Killers of the Flower Moon**: A crime drama about the investigation into murders of Osage Native Americans in the 1920s, shedding light on a dark chapter in American history.
+- **Poor Things**: A science fiction film adaptation of the novel by Alasdair Gray, exploring themes of identity, humanity, and social hierarchy.
+- **Lisa Frankenstein**: A comedy horror film about a lonely teenage girl who reanimates a Victorian-era corpse, offering a darkly comedic and satirical take on teenage angst and identity.
+- **The Ministry of Ungentlemanly Warfare**: An action-comedy based on the true story of the first special forces unit in WWII, providing an entertaining and action-packed look at a pivotal moment in history.
+- **Antracite**: A film about a cult.
+- **Wifelike**: AI wives, somewhat overdone, mildly sexy. #seen #mid
+- **The Artifice Girl**: Good AI film, very minimal with only three sets. A girl AI used to bait predators becomes the first superintelligent AI. Good, but not great. #seen #good
+- **No One Will Save You**: Good alien horror film. The aliens, like most times, don't make much sense. Good, but not rewatchable. #seen #good

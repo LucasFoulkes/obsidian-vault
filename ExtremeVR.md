@@ -1,0 +1,9 @@
+- toda la informacion sobre las ventas. desde el ano pasado
+- leer mensajes diarios para ver ventas
+- leer computadora para ver mensajes, grabar pantalla para ver errores, usar esta informacion para saber usos reales. 
+- camara, usar camara para tambien ver cuanto se vende
+- nuevos juegos del proveedor
+- juegos mios, tendria que hackear la maquina
+- nueva maquina, esto usaria juegos mios
+- robot animatronico
+- uniformes para vendedores. 

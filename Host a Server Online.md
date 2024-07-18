@@ -1,0 +1,39 @@
+[source](https://github.com/ripienaar/free-for-dev#apis-data-and-ml)
+- Alwaysdata
+- backendless
+- **Back4app (Baas)**
+	- free tier available
+- AWS free tier 
+- Amazon S3
+- Microsoft Azure
+- Oracle Cloud
+- IBC Cloud
+- **Elastic Beanstalk (AWS)**
+	- free of charge , you pay for AWS resources EC2 and S3
+- Google App Engine (Paas)
+	- free quota
+- Digital Ocean 
+- Engine Yard
+	- free tier
+- Fly.io
+	- https://fly.io/
+- Render
+	- https://render.com/
+- Netifly
+- Cloudfare
+- Fathym
+- Coherence
+- Railway
+	- https://railway.app/
+- Vercel
+- Cyclic
+	- deploy full stack node js apps in seconds
+	- good for mern
+- Deta
+	- cloud for developers 
+- Fathym 
+	- micro fronted app
+- Dom Cloud
+- Adaptable
+	- https://adaptable.io/
+	

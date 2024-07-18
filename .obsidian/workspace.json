@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "e5215445e74e08c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f373635df80e2665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "900444655f38b01e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ICEBOX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73dafac5f8aa3759",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0b591ee55127ce1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd614bdfa25849f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "46b19cce34b5fa1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37fdb2c1c99900ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a6baff87b495e00f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae01d132ffa71414",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0e5d3e5913e6b07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ICEBOX.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88802346a283d681",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ICEBOX.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "415dbf50d7a0c6b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f1920c21286ea853",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ICEBOX.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "900444655f38b01e",
+  "lastOpenFiles": [
+    "Web Design.md",
+    "Portafolios.md",
+    "Dev Portfolio.md",
+    "PORTFOLIOS.md",
+    "Ameli.md",
+    "Cheapo Robot.md",
+    "Jewelry Websites.md",
+    "ICEBOX.md",
+    "Film.md",
+    "ExtremeVR.md",
+    "films.md",
+    "IMU 9250.md",
+    "mpu9250.md",
+    "Snoopy Robot.md",
+    "Journal/2023-07-03.md",
+    "piper tts.md",
+    "espeak.md",
+    "pocketbase.md",
+    "Google Apps Script.md",
+    "Braintenberg Cozy VR Game.md",
+    "Game Engines.md",
+    "3D Print.md",
+    "Obsidian.md",
+    "Git.md",
+    "Remote SSH.md",
+    "Anime.md",
+    "Untitled.canvas",
+    " (2).gitignore",
+    "ICEBOX",
+    "Day Planners",
+    "WaiterRobot",
+    "Scripts/Python",
+    "Scripts/Arduino",
+    "Scripts",
+    "ROS",
+    "MISC",
+    "Manga"
+  ]
+}
