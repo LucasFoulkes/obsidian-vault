@@ -1,176 +1,228 @@
- hello world
- parler-tts
- sunny-2 series
- why women kill , series
- what was the name of that tool that had the wifi password of like everything in like a map?
- beltmatic
- strategy  pattern in programing
- summer-time-rendering
- [AHRS algorithm](http://www.x-io.co.uk/open-source-imu-and-ahrs-algorithms/)
-dead-dead-demons-dededededestruction anime
-fluterflow
-a holder for phone that ataches to computer screen. 
-squarespace
-dutch money
-how to make a daily hourly  montly schedule in obsidian
-imgur
-Revance Therapeutics' DAXXIFY® (daxibotulinumtoxinA-lanm) 
-pico2wave
-pipertts
-Blissymbols
-pyttsx3
-tim lewis artist
-neat (ai algorithm)
-howard schatz photographer athlete
-https://pubmed.ncbi.nlm.nih.gov/27115137/
-Akazehe.md
-photopea
-Bevy (Game Engine).md
-Big dumb booster.md
-Flet (Python).md
-Gdevelop.md
-Kenney Free Assets.md
-OpenGL.md
-PICO-A.md
-PJON, FANCY ONE WIRE ARDUINO COMMUNICATIONS PROTOCOL.md
-PlatformioIO.md
-Pyxeledit.md
-Linode
-Cloudfare Tunnels
-Zerotier
-Client Architecture Patterns
-Venv
-tmole
-telebit.js
-wireguard
-openvpn
-localtunnel
-https://github.com/ekzhang/bore
-animotive
-serveo
-simple.css
-toki pona
-concrete.css
-jellyfin (remote media)
-remote node server (free), CodeSandbox , stackblitz , test with auth like passport
-rendering patterns
-ci workflow
-nx
-next 
-remix
-graphql
-Astro
-alpine.js
-htmx
-solid
-expo https://www.youtube.com/watch?v=gntZth3mIbM they have packages for like barcode scanning
-Vercel for deploying
-flutterflow
-firestore
-this gives an options for vad (speech) https://www.youtube.com/watch?v=IwhvN_Y9CVk&t=9s
-**FrontEnd**
-	reactjs
-	nextjs
-	tailwind
-	daisyui
-**Backend**
-	Serveless function nex nx next?
-	mailgun
-	stripe
-	vercel
-Acerternity
-gdevelop
-archigram
-plug-in city
-linode
-neon database
-https://appinventor.mit.edu/
-fly.io
-solidjs
-sveltekit
-versel ai sdk
-spherical actuator
-manim
-motion canvas
-remotion
-animotion
-   • FiraCode Nerd Font
-      • FiraCode Nerd Font Propo
-      • FiraCode Nerd Font Mono
-https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html)
-pyzmq
-rtabmap
-jupiter notebooks
-kalman filter
-ltspice
-kicad
-lxd
-microros
-neovim
-ncurses
-openai gym
-poetry (dependency management)
-pybullet
-gmaping
-3dcoatprint
-gazebo
-cascadeur
-flatcam
-odometry : http://www.martyncurrey.com/connecting-an-photo-interrupter-to-an-arduino/
-https://pubmed.ncbi.nlm.nih.gov/27115137/)
-venv
-pymunk
-https://brm.io/matter-js/ matterjs
-Venv
+#icebox #resources
+## Table of Contents
+- [[#Hosting and Deployment Platforms]]
+- [[#Development Tools and Frameworks]]
+- [[#AI and Machine Learning]]
+- [[#Text-to-Speech and Speech Recognition]]
+- [[#Design and Asset Resources]]
+- [[#3D Modeling and Animation]]
+- [[#Programming Concepts and Algorithms]]
+- [[#Networking and Remote Access]]
+- [[#Databases]]
+- [[#Game Development]]
+- [[#Miscellaneous Tools and Concepts]]
+- [[#Books and Media]]
+- [[#Artists and Photographers]]
+- [[#Miscellaneous Notes and Concepts]]
+- [[#Resources and References]]
+- [[#To Investigate]]
 
-FrameRate independence and DeltaTime
-[source](https://www.youtube.com/watch?v=rWtfClpWSb8&t=91s&ab_channel=ClearCode)
+## Hosting and Deployment Platforms
 
-EcoEda
+#hosting #deployment
 
-The Drunkard s Walk How Randomness Rules Our Lives
+- [Vercel](https://vercel.com/) - Platform for frontend frameworks and static sites
+- [Railway](https://railway.app/) - Infrastructure platform for developers
+- [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) - Free cloud services from Oracle
+- [RackNerd](https://www.racknerd.com/BlackFriday/) - VPS hosting provider
+- [Hostinger](https://www.hostinger.es/) - Web hosting and domain registration service
+- [Coolify](https://coolify.io/) - Self-hostable Heroku/Netlify alternative
+- [Cloudways](https://www.cloudways.com/en/?id=542363) - Managed cloud hosting platform
+- [CapRover](https://caprover.com/) - Free and open source PaaS
+- [Linode](https://www.linode.com/) - Cloud computing and hosting services
+- [PythonAnywhere](https://www.pythonanywhere.com/) - Python hosting and development environment
+- [Netlify](https://www.netlify.com/) - Web development platform for serverless deployment
+- [Render](https://render.com/) - Cloud application hosting platform
+- [Koyeb](https://www.koyeb.com/blog/new-eco-instances-the-most-affordable-way-to-deploy-apps-globally) - Serverless platform for running applications globally
+- [Fly.io](https://fly.io/) - Platform for running full-stack apps globally
+- [Supabase](https://supabase.com/) - Open source Firebase alternative
+- [Contabo](https://contabo.com/en/) - VPS and dedicated server provider
 
-Bubble; # The world’s only full-stack,  no-code platform
+## Development Tools and Frameworks
 
-Draftbit;
-With Draftbit, you can build native mobile apps, responsive web apps, and internal tools visually and collaboratively. Source code included, so you're never locked-in.
+#development #frameworks
 
-DrapCode: Best No-Code Platform to Build Web Applications
+- [IDX (by Google)](https://idx.dev/) - AI-assisted software development platform
+- [Airtable](https://www.airtable.com/) - Spreadsheet-database hybrid platform
+- [Softr](https://www.softr.io/) - No-code platform for building web apps
+- [Glide](https://www.glideapps.com/) - No-code platform for creating mobile apps
+- [GitLab](https://about.gitlab.com/) - DevOps lifecycle tool
+- [DaisyUI](https://daisyui.com/) - Tailwind CSS component library
+- [App Inventor](https://appinventor.mit.edu/) - Web platform for creating Android apps
+- Flutter - UI toolkit for building natively compiled applications
+- React.js - JavaScript library for building user interfaces
+- Next.js - React framework for production-grade applications
+- Tailwind CSS - Utility-first CSS framework
+- [Solid.js](https://www.solidjs.com/) - Declarative JavaScript library for creating user interfaces
+- [Svelte Kit](https://kit.svelte.dev/) - Framework for building web applications with Svelte
+- [Expo](https://expo.dev/) - Platform for making universal native apps for Android, iOS, and the web
+- [Alpine.js](https://alpinejs.dev/) - Lightweight JavaScript framework
+- [HTMX](https://htmx.org/) - High-power tools for HTML
+- [Astro](https://astro.build/) - Static site builder for content-driven websites
+- [Remix](https://remix.run/) - Full stack web framework
+- [GraphQL](https://graphql.org/) - Query language for APIs
+- [NX](https://nx.dev/) - Smart, fast and extensible build system
 
-Gmapping
+## AI and Machine Learning
 
-Google Appshet
+#ai #machinelearning
 
-howard schatz photographer athlete
+- [ElevenLabs](https://elevenlabs.io/) - AI voice synthesis platform
+- [Fal.ai Aura Flow](https://fal.ai/models/fal-ai/aura-flow/playground) - AI-powered image editing tool
+- [Google Gemini](https://gemini.google.com/app/c3ec7e1be4559f52) - Google's large language model
+- [AssemblyAI](https://www.assemblyai.com/pricing) - AI models for speech recognition and understanding
+- [Groq](https://groq.com/) - AI inference engine provider
+- [Hugging Face Instant Mesh](https://huggingface.co/spaces/TencentARC/InstantMesh) - 3D mesh generation from images
+- [LumaLabs Dream Machine](https://lumalabs.ai/dream-machine/creations) - AI-powered 3D asset creation
+- [MasterpieceX](https://app.masterpiecex.com/generate) - AI image generation platform
+- [Spline AI](https://app.spline.design/generate) - AI-assisted 3D design tool
+- [3D AI Studio](https://www.3daistudio.com/) - AI-powered 3D model generation
+- [LumaLabs Genie](https://lumalabs.ai/genie?view=create) - AI-powered 3D scene generation
+- [Meshy AI](https://app.meshy.ai/my-assets/generation) - AI-powered 3D asset generation
 
-kalman filter
+## Text-to-Speech and Speech Recognition
 
-kicad
+#tts #speechrecognition
 
-ltspice
+- [pyttsx3](https://pypi.org/project/pyttsx3/) - Text-to-speech conversion library for Python
+- [MARS5-TTS](https://github.com/Camb-ai/MARS5-TTS) - Text-to-speech system
+- [Edge TTS](https://github.com/rany2/edge-tts) - Microsoft Edge's online text-to-speech service
+- [MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library
+- [TextyMcSpeechy](https://github.com/domesticatedviking/TextyMcSpeechy) - Text-to-speech tool
+- Parler TTS
+- Pico2wave
+- PiperTTS
 
-lxd
+## Design and Asset Resources
 
-ncourses
+#design #assets
 
-openaigym
+- [Icons8](https://icons8.com/icons) - Icon and illustration resource
+- [Figma Batch Styler Plugin](https://www.figma.com/community/plugin/818203235789864127/batch-styler) - Figma plugin for bulk style changes
+- [Figma Similayer Plugin](https://www.figma.com/community/plugin/735733267883397781/similayer) - Figma plugin for finding similar layers
+- [Share Textures](https://www.sharetextures.com/) - Free texture resource
+- [Heroicons](https://heroicons.com/) - SVG icon set by the makers of Tailwind CSS
+- Kenney Free Assets - Free game assets and art
 
-poetry dependency management 
+## 3D Modeling and Animation
 
-pymunk
+#3d #animation
 
-pyzmq
+- [Tripo3D](https://www.tripo3d.ai/) - AI-powered 3D model generation
+- PyxelEdit - Pixel art editor and animated sprite creator
 
-rtabmap
+## Programming Concepts and Algorithms
 
-solar charged headphones 
+#programming #algorithms
 
-stacker 
+- Strategy Pattern - Behavioral design pattern for selecting an algorithm at runtime
+- NEAT (NeuroEvolution of Augmenting Topologies) - Genetic algorithm for evolving neural networks
+- [AHRS algorithm](http://www.x-io.co.uk/open-source-imu-and-ahrs-algorithms/) - Algorithm for determining orientation in 3D space
+- Kalman Filter - Algorithm for estimating unknown variables from noisy measurements
+- Frame Rate Independence and Delta Time - Technique for consistent game physics across different frame rates
+- Client Architecture Patterns - Design patterns for client-side application structure
+- Rendering Patterns - Techniques for efficient graphics rendering
+- CI Workflow - Continuous Integration practices for software development
 
-zalgo text
+## Networking and Remote Access
 
+#networking #remoteaccess
 
+- Cloudflare Tunnels - Secure way to connect local services to the internet
+- ZeroTier - Software-defined networking tool
+- WireGuard - Modern VPN protocol
+- OpenVPN - Open-source VPN solution
+- [Bore](https://github.com/ekzhang/bore) - Tool for exposing local ports to the internet
+- Serveo - SSH-based alternative to ngrok
 
+## Databases
 
+#databases
 
+- Firestore - NoSQL cloud database by Google
+- Neon Database - Serverless Postgres database
 
+## Game Development
+
+#gamedev
+
+- [Bevy](https://bevyengine.org/) - Data-driven game engine in Rust
+- [Gdevelop](https://gdevelop.io/) - Open-source game engine
+- [PICO-8](https://www.lexaloffle.com/pico-8.php) - Fantasy console for making, sharing, and playing tiny games
+- OpenGL - Cross-platform graphics API
+- PyBullet - Python module for physics simulations and robotics
+- [Matter.js](https://brm.io/matter-js/) - 2D physics engine for the web
+
+## Miscellaneous Tools and Concepts
+
+#misc #tools
+
+- [Photopea](https://www.photopea.com/) - Online photo editor
+- [PlatformIO](https://platformio.org/) - Professional collaborative platform for embedded development
+- [PJON (Arduino Communication Protocol)](https://www.pjon.org/) - Open-source network protocol for Arduino
+- Virtual Environment (venv) - Tool for creating isolated Python environments
+- Jellyfin - Open source media server
+- Simple.css - Classless CSS framework
+- Concrete.css - Minimalist CSS framework
+- Toki Pona - Minimalist constructed language
+- Bubble - No-code platform for web application development
+- Draftbit - Platform for building native mobile apps visually
+
+## Books and Media
+
+#books #media
+
+- "The Mountain in the Sea" by Ray Nayler - Science fiction novel
+- "Oryx and Crake" by Margaret Atwood - Speculative fiction novel
+- "The Ones Who Walk Away from Omelas" by Ursula K. Le Guin - Short story exploring ethical dilemmas
+- "Embassytown" by China Miéville - Science fiction novel about language and colonialism
+- "The Drunkard's Walk: How Randomness Rules Our Lives" by Leonard Mlodinow - Book on probability and randomness
+- "Why Women Kill" (TV series) - Dark comedy-drama television series
+- "Summer Time Rendering" (Anime) - Mystery thriller anime series
+- "Dead Dead Demon's Dededededestruction" (Anime) - Sci-fi manga series by Inio Asano
+
+## Artists and Photographers
+
+#artists #photographers
+
+- Tim Lewis - British sculptor known for kinetic and mechanical sculptures
+- Howard Schatz - American photographer known for underwater photography and portraits of athletes
+
+## Miscellaneous Notes and Concepts
+
+#misc #concepts
+
+- Big Dumb Booster - Conceptual low-cost space launch vehicle
+- Blissymbols - Ideographic writing system
+- Archigram - Avant-garde architectural group
+- Plug-in city - Theoretical megastructure design
+- Spherical actuator - Multi-axis rotational actuator
+
+## Resources and References
+
+#resources #references
+
+- [Free Media Heck Yeah (Reddit Wiki)](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/?rdt=60210) - Comprehensive list of free media resources
+- [Practical Python Course](https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html) - Online Python programming course
+- [Photo Interrupter Arduino Guide](http://www.martyncurrey.com/connecting-an-photo-interrupter-to-an-arduino/) - Tutorial on using photo interrupters with Arduino
+- [PubMed Article 27115137](https://pubmed.ncbi.nlm.nih.gov/27115137/) - Medical research article (specific topic unknown)
+
+## To Investigate
+
+#toinvestigate
+
+- Sunny-2 series
+- WiFi password map tool
+- Daily/hourly/monthly schedule in Obsidian
+- Akazehe.md
+- FiraCode Nerd Font variations
+- Beltmatic
+- EcoEDA
+- Solar charged headphones
+- Zalgo text
+- Dutch money
+- Revance Therapeutics' DAXXIFY® (daxibotulinumtoxinA-lanm)
+- Odometry
+- https://www.aiuncensored.info/
+- https://felo.ai/
+- 
