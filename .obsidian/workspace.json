@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICEBOX.md",
+                "file": "Jewelry Websites.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ICEBOX.md",
+                "file": "Jewelry Websites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ICEBOX.md",
+                "file": "Jewelry Websites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ICEBOX.md"
+                "file": "Jewelry Websites.md"
               }
             }
           }
@@ -149,32 +149,32 @@
   },
   "active": "900444655f38b01e",
   "lastOpenFiles": [
-    "Web Design.md",
-    "Portafolios.md",
-    "Dev Portfolio.md",
-    "PORTFOLIOS.md",
-    "Ameli.md",
-    "Cheapo Robot.md",
-    "Jewelry Websites.md",
-    "ICEBOX.md",
-    "Film.md",
-    "ExtremeVR.md",
-    "films.md",
-    "IMU 9250.md",
-    "mpu9250.md",
-    "Snoopy Robot.md",
-    "Journal/2023-07-03.md",
-    "piper tts.md",
-    "espeak.md",
-    "pocketbase.md",
-    "Google Apps Script.md",
-    "Braintenberg Cozy VR Game.md",
-    "Game Engines.md",
-    "3D Print.md",
-    "Obsidian.md",
-    "Git.md",
-    "Remote SSH.md",
+    "Better Readme.md",
+    "Arduino OTA.md",
     "Anime.md",
+    "AI-Powered Development Framework.md",
+    "Anaconda.md",
+    "3D Print.md",
+    "Create programs that can be run like normal.md",
+    "Creating and Launching a ROS 2 Python Package.md",
+    "Cheapo Robot.md",
+    "Books.md",
+    "Braintenberg Cozy VR Game.md",
+    "Film.md",
+    "Documenting Projects.md",
+    "ExtremeVR.md",
+    "Differential Drive Robot Mathematical Model.md",
+    "Development Methodologies.md",
+    "David Macaulay_s Architecture Series.md",
+    "Host a Server Online.md",
+    "Graphic Novel.md",
+    "Google Apps Script.md",
+    "Git.md",
+    "Game Engines.md",
+    "Jewelry Websites.md",
+    "Javascript.md",
+    "IMU 9250.md",
+    "Misc Python.md",
     "Untitled.canvas",
     " (2).gitignore",
     "ICEBOX",

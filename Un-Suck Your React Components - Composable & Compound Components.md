@@ -1,7 +1,4 @@
 
-
-This tutorial covers how to improve the flexibility and maintainability of your React components using the principles of **composable and compound components**, leveraged by React's context API.
-
 ## The Issue with Static Components
 
 Often, in React, you may start with a simple component that displays a product. However, as requirements grow, you might need to hide certain elements of the component, like the rating or the price. A typical solution might involve using boolean flags to control visibility. This strategy, while valid, doesn't scale well. As requirements evolve, you would need to continuously add more flags or props, making the component less flexible and harder to maintain.
