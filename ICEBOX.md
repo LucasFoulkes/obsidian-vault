@@ -251,3 +251,6 @@
 - deepseek
 - https://github.com/bulletphysics/bullet3/tree/master
 - earthsea
+- https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/
+- https://learn.circuit.rocks/esp32-cam-with-rtsp-video-streaming
+- 
