@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jewelry Websites.md",
+                "file": "ICEBOX.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jewelry Websites.md",
+                "file": "ICEBOX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jewelry Websites.md",
+                "file": "ICEBOX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jewelry Websites.md"
+                "file": "ICEBOX.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "900444655f38b01e",
   "lastOpenFiles": [
+    "Things to Watch.md",
+    "Websites Design.md",
     "Better Readme.md",
     "Arduino OTA.md",
     "Anime.md",
@@ -171,10 +173,8 @@
     "Google Apps Script.md",
     "Git.md",
     "Game Engines.md",
-    "Jewelry Websites.md",
     "Javascript.md",
     "IMU 9250.md",
-    "Misc Python.md",
     "Untitled.canvas",
     " (2).gitignore",
     "ICEBOX",

@@ -225,4 +225,29 @@
 - Odometry
 - https://www.aiuncensored.info/
 - https://felo.ai/
-- 
+- langchain
+- pip install haversine 
+- llm function calling
+- llm rag
+- https://www.dji.com/global/t30 drone for fumigation and stuff
+- https://www.naio-technologies.com/en/home/ automated farming
+- https://jmswrnr.com/ 
+- https://ideogram.ai/t/explore
+- https://aitestkitchen.withgoogle.com/tools/image-fx
+- https://civitai.com/images?tags=111757
+- https://gemini.google.com/app
+- https://makerspet.com/blog/meet-snoopy-pet-robot-model/
+- https://landingly.co/
+- https://www.inspovault.com/
+- https://www.dark.design/
+- https://mobbin.com/
+- https://www.startupwebsites.co/
+- https://www.footer.design/
+- https://ui8.net/
+- https://www.fontshare.com/
+- https://commitmono.com/
+- https://www.relume.io/
+- https://aistudio.google.com/app/prompts/new_chat?model=gemma-2-27b-it
+- deepseek
+- https://github.com/bulletphysics/bullet3/tree/master
+- earthsea
