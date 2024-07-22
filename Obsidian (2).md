@@ -1,0 +1,12 @@
+## Community Plugins
+- calendar
+- kanban
+- Emoji toolbar
+- obsidian github
+- fantasy calendar
+- dataview
+- Editor Sintax Highlight
+- readwise
+- dropbox
+- templater
+- Day Planner
