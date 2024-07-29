@@ -1,152 +1,177 @@
-- **Landscape with Invisible Hand**: About aliens, cute, there is a film adaptation. (Unread)
-- **Dragon's Egg**: Hard science fiction about tiny aliens on a neutron star. (Unread)
-- **The Gunslinger** by Stephen King: A dark fantasy that merges western and horror elements in the quest for the enigmatic Dark Tower.
-- **Book of the New Sun** by Gene Wolfe: A dense, allegorical narrative set in a far-future Earth, blending science fiction with fantasy and horror.
-- **The Passage** by Justin Cronin: An epic tale of a post-apocalyptic world reshaped by a vampiric virus, focusing on survival and humanity.
-- **Alistair Reynolds' works**: Space operas that weave together cosmic horror with deep-time science fiction, exploring the vast, eerie mysteries of the universe.
-- **The Skeleton Crew** by Stephen King: A collection featuring "The Mist," where a mysterious fog unleashes otherworldly horrors on a small town.
-- **1984** by George Orwell: A dystopian novel that delves into the horrors of totalitarianism, surveillance, and the loss of individual freedom.
-- **Frankenstein** by Mary Shelley: The foundational science fiction tale of a scientist's creation of life and the tragic consequences of abandonment.
-- **Schild's Ladder** by Greg Egan: A hard science fiction exploration of the far future where a new form of matter threatens the universe.
-- **Tau Zero** by Poul Anderson: A classic hard science fiction story centered around a space journey that accelerates to near light speed, exploring relativity and the human spirit.
-- **The Golden Book of Chemistry Experiments**: A controversial and rare book from the 1960s offering detailed instructions for young readers on setting up a home chemistry lab and conducting experiments.
-- **Legends and Lattes** by Travis Baldree: A cozy, comforting fantasy that became a runaway success, resonating deeply with readers during a time of global tension.
-- **Bookshops and Bonedust**: A sequel or prequel to Legends and Lattes, offering a warm, nostalgic dive into small-town life and the beginnings of protagonist Viv's journey, praised for its straightforward yet emotionally impactful storytelling.
-- **Shards of Earth** by Adrian Tchaikovsky
-- **Sea of Tranquility** by Emily St. John Mandel
-- **The Left Hand of Darkness** by Ursula K. Le Guin
-- **Hyperion** by Dan Simmons
-- **The Martian** by Andy Weir
-- **Recursion** by Blake Crouch
-- **The Three-Body Problem** by Liu Cixin
-- **Whalefall** by Daniel Kraus
-- **A Psalm for the Wild-Built** by Becky Chambers
-- **After Death** by Dean Koontz
-- **Dune** by Frank Herbert
-- **Androne** by Dwain Worrell
-- **Foundation** by Isaac Asimov
-- **The Martian Chronicles** by Ray Bradbury
-- **Never Die** by Rob J. Hayes
-- **The Poppy War** by R.F. Kuang
-- **Blood Song** by Anthony Ryan
-- **Kings of Paradise** by Richard Nell
-- **Beyond Redemption** by Michael R. Fletcher
-- **Black Sun Rising** by C.S. Friedman
-- **The Darkness That Comes Before** by R. Scott Bakker
-- **I Found A Circus Tent In The Woods Behind My House** by Ben Farthing
-- **House of Leaves** by Mark Z. Danielewski
-- **The Fisherman** by John Langan
-- **How To Sell A Haunted House** by Grady Hendrix
-- **The Only Good Indians** by Stephen Graham Jones
-- **The Last House On Needless Street** by Catriona Ward
-- **Penpal** by Dathan Auerbach
-- **The Wasp Factory** by Iain Banks
-- **Bluejay** by Megan Stockton
-- **Experimental Film** by Gemma Files
-- **Venomous Lumpsucker** by Ned Beauman
-- **The Coral Bones** by E J Swift
-- **Metronome** by Tom Watson
-- **The Anomaly** by Hervé Le Tellier, translated by Adriana Hunter
-- **The Red Scholar's Wake** by Aliette de Bodard
-- **Plutoshine** by Lucy Kissick
-- **Dragon's Egg** by Robert L. Forward
-- **Tau Zero** by Poul Anderson
-- **The Invincible** by Stanisław Lem
-- **Blood Music** by Greg Bear
-- **Jade City** by Fonda Lee
-- **Kings of the Wyld** by Nicholas Eames
-- **Kaikeyi** by Vaishnavi Patel
-- **The Shadow of the Gods** by John Gwynne
-- **The Inheritance of Orquídea Divina** by Zoraida Córdova
-- **She Who Became the Sun** by Shelley Parker-Chan
-- **The Jasmine Throne** by Tasha Suri
-- **Old Man's War** by John Scalzi
-- **Machines like Me** by Ian McEwan
-- **Atomic Anna** by Rachel Barenbaum
-- **The Daughter of Doctor Moreau** by Silvia Moreno-Garcia
-- **The Spare Man** by Mary Robinette Kowal
-- **Nettle & Bone** by T. Kingfisher
-- **The Kaiju Preservation Society** by John Scalzi
-- **Legends & Lattes** by Travis Baldree
-- **Even Though I Knew the End** by C.L. Polk
-- **A Mirror Mended** by Alix E. Harrow
-- **Ogres** by Adrian Tchaikovsky
-- **What Moves the Dead** by T. Kingfisher
-- **Uprooted** by Naomi Novik
-- **Neuromancer** by William Gibson
-- **Snow Crash** by Neal Stephenson
-- **Blindsight** by Peter Watts
-- **Do Androids Dream of Electric Sheep?** by Philip K. Dick
-- **A Scanner Darkly** by Philip K. Dick
-- **The Player of Games** by Iain M. Banks
-- **House of Suns** by Alastair Reynolds
-- **Ender's Game** by Orson Scott Card
-- **The First Sister** by Linden A. Lewis
-- **The Long Way to a Small, Angry Planet** by Becky Chambers
-- **Brave New World** by Aldous Huxley
-- **Nineteen Eighty-Four** by George Orwell
-- **Fahrenheit 451** by Ray Bradbury
-- **Stranger in a Strange Land** by Robert A. Heinlein
-- **The Past Through Tomorrow** by Robert A. Heinlein
-- **A Canticle for Leibowitz** by Walter M. Miller Jr.
-- **Klara and the Sun** by Kazuo Ishiguro
-- **Never Let Me Go** by Kazuo Ishiguro
-- **Parable of the Talents** by Octavia E. Butler
-- **Parable of the Sower** by Octavia E. Butler
-- **Dawn** by Octavia E. Butler
-- **Roadside Picnic** by Arkady Strugatsky and Boris Strugatsky
-- **Manifold: Time** by Stephen Baxter
-- **Diaspora** by Greg Egan
-- **Schild's Ladder** by Greg Egan
-- **Incandescence** by Greg Egan
-- **The Rage of Dragons**
-- **Fire and Song** by Bryce O'Connor
-- **The Grace of Kings** by Ken Liu
-- **Starter Villain** by John Scalzi
-- **Dungeon Crawler Carl** series by Matt Dinniman
-- **The Priory of the Orange Tree** by Samantha Shannon
-- **Spin of Fate**
-- **Guilty Pleasures** by Laurell K. Hamilton
-- **Mushroom Blues** by Adrian M. Gibson
-- **Flatterland** by Ian Stewart
-- **Fantasia Mathematica** edited by Clifton Fadiman
-- **Cryptonomicon** by Neal Stephenson
-- **Contact** by Carl Sagan
-- **Anathem** by Neal Stephenson
-- **The Cyberiad** by Stanislaw Lem
-- **Flatland** by Edwin A. Abbott
-- **White Light** by Rudy Rucker
-- **Schild's Ladder** by Greg Egan
-- **Jurassic Park** by Michael Crichton
-- **The God Patent** by Ransom Stephens
-- **The Atrocity Archives** by Charles Stross
-- **The Expanse** by James S.A. Corey: A science fiction series about a future where humanity has colonized the solar system, known for its realistic and gripping portrayal of space politics and conflict.
-- **Red Rising Saga** by Pierce Brown: A dystopian science fiction series about a world where people are divided by color, featuring a complex and engaging storyline with well-developed characters.
-- **The Murderbot Diaries** by Martha Wells: A science fiction series about a sentient robot who becomes self-aware, with a unique and relatable protagonist and thought-provoking themes.
-- **Remembrance of Earth's Past** by Liu Cixin: A science fiction trilogy about first contact with an alien civilization, featuring a blend of science, philosophy, and Chinese culture.
-- **Hainish Cycle** by Ursula K. Le Guin: A science fiction series about a future where humanity has colonized other planets, exploring themes of culture, identity, and social justice.
-- **Dune** by Frank Herbert: A classic science fiction novel about a young man who becomes the leader of a rebellion in a desert planet, known for its complex world-building and political intrigue.
-- **Foundation** by Isaac Asimov: A science fiction series about a mathematician who predicts the fall of the Galactic Empire, featuring a vast and intricate universe with complex characters and themes.
-- **The Dark Tower** by Stephen King: A fantasy series about a gunslinger on a quest to find the Dark Tower, featuring a blend of western, fantasy, and horror elements.
-- **Malazan Book of the Fallen** by Steven Erikson: A fantasy series about a world where gods and magic exist, featuring a complex and epic storyline with well-developed characters.
-- **The Poppy War** by R.F. Kuang: A fantasy novel about a young orphan who enrolls in a prestigious military academy, featuring a blend of Chinese culture and fantasy elements.
-- **A Song of Ice and Fire** by George R.R. Martin: A fantasy series about the battle for the Iron Throne in the Seven Kingdoms, known for its complex characters, political intrigue, and epic scope.
-- **Ash and Sand** by Richard Nell: A fantasy series about a world where magic and technology coexist, featuring a complex and engaging storyline with well-developed characters.
-- **Manifest Delusions** by Michael R. Fletcher: A fantasy series about a world where magic and technology coexist, featuring a unique and thought-provoking take on the genre.
-- **The Coldfire Trilogy** by C.S. Friedman: A fantasy series about a world where magic and technology coexist, featuring a complex and engaging storyline with well-developed characters.
-- **The Prince of Nothing** by R. Scott Bakker: A fantasy series about a world where magic and technology coexist, featuring a complex and thought-provoking take on the genre.
-- **The Locked Tomb** by Tamsyn Muir: A fantasy series about a world where necromancy and politics collide, featuring a unique and engaging storyline with well-developed characters.
-- **October Daye** by Seanan McGuire: A fantasy series about a half-fae private investigator, featuring a unique and engaging protagonist and a blend of mystery and fantasy elements.
-- **Rivers of London** by Ben Aaronovitch: A fantasy series about a detective who investigates supernatural crimes in London, featuring a unique and engaging protagonist and a blend of mystery and fantasy elements.
-- **The Scholomance** by Naomi Novik: A fantasy series about a school for magic, featuring a unique and engaging take on the genre with well-developed characters.
-- **The Culture** by Iain M. Banks: A science fiction series about a utopian society where humans and AI coexist, featuring a blend of philosophy, politics, and space opera elements.
-- **Revelation Space** by Alastair Reynolds: A science fiction series about a future where humanity has colonized other planets, featuring a blend of space opera and horror elements.
-- **The Quantum Thief** by Hannu Rajaniemi: A science fiction novel about a posthuman civilization, featuring a unique and thought-provoking take on the genre with complex characters and themes.
-- **Ranger's Apprentice** by John Flanagan: A fantasy series about a young boy who becomes a ranger, featuring a blend of adventure, action, and coming-of-age themes.
-- **Dragon Riders of Pern** by Anne McCaffrey: A fantasy series about a world where dragons and humans coexist, featuring a blend of adventure, romance, and science fiction elements.
-- **Graceling Realm** by Kristin Cashore: A fantasy series about a world where people with special abilities are feared and persecuted, featuring a unique and engaging take on the genre with well-developed characters.
-- **The Hunger Games** by Suzanne Collins: A dystopian science fiction series about a future where children are forced to fight to the death, featuring a thought-provoking and engaging take on the genre with complex characters and themes.
-- **The Broken Earth** by N.K. Jemisin: A fantasy series about a world where natural disasters called "Fifth Seasons" have caused widespread destruction, featuring a unique and thought-provoking take on the genre with complex characters and themes.
-- **Wayward Children** by Seanan McGuire: A fantasy series about a school for children who have gone to other worlds, featuring a unique and engaging take on the genre with well-developed characters.
-- **The Singing Hills Cycle** by Nghi Vo: A fantasy series about a world where magic and music are intertwined, featuring a unique and thought-provoking take on the genre with complex characters and themes.
-- **Fractured Fables** by Alix E. Harrow: A fantasy series about a world where fairy tales are real, featuring a unique and engaging take on the genre with well-developed characters.
+# Organized Science Fiction and Fantasy Book List
+
+## Classic Science Fiction
+- "1984" by George Orwell
+- "The Time Machine" by H.G. Wells
+- "The War of the Worlds" by H.G. Wells
+- "Brave New World" by Aldous Huxley
+- "Fahrenheit 451" by Ray Bradbury
+- "The Martian Chronicles" by Ray Bradbury
+- "Foundation" series by Isaac Asimov
+- "Dune" by Frank Herbert
+- "Stranger in a Strange Land" by Robert A. Heinlein
+- "The Past Through Tomorrow" by Robert Heinlein
+- "A Canticle for Leibowitz" by Walter M. Miller Jr.
+- "The Demolished Man" by Alfred Bester
+- "The Stars My Destination" by Alfred Bester
+- "The Dispossessed" by Ursula K. Le Guin
+- "The Left Hand of Darkness" by Ursula K. Le Guin
+- "Childhood's End" by Arthur C. Clarke
+- "Rendezvous with Rama" by Arthur C. Clarke
+
+## New Wave and Cyberpunk
+- "Neuromancer" by William Gibson
+- "Snow Crash" by Neal Stephenson
+- "The Diamond Age" by Neal Stephenson
+- "Dhalgren" by Samuel R. Delany
+- "Roadside Picnic" by Arkady and Boris Strugatsky
+- "The Lathe of Heaven" by Ursula K. Le Guin
+- "A Scanner Darkly" by Philip K. Dick
+- "Do Androids Dream of Electric Sheep?" by Philip K. Dick
+- "VALIS" by Philip K. Dick
+- "Slaughterhouse-Five" by Kurt Vonnegut
+- "Stand on Zanzibar" by John Brunner
+
+## Hard Science Fiction
+- "The Martian" by Andy Weir
+- "Project Hail Mary" by Andy Weir
+- "Red Mars" by Kim Stanley Robinson
+- "The Expanse" series by James S. A. Corey
+- "Tau Zero" by Poul Anderson
+- "Dragon's Egg" by Robert L. Forward
+- "Schild's Ladder" by Greg Egan
+- "Diaspora" by Greg Egan
+- "Incandescence" by Greg Egan
+- "Manifold: Time" by Stephen Baxter
+
+## Space Opera
+- "Hyperion" by Dan Simmons
+- "Consider Phlebas" by Iain M. Banks
+- "Leviathan Wakes" by James S. A. Corey
+- "Sun Eater" series by Christopher Ruocchio
+- "Revelation Space" by Alastair Reynolds
+- "House of Suns" by Alastair Reynolds
+
+## Military Science Fiction
+- "The Forever War" by Joe Haldeman
+- "Ender's Game" by Orson Scott Card
+- "Old Man's War" by John Scalzi
+
+## Time Travel
+- "11/22/63" by Stephen King
+- "The Time Machine" by H.G. Wells
+- "Doomsday Book" by Connie Willis
+
+## Dystopian/Post-Apocalyptic
+- "The Handmaid's Tale" by Margaret Atwood
+- "The Road" by Cormac McCarthy
+- "The Passage" by Justin Cronin
+- "Parable of the Sower" by Octavia E. Butler
+- "Parable of the Talents" by Octavia E. Butler
+
+## Alternate History
+- "The Man in the High Castle" by Philip K. Dick
+
+## Contemporary Science Fiction
+- "The Three-Body Problem" by Cixin Liu
+- "Ancillary Justice" by Ann Leckie
+- "The Broken Earth" trilogy by N.K. Jemisin
+- "Exhalation" by Ted Chiang
+- "This Is How You Lose the Time War" by Amal El-Mohtar and Max Gladstone
+- "Klara and the Sun" by Kazuo Ishiguro
+- "Never Let Me Go" by Kazuo Ishiguro
+- "The Quantum Thief" by Hannu Rajaniemi
+
+## Fantasy
+- "The Dark Tower" series by Stephen King
+- "Malazan Book of the Fallen" by Steven Erikson
+- "The Poppy War" by R.F. Kuang
+- "A Song of Ice and Fire" by George R.R. Martin
+- "The Name of the Wind" by Patrick Rothfuss
+- "The Priory of the Orange Tree" by Samantha Shannon
+- "Uprooted" by Naomi Novik
+- "The Scholomance" series by Naomi Novik
+- "The Greenbone Saga" by Fonda Lee
+- "Best Served Cold" by Joe Abercrombie
+- "The Shadow of the Gods" by John Gwynne
+- "The Inheritance of Orquídea Divina" by Zoraida Córdova
+- "She Who Became the Sun" by Shelley Parker-Chan
+- "The Jasmine Throne" by Tasha Suri
+- "Legends & Lattes" by Travis Baldree
+- "Thornhedge" by T. Kingfisher
+- "The Grace of Kings" by Ken Liu
+
+## Horror and Weird Fiction
+- "House of Leaves" by Mark Z. Danielewski
+- "The Fisherman" by John Langan
+- "How To Sell A Haunted House" by Grady Hendrix
+- "The Only Good Indians" by Stephen Graham Jones
+- "Pet Sematary" by Stephen King
+- "The Skeleton Crew" by Stephen King
+
+## Short Story Collections
+- "The Big Book of Science Fiction" edited by Ann VanderMeer and Jeff VanderMeer
+- "Exhalation" by Ted Chiang
+- "Stories of Your Life and Others" by Ted Chiang
+- "The Cyberiad" by Stanislaw Lem
+- "White Cat, Black Dog" by Kelly Link
+
+## Recent Publications (as of 2024)
+- "The Last Human" by Zack Jordan
+- "The Mercy of Gods" by James S.A. Corey
+- "Ghost Station" by S.A. Barnes
+- "Annie Bot: A Novel" by Sierra Greer
+- "The Last Murder at the End of the World" by Stuart Turton
+- "The Djinn Waits A Hundred Years" by Shubnum Khan
+- "The Parliament" by Aimee Pokwatka
+- "Bride" by Ali Hazelwood
+- "The Tainted Cup" by Robert Jackson Bennett
+- "The Book of Love" by Kelly Link
+- "What Feasts at Night" by T. Kingfisher
+- "The Warm Hands of Ghosts" by Katherine Arden
+- "The Butcher of the Forest" by Premee Mohamed
+- "Thirst" by Marina Yuszczuk
+- "Cascade Failure" by L.M. Sagas
+- "The Woods All Black" by Lee Mandelo
+- "A Fate Inked in Blood" by Danielle L. Jensen
+- "The Other Valley" by Scott Alexander Howard
+- "An Education in Malice" by S.T. Gibson
+- "The Fox Wife" by Yangsze Choo
+- "The Ministry of Time" by Kaliane Bradley
+- "When Among Crows" by Veronica Roth
+- "Road to Ruin" by Hana Lee
+- "Archangels of Funk" by Andrea Hairston
+- "The Silverblood Promise" by James Logan
+- "Lost Ark Dreaming" by Suyi Davies Okungbowa
+- "Escape Velocity" by Victor Manibo
+- "Goddess of the River" by Vaishnavi Patel
+- "Dreadful" by Caitlin Rozakis
+- "Womb City" by Tlotlo Tsamaase
+- "A Song of Legends Lost" by MH Aende
+- "System Collapse" by Martha Wells
+- "Witch King" by Martha Wells
+- "A House with Good Bones" by T. Kingfisher
+- "Promises Stronger than Darkness" by Charlie Jane Anders
+- "The Saint of Bright Doors" by Vajra Chandrasekera
+- "The Rainbow Bank" by Unathi Magubeni
+- "How to Raise a Kraken in Your Bathtub" by P. Djèlí Clark
+- "Silent Spaces" by Mary Robinette Kowal
+- "Elric the Necromancer" by Michael Moorcock
+- "Sabriel" by Garth Nix
+- "The Tomb of Haron" by Damen Francis
+- "Neon Ghosts" by Daniel Green
+
+## Miscellaneous
+- "Hitchhiker's Guide to the Galaxy" by Douglas Adams
+- "Ready Player One" by Ernest Cline
+- "Dark Matter" by Blake Crouch
+- "Recursion" by Blake Crouch
+- "Piranesi" by Susanna Clarke
+- "Flatland" by Edwin A. Abbott
+- "Flatterland" by Ian Stewart
+- "Jurassic Park" by Michael Crichton
+- "Contact" by Carl Sagan
+- "Anathem" by Neal Stephenson
+- "Cryptonomicon" by Neal Stephenson
+
+Note: This list is not exhaustive and some works may fit into multiple categories.
