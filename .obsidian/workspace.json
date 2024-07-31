@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c3aa4091fb90f00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a6baff87b495e00f",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books.md",
+                "file": "Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books.md",
+                "file": "Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books.md"
+                "file": "Databases.md"
               }
             }
           }
@@ -172,11 +185,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff470b65040f9f0b",
+  "active": "a1bc16585f3d7cab",
   "lastOpenFiles": [
+    "Database Documentation.md",
+    "Web Design.md",
+    "Books.md",
     "Untitled 2.md",
     "Databases.md",
-    "Web Design.md",
     "ICEBOX.md",
     "Things to Watch.md",
     "Websites Design.md",
@@ -189,7 +204,6 @@
     "Create programs that can be run like normal.md",
     "Creating and Launching a ROS 2 Python Package.md",
     "Cheapo Robot.md",
-    "Books.md",
     "Braintenberg Cozy VR Game.md",
     "Film.md",
     "Documenting Projects.md",
@@ -199,7 +213,6 @@
     "David Macaulay_s Architecture Series.md",
     "Host a Server Online.md",
     "Graphic Novel.md",
-    "Google Apps Script.md",
     "Untitled.canvas",
     " (2).gitignore",
     "ICEBOX",
