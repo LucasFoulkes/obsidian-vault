@@ -1,0 +1,9 @@
+{
+  "things-style@@fancy-code": true,
+  "things-style@@fancy-highlight": true,
+  "things-style@@strong-color": "#3194FF",
+  "things-style@@default-font-color": false,
+  "things-style@@progress-color": false,
+  "things-style@@em-color": "#8482FF",
+  "things-style@@h4-color": "#266AFF"
+}

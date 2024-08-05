@@ -173,5 +173,53 @@
 - "Contact" by Carl Sagan
 - "Anathem" by Neal Stephenson
 - "Cryptonomicon" by Neal Stephenson
-
+1. "2001: A Space Odyssey" by Arthur C. Clarke
+2. "Ring" by Stephen Baxter
+3. "Dragon's Egg" by Robert L. Forward
+4. "Permutation City" by Greg Egan
+5. "The Three-Body Problem" by Liu Cixin
+1. **"They're Made Out of Meat"** by Terry Bisson
+2. **"Welcome to the Medical Clinic at the Interplanetary Relay Station | Hours Since the Last Patient Death: 0"** by Caroline M. Yoachim
+3. **"When the Yogurt Took Over"** by John Scalzi
+4. **"Transcript of Interaction Between Astronaut Mike Scudderman and the OnStar Hands-Free A.I. Crash Advisor"** by Grady Hendrix
+5. **"Wikihistory"** by Desmond Warzel
+6. **"In the Forests of Memory"** by E. Lily Yu
+7. **"Presence"** by Ken Liu
+8. **"The Great Silence"** by Ted Chiang
+9. **"About Nothing"** by Isaac Asimov
+10. **"The Manhattan Telephone Book (Abridged)"** by John Valley
+11. **"The Choice"** by W. Hilton-Young
+12. **"Day Million"** by Frederik Pohl
+13. **"The Egg"** by Andy Weir
+14. **"Those Who Walk Away from Omelas"** by Ursula K. Le Guin
+15. **"STET"** by Sarah Gailey
+16. **"The Nine Billion Names of God"** by Arthur C. Clarke
+17. **"There Will Come Soft Rains"** by Ray Bradbury
+18. **"The King of Beasts"** by Philip José Farmer
+19. **"Evil Robot Monkey"** by Mary Robinette Kowal
+20. **"When We Went to See the End of the World"** by Robert Silverberg
+21. **"The Beast That Shouted Love at the Heart of the World"** by Harlan Ellison
+22. **"Aye, and Gomorrah"** by Samuel R. Delany
+23. **"Box 27"** by an unnamed author in Nature's weekly SF story series.
+1. **My Dear Friend Nootan**: A schoolgirl with antlers and a princess hiding a delinquent past.
+2. **Suicide Squad Isekai**: The Suicide Squad in an isekai world.
+3. **VTuber Legend**: A VTuber accidentally becomes famous after a streaming mistake.
+4. **Toono Certainly Gives Her A Run For Her Money**: A go-getter girl and her senpai deal with societal issues.
+5. **No Longer Allowed In Another World**: A famous literary figure in an isekai world.
+6. **The Elusive Samurai**: Hojo Tokiyuki's journey after escaping a coup.
+7. **Makin' Too Many Losing Heroins**: A background character helps forlorn childhood friends.
+8. **Shiman How To Become Ordinary**: Neuroatypical detectives solve mundane mysteries.
+9. **Alia Sometimes Hides Her Feelings In Russian**: A boy understands his crush’s Russian insults.
+10. **Wistoria Wand and Sword**: A fighter at a magic school fulfills a promise.
+11. **Mayonaka Punch**: A YouTuber teams up with a vampire to reclaim fame.
+12. **Nar Nar Cheer For You**: A cheerleading squad overcomes challenges.
+13. **Sakuna of Rice and Ruin**: A farming RPG adaptation.
+14. **Days with My Stepsister**: Step-siblings fall in love.
+15. **Twilight Out of Focus**: A love triangle in a student film club.
+16. **Atrey My Dear Moments**: A post-apocalyptic sci-fi story.
+17. **Dalia In Bloom**: An overworked hero in an isekai world.
+18. **Pseudo Harem**: A drama club senpai's kohai switches roles.
+19. **Guaru Otaku Twins**: Twins compete for their childhood friend.
+20. **Journey Through Another World Raising Kids While Adventuring**: An isekai about adventuring and raising kids.
+21. **Isekai Quality Assurance**: A glitched NPC follows a hero's adventures.
 Note: This list is not exhaustive and some works may fit into multiple categories.

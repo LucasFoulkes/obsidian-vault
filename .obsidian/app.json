@@ -2,5 +2,7 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "showRibbon": true,
+  "spellcheck": true
 }

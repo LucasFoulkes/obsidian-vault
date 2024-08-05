@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "e5215445e74e08c7",
+    "id": "52e70278ce261b5e",
     "type": "split",
     "children": [
       {
-        "id": "e4a1c8bfd2163bb0",
+        "id": "1bfd530bc626f613",
         "type": "tabs",
         "children": [
           {
-            "id": "687153e49f23b0e6",
+            "id": "01923b97f946fa8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ICEBOX.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,25 +21,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "73dafac5f8aa3759",
+    "id": "54b50533c573723b",
     "type": "split",
     "children": [
       {
-        "id": "c0b591ee55127ce1",
+        "id": "281fb68047fc80ac",
         "type": "tabs",
         "children": [
           {
-            "id": "fd614bdfa25849f4",
+            "id": "5be348ebe21e630d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "46b19cce34b5fa1f",
+            "id": "b5cf0c56d31befa2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "37fdb2c1c99900ec",
+            "id": "396ec4ba9cece5a6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "a6baff87b495e00f",
+    "id": "ffb671721951ba4b",
     "type": "split",
     "children": [
       {
-        "id": "ae01d132ffa71414",
+        "id": "fd5f793a1d269be4",
         "type": "tabs",
         "children": [
           {
-            "id": "e0e5d3e5913e6b07",
+            "id": "b43ec9aa0e59be5e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ICEBOX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "88802346a283d681",
+            "id": "e04629e1943f1841",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ICEBOX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "415dbf50d7a0c6b3",
+            "id": "936b3710250714fa",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "f1920c21286ea853",
+            "id": "e668dda23555b68a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ICEBOX.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,44 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "687153e49f23b0e6",
-  "lastOpenFiles": [
-    "Books.md",
-    "ICEBOX.md",
-    "ICEBOX/VoiceFlow.md",
-    "Web Design.md",
-    "Canan Valley.md",
-    "Piko.md",
-    "Producción, Cosecha y Almacenamiento de Rosas.md",
-    "Database Documentation.md",
-    "Databases.md",
-    "Things to Watch.md",
-    "Websites Design.md",
-    "Better Readme.md",
-    "Arduino OTA.md",
-    "Anime.md",
-    "AI-Powered Development Framework.md",
-    "Anaconda.md",
-    "3D Print.md",
-    "Create programs that can be run like normal.md",
-    "Creating and Launching a ROS 2 Python Package.md",
-    "Cheapo Robot.md",
-    "Braintenberg Cozy VR Game.md",
-    "Film.md",
-    "Documenting Projects.md",
-    "ExtremeVR.md",
-    "Differential Drive Robot Mathematical Model.md",
-    "Development Methodologies.md",
-    "Untitled.canvas",
-    " (2).gitignore",
-    "ICEBOX",
-    "Day Planners",
-    "WaiterRobot",
-    "Scripts/Python",
-    "Scripts/Arduino",
-    "Scripts",
-    "ROS",
-    "MISC",
-    "Manga"
-  ]
+  "active": "01923b97f946fa8a",
+  "lastOpenFiles": []
 }

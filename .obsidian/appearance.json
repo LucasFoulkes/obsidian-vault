@@ -2,5 +2,10 @@
   "accentColor": "",
   "showViewHeader": false,
   "cssTheme": "Things",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "nativeMenus": false
 }
