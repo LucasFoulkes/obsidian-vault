@@ -1,530 +1,340 @@
-# Canaan Valle: Procesos Operacionales, Requisitos y KPIs 
-
-## **I. Producción**
+# Canaan Valle: Procesos Operacionales, Requisitos y KPIs
+
+## Índice
+
+ [[#1. Producción]]
+ [[#2.Ventas y Marketing]]
+ [[#3.Finanzas]]
+ [[#4.Recursos Humanos]]
+ [[#5.Legal y Cumplimiento]]
+ [[#6.Tecnología e Infraestructura]]
+ [[#7.Gestión de Proyectos]]
+ [[#8.Gestión de Mantenimiento]]
+ [[#9.Gestión de Documentos]]
+ [[#10.Gestión de Activos]]
+ [[#11.Gestión de Riesgos]]
+
+## 1. Producción
+ [[#1.1 Pre-Plantación]]
+ [[#1.2 Plantación]]
+ [[#1.3 Gestión del Crecimiento]]
+ [[#1.4 Cosecha]]
+ [[#1.5 Manejo Post-Cosecha]]
+
+### 1.1 Pre-Plantación
+
+| Proceso                     | Requisitos                                                                                                      | Frecuencia                      | KPIs                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------|
+| **Selección de Variedades** | - Investigación de mercado - Análisis de datos climáticos - Evaluación de variedades - Consulta con expertos | Anual o según sea necesario      | - Nuevas variedades introducidas - Tasa de éxito - Costo de introducción |
+| **Preparación del Suelo**   | - Análisis del suelo (nutrientes, pH, estructura) - Aplicación de enmiendas (composta, fertilizantes) - Labranza | Estacional (pre-siembra)         | - Niveles de nutrientes - pH del suelo - Costo de preparación por hectárea |
+
+### 1.2 Plantación
+
+| Proceso                     | Requisitos                                                                                                      | Frecuencia                      | KPIs                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------|
+| **Técnicas de Plantación**  | - Herramientas adecuadas - Conocimiento específico de la variedad - Personal capacitado                        | Estacional                      | - Tasa de éxito - Tiempo de plantación por hectárea - Costo de mano de obra |
+
+### 1.3 Gestión del Crecimiento
+
+| Proceso                     | Requisitos                                                                                                      | Frecuencia                      | KPIs                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------|
+| **Riego**                   | - Sistema de riego por goteo - Fuente de agua confiable - Sensores de humedad - Controladores programables      | Diario o según sea necesario    | - Uso de agua por planta - Eficiencia del sistema |
+| **Fertilización**           | - Pruebas de suelo regulares - Aplicación de fertilizantes según las pruebas del suelo                          | Semanal, mensual o según sea necesario | - Tasa de crecimiento - Calidad de la floración |
+| **Control de Plagas y Enfermedades** | - Programa MIP - Monitoreo regular - Tratamiento oportuno                                                 | Monitoreo semanal, tratamiento según sea necesario | - Incidencia de plagas/enfermedades - Costo de control |
+| **Mantenimiento de Invernaderos** | - Técnicos calificados - Presupuesto para mantenimiento/actualizaciones - Reemplazo de plástico                | Mantenimiento regular, actualizaciones según sea necesario | - Eficacia del control climático - Costo de mantenimiento |
+| **Monitoreo del Crecimiento y Tiempo de Cosecha** | - Evaluación regular de la etapa de crecimiento - Inspección visual                                        | Continuo, aumentando a medida que se acerca la madurez | - Precisión del tiempo de cosecha - Porcentaje de rosas cosechadas |
+
+### 1.4 Cosecha
+
+| Proceso                     | Requisitos                                                                                                      | Frecuencia                      | KPIs                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------|
+| **Cosecha**                 | - Herramientas de corte afiladas - Capacitación de los cosechadores - "Capuchones" protectores para protección UV | Continuo, basado en la madurez de la rosa | - Eficiencia de la cosecha - Porcentaje de rosas dañadas |
+
+### 1.5 Manejo Post-Cosecha
+
+| Proceso                                     | Requisitos                                                                                                 | Frecuencia                      | KPIs                                                                     |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------ |
+| **Transporte a la Planta de Clasificación** | - Transporte con temperatura controlada - Carga/descarga cuidadosa                                         | Diario o según sea necesario    | - Tiempo de transporte - Consistencia de la temperatura                  |
+| **Clasificación y Selección**               | - Mesas de clasificación iluminadas - Criterios estandarizados - Personal capacitado                       | Continuo, al llegar a la planta | - Precisión de la clasificación - Tiempo por lote                        |
+| **Teñido de Rosas**                         | - Rosas blancas de alta calidad - Soluciones de tinte seguras - Equipo de teñido adecuado                  | Según sea necesario             | - Tasa de éxito del teñido - Consistencia y uniformidad del color        |
+| **Almacenamiento en Frío**                  | - Cámaras frigoríficas con control de temperatura y humedad                                                | Continuo                        | - Consistencia de temperatura/humedad - Eficiencia energética            |
+| **Empaquetado**                             | - Soluciones de hidratación con conservantes - Materiales de empaque de alta calidad - Personal capacitado | Según sea necesario             | - Eficiencia del empaquetado - Costo por rosa - Satisfacción del cliente |
+
+## 2. Ventas y Marketing
+
+ [[#2.1 Investigación y Análisis de Mercado]]
+ [[#2.2 Estrategia de Ventas y Marketing]]
+ [[#2.3 Logística y Transporte]]
 
-### **A. Pre-Plantación**
+### 2.1 Investigación y Análisis de Mercado
+
+| Proceso                                 | Requisitos                                                                                | Frecuencia | KPIs                                                                  |
+| --------------------------------------- | ----------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------- |
+| **Identificación del Mercado Objetivo** | - Investigación de mercado para definir perfiles de clientes                              | Continuo   | - Nuevos mercados objetivo identificados - Cuota de mercado           |
+| **Análisis de la Competencia**          | - Identificar competidores clave - Analizar precios, productos, estrategias, distribución | Continuo   | - Cuota de mercado de la competencia - Comparaciones de precios       |
+| **Monitoreo de Tendencias del Sector**  | - Mantenerse informado sobre las tendencias del sector                                    | Continuo   | - Conocimiento de las tendencias emergentes - Adopción de tecnologías |
 
-1. **Selección de Variedades (Proceso Clave)**
-    * **Requisitos:**  Investigación de mercado (tendencias, preferencias, competencia), análisis de datos climáticos, evaluación de variedades (resistencia a enfermedades, rendimiento), consulta con expertos.
-    * **Frecuencia:** Anual, o según sea necesario.
-    * **KPI:** Nuevas variedades de alto rendimiento introducidas, tasa de éxito, costo de introducción.
-
-2. **Preparación del Suelo**
-    * **Requisitos:** Análisis del suelo (nutrientes, pH, estructura), aplicación de enmiendas (compost, fertilizantes), labranza.
-    * **Frecuencia:** Estacional (pre-siembra).
-    * **KPI:** Niveles de nutrientes, pH del suelo, costo de preparación por hectárea. 
-
-### **B. Plantación**
-
-1. **Técnicas de Plantación**
-    * **Requisitos:** Herramientas adecuadas, conocimiento específico de la variedad (profundidad, espaciado, soporte), personal capacitado.
-    * **Frecuencia:** Estacional.
-    * **KPI:** Tasa de éxito, tiempo de plantación por hectárea, costo de mano de obra.
-
-### **C. Gestión del Crecimiento**
-
-1. **Riego**
-    * **Requisitos:**  Sistema de riego por goteo, fuente de agua confiable, sensores de humedad, controladores programables.
-    * **Frecuencia:** Diario o según sea necesario.
-    * **KPI:** Uso de agua por planta, eficiencia del sistema (pérdidas, cobertura). 
-
-2. **Fertilización**
-    * **Requisitos:** Pruebas de suelo regulares, aplicación de fertilizantes según las pruebas del suelo y las necesidades de las plantas.
-    * **Frecuencia:** Semanal, mensual o según sea necesario.
-    * **KPI:** Tasa de crecimiento, calidad de la floración (tamaño, forma, color, conteo de pétalos, vida en florero). 
-
-3. **Control de Plagas y Enfermedades**
-    * **Requisitos:** Programa MIP (priorizando controles biológicos), monitoreo regular (trampas, inspecciones), tratamiento oportuno (biológico primero, pesticidas como último recurso).
-    * **Frecuencia:** Monitoreo semanal, tratamiento según sea necesario.
-    * **KPI:** Incidencia de plagas/enfermedades, costo de control por hectárea, uso de pesticidas.
-
-4. **Mantenimiento de Invernaderos**
-    * **Requisitos:** Técnicos calificados, presupuesto para mantenimiento/actualizaciones/energía, reemplazo periódico de plástico.
-    * **Frecuencia:** Mantenimiento regular, actualizaciones según sea necesario, reemplazo de plástico según la vida útil.
-    * **KPI:** Eficacia del control climático, eficiencia de los sistemas (riego, iluminación), costo de mantenimiento, consumo de energía. 
-
-5. **Monitoreo del Crecimiento y Tiempo de Cosecha**
-    * **Requisitos:** Evaluación regular de la etapa de crecimiento, inspección visual, sistemas de registro de datos (opcional).
-    * **Frecuencia:** Continuo, aumentando a medida que se acerca la madurez.
-    * **KPI:** Precisión del tiempo de cosecha, porcentaje de rosas cosechadas en/antes/después de la etapa ideal. 
-
-### **D. Cosecha**
-
-1. **Cosecha (Proceso Clave)**
-    * **Requisitos:** Herramientas de corte afiladas, capacitación de los cosechadores (técnicas, longitud del tallo, manejo), "capuchones" protectores para protección UV.
-    * **Frecuencia:** Continuo, según la madurez de la rosa.
-	    * **KPI:** Eficiencia de la cosecha (rendimiento por hora de trabajo), porcentaje de rosas dañadas/inutilizables.
-
-### **E. Manipulación Post-Cosecha**
-
-1. **Transporte a la Planta de Clasificación**
-    * **Requisitos:** Transporte con temperatura controlada, carga/descarga cuidadosa.
-    * **Frecuencia:** Diario o según sea necesario.
-    * **KPI:** Tiempo de transporte, consistencia de la temperatura, porcentaje de rosas dañadas.
-
-2. **Clasificación y Selección (Proceso Clave)**
-    * **Requisitos:** Mesas de clasificación iluminadas, criterios estandarizados (longitud del tallo, tamaño de la flor, calidad), personal capacitado.
-    * **Frecuencia:** Continuo, al llegar a la planta.
-    * **KPI:** Precisión de la clasificación, tiempo por lote.
-
-3. **Teñido de Rosas**
-    * **Requisitos:** Rosas blancas de alta calidad, soluciones de tinte seguras, equipo de teñido adecuado. 
-    * **Frecuencia:** Según sea necesario, según la demanda. 
-    * **KPI:** Tasa de éxito del teñido, consistencia y uniformidad del color. 
-
-4. **Almacenamiento en Frío**
-    * **Requisitos:** Cámaras frigoríficas con control de temperatura y humedad.
-    * **Frecuencia:** Continuo, para rosas clasificadas antes del embalaje.
-    * **KPI:** Consistencia de temperatura/humedad, eficiencia energética, duración del almacenamiento.
-
-5. **Envasado**
-    * **Requisitos:** Soluciones de hidratación con conservantes, materiales de envasado de alta calidad, personal capacitado.
-    * **Frecuencia:** Según sea necesario para el cumplimiento de pedidos. 
-    * **KPI:** Eficiencia del envasado (rosas por hora), costo por rosa, satisfacción del cliente.
-
-**II. Comercial**
-
-**A. Investigación & Análisis de Mercado**
-
-1. **Identificación del Mercado Objetivo**
-    * **Requisitos:** Investigación de mercado para definir perfiles de clientes. 
-    * **Frecuencia:** Continuo.
-    * **KPI:** Nuevos mercados objetivo identificados, cuota de mercado, costo de adquisición.
-
-2. **Análisis de la Competencia**
-    * **Requisitos:** Identificar competidores clave, analizar sus precios, productos, estrategias, distribución, fortalezas y debilidades. 
-    * **Frecuencia:** Continuo. 
-    * **KPI:** Cuota de mercado de la competencia, comparaciones de precios, oferta de productos.
-
-3. **Monitoreo de Tendencias del Sector**
-    * **Requisitos:**  Mantenerse informado sobre las tendencias del sector (variedades, preferencias, demandas, tecnología, sostenibilidad).
-    * **Frecuencia:** Continuo.
-    * **KPI:** Conocimiento de las tendencias emergentes, adopción de tecnologías, identificación de amenazas/oportunidades.
-
-**B. Estrategia de Ventas y Marketing**
-
-1. **Estrategia de Precios**
-   a. **Pedidos Permanentes:**
-      * **Requisitos:** Precios basados en volumen, frecuencia de entrega, variedad, acuerdos negociados.
-      * **Frecuencia:** Negociación anual, ajustes según mercado/insumos.
-      * **KPI:** Precio medio por tallo, volumen vendido, retención de clientes.
-   b. **Ventas en Mercado Abierto:**
-      * **Requisitos:**  Precios dinámicos basados en demanda, competencia, estacionalidad, calidad.
-      * **Frecuencia:** Ajustes regulares.
-      * **KPI:** Precio medio, volumen de ventas, margen de beneficio.
-
-2. **Gestión de Canales de Venta**
-   a. **Ventas Directas:**
-      * **Requisitos:**  Construir/mantener relaciones, comprender necesidades, procesar pedidos, garantizar entregas. 
-      * **Frecuencia:** Continuo.
-      * **KPI:**  Ingresos, costo de adquisición, retención, valor medio del pedido, satisfacción. 
-   b. **Distribución Mayorista:**
-      * **Requisitos:**  Identificar mayoristas, negociar términos, asegurar entregas, monitorear rendimiento.
-      * **Frecuencia:** Continuo.
-      * **KPI:** Ingresos, número de socios, tamaño medio del pedido, margen de beneficio. 
-
-3. **Gestión de Pedidos**
-   a. **Cumplimiento de Pedidos Permanentes:** 
-      * **Requisitos:**  Sistema de gestión, cumplimiento oportuno, coordinación con producción.
-      * **Frecuencia:**  Según cronograma (semanal, mensual).
-      * **KPI:**  Cumplimiento a tiempo, precisión de pedidos, satisfacción del cliente. 
-   b. **Procesamiento de Pedidos del Mercado Abierto:** 
-      * **Requisitos:**  Sistema eficiente para recibir/procesar pedidos, confirmar disponibilidad, generar facturas, coordinar entrega.
-      * **Frecuencia:** Continuo.
-      * **KPI:** Tiempo de procesamiento, precisión de pedidos, entrega a tiempo, satisfacción del cliente.
-
-4. **Campañas de Marketing y Promoción**
-   a. **Marketing Digital (Sitio Web, Redes Sociales):**
-      * **Requisitos:**
-        * **Sitio Web:**  Desarrollo y mantenimiento de un sitio web profesional.
-        * **SEO:**  Estrategias de optimización de motores de búsqueda.
-        * **Redes Sociales:**  Gestión de redes sociales con contenido atractivo.
-        * **Email Marketing:** Campañas de correo electrónico.
-        * **Publicidad Pagada:**  Campañas en motores de búsqueda y redes sociales.
-      * **Frecuencia:** Mantenimiento web continuo, actualizaciones regulares en redes sociales, esfuerzos continuos de SEO, campañas de correo electrónico según sea necesario, publicidad pagada según presupuesto/objetivos.
-      * **KPI:** Tráfico web, conversiones del sitio web, interacción en redes sociales, tasas de apertura/clics de correo electrónico, CPC, ROAS.
-   b. **Medios Impresos y Tradicionales:**
-      * **Requisitos:**
-          * **Publicidad Impresa:** Anuncios en publicaciones relevantes.
-          * **Relaciones Públicas:** Comunicados de prensa y kits de prensa.
-          * **Marketing Directo por Correo:** Campañas de correo directo (postales, folletos). 
-      * **Frecuencia:**  Por campaña, según sea necesario para objetivos de marketing, promociones o lanzamientos de productos.
-      * **KPI:** Alcance y frecuencia de la publicidad, generación de clientes potenciales, cobertura mediática. 
-   c. **Eventos y Ferias Comerciales:**
-      * **Requisitos:** 
-          * **Participación en Eventos:**  Identificar eventos relevantes del sector para participar. 
-          * **Diseño de Stand:** Diseño de stand atractivo.
-          * **Materiales de Marketing:** Creación de folletos, volantes, tarjetas de visita, muestras de productos. 
-          * **Capacitación del Personal:** Capacitar al personal en comunicación, conocimiento del producto y generación de clientes potenciales.
-      * **Frecuencia:** Según el calendario de eventos y el presupuesto. 
-      * **KPI:** Clientes potenciales generados, visibilidad de la marca, comentarios de los asistentes, nuevos contactos, costo por cliente potencial.
-
-**C. Logística y Transporte (Proceso Clave)**
-
-1. **Entrega del Producto**
-    * **Requisitos:**  Proveedores de renombre con experiencia en cadena de frío, software de optimización de rutas, seguimiento de envíos (GPS), vehículos refrigerados.
-    * **Frecuencia:** Por venta/pedido. 
-    * **KPI:**  Entrega a tiempo, rosas dañadas (%), costo por rosa, tiempo de entrega. 
-
-**III. Finanzas**
-
-**A. Contabilidad e Informes Financieros**
-
-1. **Seguimiento y Análisis de Costos**
-    * **Requisitos:**  Software de contabilidad, captura precisa de datos, análisis regular, plan de cuentas, codificación de transacciones, asignación de costos, análisis de varianzas.
-    * **Frecuencia:**  Entrada de datos y conciliación continua, análisis y generación de informes mensuales y trimestrales.
-    * **KPI:** Costo por rosa, desglose de costos por categoría, tendencias de costos, varianzas de costos.
-
-2. **Seguimiento y Análisis de Ingresos por Ventas**
-    * **Requisitos:** Integración POS/contabilidad, registro preciso de transacciones, generación de informes periódicos.
-    * **Frecuencia:**  Registro de ventas diario o semanal, informes periódicos (diarios, semanales, mensuales, trimestrales).
-    * **KPI:**  Ingresos totales, ingresos medios por rosa, tasa de crecimiento de ventas, volumen de ventas por variedad/canal, valor medio de los pedidos.
-
-3. **Presupuestación y Previsión**
-    * **Requisitos:**  Análisis de datos históricos, proyecciones de mercado, datos de costos, herramientas de planificación financiera.
-    * **Frecuencia:** Anual para el presupuesto principal, trimestral para revisiones, según sea necesario para proyectos específicos.
-    * **KPI:**  Precisión del presupuesto, precisión de la previsión, ROI, rentabilidad por variedad/canal.
-
-4. **Informes Financieros**
-    * **Requisitos:** Software de contabilidad, herramientas de informes, estados financieros precisos (P&L, balance, flujo de caja).
-    * **Frecuencia:** Mensual, trimestral, anual.
-    * **KPI:** Precisión y puntualidad de los informes, claridad y utilidad para las partes interesadas.
-
-**B. Gestión y Control Financiero**
-
-1. **Cuentas por Pagar y por Cobrar**
-    * **Requisitos:** Procesos eficientes, gestión de proveedores, procesamiento de facturas, programación de pagos, facturación a clientes, cobros, gestión de créditos.
-    * **Frecuencia:**  Continuo, con procesamiento diario o semanal de facturas y gestión de pagos.
-    * **KPI:**  Días de pago pendientes (DPO), días de ventas pendientes (DSO), gastos por deudas incobrables, eficacia del cobro.
-
-2. **Gestión de Tesorería**
-    * **Requisitos:** Pronóstico del flujo de caja, gestión del efectivo, relaciones bancarias, gestión de divisas.
-    * **Frecuencia:** Continuo, con monitoreo y pronóstico regulares del flujo de caja.
-    * **KPI:**  Ciclo de conversión de efectivo, precisión del pronóstico del flujo de caja, ganancias/pérdidas por cambio de divisas. 
-
-3. **Gestión de Activos**
-    * **Requisitos:** Registro de activos, seguimiento de la depreciación, procedimientos de eliminación, mantenimiento de activos.
-    * **Frecuencia:** Continuo. 
-    * **KPI:** Rotación de activos, ROA, tasa de utilización de activos, costos de mantenimiento como porcentaje del valor de los activos.
-
-4. **Controles Financieros y Auditorías**
-    * **Requisitos:** Marco de control interno, segregación de funciones, autorización y aprobación, procedimientos de conciliación, auditoría interna.
-    * **Frecuencia:**  Monitoreo e implementación continuos de los controles financieros, auditorías internas periódicas. 
-    * **KPI:**  Discrepancias financieras detectadas, puntualidad en la resolución, hallazgos y recomendaciones de la auditoría, tasa de implementación de las recomendaciones. 
-
-5. **Gestión de Riesgos**
-    * **Requisitos:**  Evaluación regular de riesgos (mercado, crédito, operativos, financieros), evaluación del impacto, desarrollo de estrategias de mitigación, monitoreo continuo de riesgos. 
-    * **Frecuencia:** Evaluación, planificación y monitoreo de riesgos continuos.
-    * **KPI:**  Número de riesgos financieros identificados, eficacia de las estrategias de mitigación, costo de la mitigación de riesgos, reducción de pérdidas financieras gracias a los esfuerzos de gestión de riesgos.
-
-**IV. Recursos Humanos**
-
-**A. Planificación y Reclutamiento de la Fuerza Laboral**
-
-1. **Análisis y Diseño de Puestos**
-    * **Requisitos:**  Identificar tareas, responsabilidades, habilidades y cualificaciones; crear descripciones de puestos precisas.
-    * **Frecuencia:** Según sea necesario (roles nuevos/modificados). 
-    * **KPI:**  Precisión, alineación con las necesidades del negocio, eficacia en la atracción de candidatos. 
-
-2. **Reclutamiento y Selección**
-    * **Requisitos:**  Estrategias de reclutamiento (bolsas de trabajo, redes sociales, referencias), proceso de selección (selección, entrevistas, evaluaciones, referencias).
-    * **Frecuencia:** Según sea necesario. 
-    * **KPI:** Tiempo para cubrir vacantes, costo por contratación, calidad de la contratación.
-
-3. **Incorporación y Orientación**
-    * **Requisitos:** Programa de incorporación, sesiones de orientación (políticas, procedimientos, beneficios, seguridad).
-    * **Frecuencia:**  Por cada nuevo empleado.
-    * **KPI:**  Satisfacción del nuevo empleado, tiempo para alcanzar la plena productividad. 
-
-**B. Formación y Desarrollo**
-
-1. **Programas de Capacitación en Habilidades**
-    * **Requisitos:**  Identificar necesidades de capacitación, desarrollar/implementar programas, utilizar diversos métodos.
-    * **Frecuencia:**  Continuo, basado en las necesidades.
-    * **KPI:**  Tasa de participación, satisfacción de los empleados, mejora del rendimiento.
-
-2. **Gestión del Desempeño**
-    * **Requisitos:**  Sistema de gestión del desempeño, retroalimentación, evaluaciones, coaching, desarrollo, reconocimiento.
-    * **Frecuencia:** Continuo, revisiones formales anuales/semestrales. 
-    * **KPI:** Logro de objetivos, mejora del rendimiento, compromiso de los empleados. 
-
-3. **Desarrollo del Liderazgo**
-    * **Requisitos:**  Identificar empleados de alto potencial, proporcionar capacitación y desarrollo de liderazgo.
-    * **Frecuencia:**  Según sea necesario.
-    * **KPI:**  Ascensos a puestos de liderazgo, solidez del banco de liderazgo.
-
-**C. Compensación y Beneficios**
-
-1. **Administración de Nóminas**
-    * **Requisitos:**  Sistema de nómina compatible, registros precisos (horas, horas extras, bonificaciones, deducciones), procesamiento oportuno.
-    * **Frecuencia:** Quincenal/mensual.
-    * **KPI:** Precisión de la nómina, puntualidad en el procesamiento, satisfacción de los empleados. 
-
-2. **Gestión de Beneficios**
-    * **Requisitos:**  Paquete de beneficios competitivo (salud, jubilación, PTO), gestión de la inscripción, procesamiento de reclamaciones, comunicación. 
-    * **Frecuencia:**  Administración continua, inscripción abierta anual.
-    * **KPI:**  Tasa de participación, satisfacción de los empleados, rentabilidad.
-
-3. **Cumplimiento Legal**
-    * **Requisitos:** Cumplir con las leyes laborales, mantenerse actualizado, mantener registros precisos.
-    * **Frecuencia:** Continuo. 
-    * **KPI:**  Violaciones de la ley laboral, puntualidad en la resolución de quejas, éxito de las auditorías.
-
-**D. Bienestar y Logística de los Empleados**
-
-1. **Transporte de Personal**
-    * **Requisitos:** Transporte fiable, presupuesto para combustible/mantenimiento/conductores, rutas eficientes.
-    * **Frecuencia:** Diario.
-    * **KPI:**  Costo por empleado/km, puntualidad en la llegada, satisfacción de los empleados.
-
-2. **Provisión de Comidas**
-    * **Requisitos:** Instalaciones/equipos de cocina, ingredientes frescos, cocineros calificados, menús establecidos. 
-    * **Frecuencia:** Diario.
-    * **KPI:** Costo por comida, calidad/variedad, satisfacción de los empleados.
-
-3. **Seguridad y Salud en el Lugar de Trabajo**
-    * **Requisitos:** Programa de seguridad, cumplimiento de las regulaciones, inspecciones, capacitación, informes/investigación de accidentes.
-    * **Frecuencia:** Continuo. 
-    * **KPI:** Tasa de accidentes/lesiones, LTIFR, satisfacción de los empleados.
-
-4. **Gestión de Horas Extras**
-    * **Requisitos:** Sistema de autorización/seguimiento, compensación justa, seguimiento preciso del tiempo. 
-    * **Frecuencia:** Según sea necesario.
-    * **KPI:** Horas extras como % del total, costo por empleado, impacto en la productividad/bienestar.
-
-**V. Legal y Cumplimiento**
-
-**A. Cumplimiento Ambiental**
-
-1. **Monitoreo e Informes Regulatorios**
-    * **Requisitos:**  Mantenerse actualizado sobre las regulaciones, realizar monitoreo ambiental, presentar informes precisos. 
-    * **Frecuencia:**  Monitoreo continuo, informes según sea necesario. 
-    * **KPI:** Cumplimiento regulatorio, incidentes ambientales, reducción del uso de recursos, mejoras en la gestión de residuos.
-
-2. **Gestión de Permisos y Licencias**
-    * **Requisitos:**  Identificar/obtener permisos necesarios, mantener registros, gestionar renovaciones.
-    * **Frecuencia:** Continuo, renovaciones según sea necesario. 
-    * **KPI:** Permisos mantenidos, puntualidad en las renovaciones, cumplimiento de condiciones. 
-
-3. **Prácticas e Iniciativas Sostenibles**
-    * **Requisitos:** Implementación de prácticas agrícolas sostenibles (MIP, conservación del agua, compostaje, fertilizantes orgánicos), establecimiento de objetivos de sostenibilidad, seguimiento del progreso y comunicación de las iniciativas a las partes interesadas.
-    * **Frecuencia:** Continuo. 
-    * **KPI:** Reducción del uso de agua por rosa producida, disminución de la aplicación de pesticidas, aumento del uso de fertilizantes orgánicos, cantidad de residuos desviados de los vertederos.
-
-**B. Cumplimiento de la Legislación Laboral**
-
-1. **Desarrollo e Implementación de Políticas**
-    * **Requisitos:** Desarrollar e implementar políticas conformes (salarios, condiciones, derechos, horas extras, beneficios, etc.), comunicar a los empleados. 
-    * **Frecuencia:** Revisión/actualizaciones periódicas.
-    * **KPI:**  Violaciones de la ley laboral, conocimiento de los empleados, puntualidad de las actualizaciones de las políticas. 
-
-2. **Derechos de los Empleados y Gestión de Quejas**
-    * **Requisitos:**  Procedimiento claro de quejas, garantizar el conocimiento de los derechos, investigación pronta, acciones correctivas. 
-    * **Frecuencia:** Continuo. 
-    * **KPI:**  Quejas presentadas, puntualidad en la resolución, satisfacción con el proceso. 
-
-3. **Auditorías e Informes de Cumplimiento**
-    * **Requisitos:**  Auditorías internas, informes de cumplimiento a las agencias reguladoras.
-    * **Frecuencia:**  Auditorías (anuales o más frecuentes), informes según sea necesario.
-    * **KPI:**  Éxito de la auditoría, puntualidad de los informes, identificación/resolución de brechas de cumplimiento.
-
-**C. Licencias y Permisos Comerciales**
-
-1. **Adquisición y Renovación de Licencias**
-    * **Requisitos:**  Comprender los requisitos de licencia, presentar solicitudes precisas, gestionar las renovaciones. 
-    * **Frecuencia:**  Solicitud inicial, renovaciones periódicas.
-    * **KPI:**  Licencias mantenidas, puntualidad en las renovaciones.
-
-2. **Monitoreo de Cumplimiento**
-    * **Requisitos:**  Monitorear el cumplimiento de las condiciones, mantenerse actualizado sobre los cambios, mantener registros. 
-    * **Frecuencia:** Continuo. 
-    * **KPI:** Cumplimiento continuo, resolución oportuna de problemas. 
-
-**VI. Tecnología e Infraestructura**
-
-**A. Gestión de Tecnología de la Información**
-
-1. **Selección e Implementación de Software**
-   a. **Planificación de Recursos Empresariales (ERP):**
-      * **Requisitos:**  Seleccionar/implementar un sistema ERP integrado, garantizar la escalabilidad, proporcionar capacitación. 
-      * **Frecuencia:**  Implementación inicial, mantenimiento/actualizaciones continuos.
-      * **KPI:** Implementación exitosa, adopción por parte del usuario, tiempo de actividad, precisión de los datos.
-   b. **Gestión de Relaciones con el Cliente (CRM):**
-      * **Requisitos:** Seleccionar/implementar un CRM para gestionar las interacciones con los clientes, las ventas, el marketing y el soporte. 
-      * **Frecuencia:** Implementación inicial, mantenimiento/actualizaciones continuos.
-      * **KPI:** Tasa de adopción del CRM, tasa de conversión de clientes potenciales, satisfacción del cliente con las interacciones del CRM, crecimiento de ventas atribuido al CRM.
-   c. **Otro Software Especializado:**
-      * **Requisitos:** Identificar, seleccionar e implementar software especializado (planificación de la producción, gestión logística, etc.). 
-      * **Frecuencia:**  Según sea necesario, en función de los requisitos operativos. 
-      * **KPI:** Eficacia del software en la mejora de la eficiencia de los procesos, el ahorro de costos u otras métricas relevantes.
-
-2. **Gestión y Seguridad de Datos**
-    * **Requisitos:** Copias de seguridad, recuperación, ciberseguridad (cortafuegos, antivirus, control de acceso), cumplimiento de la normativa de privacidad de datos.
-    * **Frecuencia:** Continuo. 
-    * **KPI:**  Tasa de éxito de las copias de seguridad, tiempo de recuperación, número de incidentes de seguridad o infracciones, cumplimiento de las normativas de privacidad.
-
-3. **Administración de Redes y Sistemas**
-    * **Requisitos:** Gestionar/mantener la red informática, los servidores y la infraestructura de TI, garantizando la disponibilidad, el rendimiento y la seguridad.
-    * **Frecuencia:** Continuo. 
-    * **KPI:** Tiempo de actividad de la red, velocidad/rendimiento, número de caídas o interrupciones, tiempo de resolución. 
-
-4. **Soporte y Capacitación de Usuarios**
-    * **Requisitos:** Soporte técnico a usuarios, resolución de problemas, capacitación sobre nuevos sistemas/actualizaciones.
-    * **Frecuencia:** Continuo, según sea necesario. 
-    * **KPI:**  Satisfacción del usuario con el soporte, tiempo de resolución, eficacia de la capacitación.
-
-**B. Gestión de Infraestructuras**
-
-1. **Mantenimiento y Actualizaciones de la Infraestructura de Invernaderos**
-    * **Requisitos:**  Inspecciones y mantenimiento regulares de las estructuras de los invernaderos (calefacción, ventilación, refrigeración, riego, iluminación).
-    * **Frecuencia:** Mantenimiento regular, actualizaciones según sea necesario. 
-    * **KPI:** Tiempo de actividad del sistema, costo de mantenimiento por metro cuadrado, consumo de energía, vida útil de los componentes.
-
-2. **Mantenimiento y Reparación de Equipos**
-    * **Requisitos:**  Programas de mantenimiento preventivo para todos los equipos (agrícolas, vehículos, procesamiento, TI). 
-    * **Frecuencia:**  Basado en programas recomendados y uso. 
-    * **KPI:** Tiempo de inactividad, vida útil del equipo, tiempo medio entre fallos (MTBF), costos de reparación.
-
-3. **Gestión de Instalaciones**
-    * **Requisitos:** Mantenimiento y conservación de edificios (oficinas, planta de clasificación, etc.).
-    * **Frecuencia:**  Limpieza, mantenimiento y reparaciones continuas.
-    * **KPI:** Limpieza/seguridad, satisfacción de los empleados con el entorno, costo de mantenimiento. 
-
-
-**VII. Gestión de Inventarios**
-
-1. **Control de Inventario**
-    * **Requisitos:**  Sistema para rastrear niveles de inventario, entradas y salidas de productos, ubicación y estado del inventario. 
-    * **Frecuencia:**  Actualizaciones continuas a medida que se reciben o despachan productos. 
-    * **KPI:**  Precisión del inventario, tasa de rotación de inventario, días de venta de inventario, obsolescencia del inventario. 
-
-2. **Previsión de la Demanda**
-    * **Requisitos:**  Análisis de datos de ventas históricos, tendencias del mercado, eventos promocionales y factores estacionales para predecir la demanda futura. 
-    * **Frecuencia:**  Regularmente, al menos mensualmente, y con mayor frecuencia durante períodos de alta demanda o fluctuaciones del mercado. 
-    * **KPI:**  Precisión del pronóstico de la demanda, varianza entre la demanda pronosticada y la real.
-
-3. **Optimización del Inventario**
-    * **Requisitos:**  Establecer niveles de inventario óptimos para cada variedad de rosa, equilibrando los costos de mantenimiento de inventario con el riesgo de desabastecimiento. 
-    * **Frecuencia:**  Periódicamente, revisando los niveles de inventario y los puntos de reorden. 
-    * **KPI:**  Costos de mantenimiento de inventario, tasa de cumplimiento de pedidos, tasa de desabastecimiento.
-
-**VIII. Compras**
-
-1. **Selección y Evaluación de Proveedores**
-    * **Requisitos:**  Base de datos de proveedores, criterios de evaluación (calidad, precio, confiabilidad), proceso de evaluación. 
-    * **Frecuencia:**  Continuo, con revisiones periódicas de los proveedores.
-    * **KPI:**  Calificaciones de desempeño de los proveedores, costo de los bienes comprados, tiempo de entrega. 
-
-2. **Gestión de Compras**
-    * **Requisitos:**  Sistema para crear y rastrear órdenes de compra, recibir y verificar productos, procesar facturas. 
-    * **Frecuencia:**  Continuo, para cada compra. 
-    * **KPI:**  Tiempo de entrega, precisión de los pedidos, cumplimiento del contrato por parte del proveedor. 
-
-3. **Negociación con Proveedores**
-    * **Requisitos:**  Negociar precios, términos de pago, plazos de entrega y otros acuerdos contractuales.
-    * **Frecuencia:**  Según sea necesario para nuevas compras o renegociaciones.
-    * **KPI:**  Ahorros de costos, calidad del producto, cumplimiento del contrato.
-
-**IX. Gestión de Calidad**
-
-1. **Control de Calidad en Producción**
-    * **Requisitos:**  Inspecciones durante el cultivo, la cosecha y el embalaje, estándares de calidad para cada variedad, procedimientos para abordar productos no conformes.
-    * **Frecuencia:**  Continuo, en cada etapa de producción. 
-    * **KPI:**  Tasa de defectos, rosas rechazadas, cumplimiento de los estándares. 
-
-2. **Gestión de Reclamaciones de Clientes**
-    * **Requisitos:**  Sistema para registrar y rastrear las reclamaciones de los clientes, investigar las causas de los problemas de calidad y tomar medidas correctivas.
-    * **Frecuencia:**  Para cada reclamación.
-    * **KPI:**  Tiempo de respuesta, resolución de reclamaciones, satisfacción del cliente.
-
-3. **Mejora Continua de la Calidad**
-    * **Requisitos:**  Análisis de datos de control de calidad, identificación de áreas de mejora, implementación de medidas para mejorar la calidad. 
-    * **Frecuencia:**  Continuo, con revisiones periódicas.
-    * **KPI:**  Reducción de la tasa de defectos, mejora de la satisfacción del cliente, implementación de acciones correctivas. 
-
-**X. Gestión de Proyectos**
-
-1. **Planificación de Proyectos**
-    * **Requisitos:** Definición de objetivos, alcance, presupuesto, cronograma, recursos, plan de gestión de riesgos.
-    * **Frecuencia:** Para cada proyecto.
-    * **KPI:**  Precisión de la estimación de costos, cumplimiento del cronograma, cumplimiento del presupuesto. 
-
-2. **Ejecución del Proyecto**
-    * **Requisitos:**  Asignación de tareas, seguimiento del progreso, gestión de riesgos, comunicación con las partes interesadas.
-    * **Frecuencia:**  Continuo, durante la vida del proyecto.
-    * **KPI:**  Cumplimiento de hitos, gestión de riesgos, satisfacción de las partes interesadas.
-
-3. **Cierre del Proyecto**
-    * **Requisitos:**  Documentación del proyecto, evaluación de los resultados, lecciones aprendidas.
-    * **Frecuencia:** Al finalizar el proyecto.
-    * **KPI:**  Entrega a tiempo, dentro del presupuesto, según las especificaciones, satisfacción del cliente.
-
-**XI. Gestión de Mantenimiento**
-
-1. **Mantenimiento Preventivo**
-    * **Requisitos:** Programas de mantenimiento regulares para equipos e infraestructuras.
-    * **Frecuencia:**  Según el calendario de mantenimiento.
-    * **KPI:**  Tiempo de inactividad del equipo, costo del mantenimiento preventivo.
-
-2. **Mantenimiento Correctivo**
-    * **Requisitos:**  Reparación de equipos averiados.
-    * **Frecuencia:**  Según sea necesario.
-    * **KPI:**  Tiempo de reparación, costo del mantenimiento correctivo. 
-
-3. **Gestión de Repuestos**
-    * **Requisitos:**  Inventario de repuestos, sistema de gestión de inventario. 
-    * **Frecuencia:**  Monitoreo continuo de los niveles de inventario. 
-    * **KPI:**  Disponibilidad de repuestos, costo de inventario de repuestos. 
-
-**XII. Gestión de Documentos**
-
-1. **Creación y Almacenamiento de Documentos**
-    * **Requisitos:** Plantillas de documentos, procedimientos de aprobación, sistema de almacenamiento seguro.
-    * **Frecuencia:** Según sea necesario. 
-    * **KPI:**  Precisión de los documentos, accesibilidad de los documentos, seguridad de los datos.
-
-2. **Control de Versiones y Flujo de Trabajo**
-    * **Requisitos:** Sistema para rastrear versiones de documentos, gestionar el proceso de aprobación y controlar el acceso.
-    * **Frecuencia:**  Para cada documento.
-    * **KPI:**  Precisión de las versiones, cumplimiento del flujo de trabajo, control de acceso.
-
-**XIII. Gestión de Activos**
-
-1. **Adquisición de Activos**
-    * **Requisitos:**  Identificación de las necesidades de activos, selección de proveedores, negociación de precios, adquisición e instalación.
-    * **Frecuencia:**  Según sea necesario.
-    * **KPI:**  Costo de adquisición, calidad de los activos, tiempo de entrega. 
-
-2. **Seguimiento y Mantenimiento de Activos**
-    * **Requisitos:**  Registro de activos, seguimiento de la ubicación, el mantenimiento y la depreciación. 
-    * **Frecuencia:**  Continuo. 
-    * **KPI:**  Precisión de los registros, cumplimiento del mantenimiento, costos de mantenimiento.
-
-3. **Disposición de Activos**
-    * **Requisitos:**  Procedimientos para la eliminación de activos obsoletos o no deseados. 
-    * **Frecuencia:** Según sea necesario.
-    * **KPI:**  Valor de recuperación, cumplimiento de las regulaciones.
-
-**XIV. Gestión de Riesgos (General)**
-
-1. **Identificación de Riesgos**
-    * **Requisitos:**  Evaluar todas las áreas de la empresa para identificar riesgos potenciales (operativos, financieros, legales, ambientales, etc.).
-    * **Frecuencia:**  Periódicamente, al menos anualmente, y con mayor frecuencia cuando se produzcan cambios significativos.
-    * **KPI:** Número de riesgos identificados, categorización de riesgos por gravedad. 
-
-2. **Evaluación de Riesgos**
-    * **Requisitos:**  Evaluar la probabilidad de ocurrencia y el impacto potencial de cada riesgo identificado. 
-    * **Frecuencia:**  Para cada riesgo identificado.
-    * **KPI:**  Evaluación de la probabilidad, evaluación del impacto.
-
-3. **Mitigación de Riesgos**
-    * **Requisitos:**  Desarrollar e implementar planes para mitigar o reducir la probabilidad e impacto de los riesgos identificados. 
-    * **Frecuencia:**  Para cada riesgo identificado.
-    * **KPI:**  Eficacia de las estrategias de mitigación, costo de la mitigación.
-
-4. **Monitoreo de Riesgos**
-    * **Requisitos:**  Monitorear continuamente los riesgos y la eficacia de las estrategias de mitigación, ajustando los planes según sea necesario.
-    * **Frecuencia:**  Continuo. 
-    * **KPI:**  Número de riesgos mitigados con éxito, cambios en la probabilidad/impacto de los riesgos.
-
-This extensive document provides an AI-ready, detailed, and structured view of Canaan Valle's operations. The document's organization, concise language, and focus on key processes, requirements, and KPIs are tailored for efficient analysis and automated decision-making. 
+### 2.2 Estrategia de Ventas y Marketing
+
+| Proceso                               | Requisitos                                                                         | Frecuencia                                       | KPIs                                                                      |
+| ------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------- |
+| **Estrategia de Precios**             | - Precios basados en volumen, frecuencia de entrega, variedad, acuerdos negociados | Negociación anual, ajustes según mercado/insumos | - Precio medio por tallo - Volumen vendido - Retención de clientes        |
+| **Gestión de Canales de Venta**       | - Construir/mantener relaciones - Comprender necesidades - Procesar pedidos        | Continuo                                         | - Ingresos - Costo de adquisición - Retención - Valor medio del pedido    |
+| **Gestión de Pedidos**                | - Sistema de gestión - Cumplimiento oportuno - Coordinación con producción         | Según cronograma                                 | - Cumplimiento a tiempo - Precisión de pedidos - Satisfacción del cliente |
+| **Campañas de Marketing y Promoción** | - Sitio Web: Desarrollo y mantenimiento de un sitio web profesional                | Continuo                                         | - Tráfico web - Conversiones - Interacción en redes sociales              |
+|                                       | - SEO: Estrategias de optimización de motores de búsqueda                          | Continuo                                         | - Posicionamiento en buscadores - Tráfico orgánico                        |
+|                                       | - Redes Sociales: Gestión de redes sociales con contenido atractivo                | Continuo                                         | - Engagement - Crecimiento de seguidores                                  |
+|                                       | - Email Marketing: Campañas de correo electrónico                                  | Según sea necesario                              | - Tasa de apertura - Tasa de clics                                        |
+|                                       | - Publicidad Pagada: Campañas en motores de búsqueda y redes sociales              | Según presupuesto/objetivos                      | - CPC - ROAS                                                              |
+
+### 2.3 Logística y Transporte
+
+| Proceso                  | Requisitos                                                                                                              | Frecuencia       | KPIs                                                                    |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------------------------- |
+| **Entrega del Producto** | - Proveedores de renombre con experiencia en cadena de frío - Software de optimización de rutas - Seguimiento de envíos | Por venta/pedido | - Entrega a tiempo - Rosas dañadas - Costo por rosa - Tiempo de entrega |
+
+## 3. Finanzas
+
+- [[#Contabilidad e Informes Financieros]]
+- [[#Gestión y Control Financiero]]
+
+### 3.1 Contabilidad e Informes Financieros
+
+| Proceso                     | Requisitos                                                                                                      | Frecuencia                      | KPIs                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------|
+| **Seguimiento y Análisis de Costos** | - Software de contabilidad - Captura precisa de datos - Análisis regular                                 | Continuo, mensual, trimestral   | - Costo por rosa - Desglose de costos por categoría |
+| **Seguimiento y Análisis de Ingresos por Ventas** | - Integración POS/contabilidad - Registro preciso de transacciones                                      | Diario, semanal, mensual, trimestral | - Ingresos totales - Ingresos medios por rosa |
+| **Presupuestación y Previsión** | - Análisis de datos históricos - Proyecciones de mercado - Datos de costos                                 | Anual, trimestral               | - Precisión del presupuesto - Precisión de la previs
+
+ión |
+| **Informes Financieros**    | - Software de contabilidad - Herramientas de informes - Estados financieros precisos                           | Mensual, trimestral, anual      | - Precisión y puntualidad de los informes - Claridad y utilidad |
+
+### 3.2 Gestión y Control Financiero
+
+| Proceso                     | Requisitos                                                                                                      | Frecuencia                      | KPIs                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------|
+| **Cuentas por Pagar y por Cobrar** | - Procesos eficientes - Gestión de proveedores - Procesamiento de facturas                                | Continuo                        | - Días de pago pendientes (DPO) - Días de ventas pendientes (DSO) |
+| **Gestión de Tesorería**    | - Pronóstico del flujo de caja - Gestión del efectivo - Relaciones bancarias                                   | Continuo                        | - Ciclo de conversión de efectivo - Precisión del pronóstico |
+| **Gestión de Activos**      | - Registro de activos - Seguimiento de la depreciación - Procedimientos de eliminación                          | Continuo                        | - Rotación de activos - ROA |
+| **Controles Financieros y Auditorías** | - Marco de control interno - Segregación de funciones - Procedimientos de conciliación                   | Continuo, auditorías internas periódicas | - Discrepancias financieras detectadas - Hallazgos y recomendaciones |
+| **Gestión de Riesgos**      | - Evaluación regular de riesgos - Evaluación del impacto - Desarrollo de estrategias de mitigación              | Continuo                        | - Número de riesgos financieros identificados - Eficacia de las estrategias de mitigación |
+
+## 4. Recursos Humanos
+
+### Subsecciones
+
+- [[#Planificación y Reclutamiento de la Fuerza Laboral]]
+- [[#Formación y Desarrollo]]
+- [[#Compensación y Beneficios]]
+- [[#Bienestar y Logística de los Empleados]]
+
+### 4.1 Planificación y Reclutamiento de la Fuerza Laboral
+
+| Proceso                     | Requisitos                                                                                                      | Frecuencia                      | KPIs                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------|
+| **Análisis y Diseño de Puestos** | - Identificar tareas, responsabilidades, habilidades y cualificaciones                                      | Según sea necesario             | - Precisión - Alineación con las necesidades del negocio |
+| **Reclutamiento y Selección** | - Estrategias de reclutamiento - Proceso de selección - Entrevistas, evaluaciones, referencias                | Según sea necesario             | - Tiempo para cubrir vacantes - Costo por contratación |
+| **Incorporación y Orientación** | - Programa de incorporación - Sesiones de orientación                                                       | Por cada nuevo empleado         | - Satisfacción del nuevo empleado - Tiempo para alcanzar la plena productividad |
+
+### 4.2 Formación y Desarrollo
+
+| Proceso                     | Requisitos                                                                                                      | Frecuencia                      | KPIs                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------|
+| **Programas de Capacitación en Habilidades** | - Identificar necesidades de capacitación - Desarrollar/implementar programas                           | Continuo                        | - Tasa de participación - Satisfacción de los empleados |
+| **Gestión del Desempeño**   | - Sistema de gestión del desempeño - Retroalimentación, evaluaciones, coaching                                 | Continuo, revisiones formales anuales/semestrales | - Logro de objetivos - Mejora del rendimiento |
+| **Desarrollo del Liderazgo** | - Identificar empleados de alto potencial - Proporcionar capacitación y desarrollo de liderazgo               | Según sea necesario             | - Ascensos a puestos de liderazgo - Solidez del banco de liderazgo |
+
+### 4.3 Compensación y Beneficios
+
+| Proceso                     | Requisitos                                                                                                      | Frecuencia                      | KPIs                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------|
+| **Administración de Nóminas** | - Sistema de nómina compatible - Registros precisos - Procesamiento oportuno                                  | Quincenal/mensual               | - Precisión de la nómina - Puntualidad en el procesamiento |
+| **Gestión de Beneficios**   | - Paquete de beneficios competitivo - Gestión de la inscripción - Procesamiento de reclamaciones                | Administración continua, inscripción abierta anual | - Tasa de participación - Satisfacción de los empleados |
+| **Cumplimiento Legal**      | - Cumplir con las leyes laborales - Mantenerse actualizado - Mantener registros precisos                        | Continuo                        | - Violaciones de la ley laboral - Puntualidad en la resolución de quejas |
+
+### 4.4 Bienestar y Logística de los Empleados
+
+| Proceso                     | Requisitos                                                                                                      | Frecuencia                      | KPIs                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------|
+| **Transporte de Personal**  | - Transporte fiable - Presupuesto para combustible/mantenimiento/conductores - Rutas eficientes                | Diario                          | - Costo por empleado/km - Puntualidad en la llegada |
+| **Provisión de Comidas**    | - Instalaciones/equipos de cocina - Ingredientes frescos - Cocineros calificados - Menús establecidos           | Diario                          | - Costo por comida - Calidad/variedad - Satisfacción de los empleados |
+| **Seguridad y Salud en el Lugar de Trabajo** | - Programa de seguridad - Cumplimiento de las regulaciones - Inspecciones, capacitación                 | Continuo                        | - Tasa de accidentes/lesiones - LTIFR - Satisfacción de los empleados |
+| **Gestión de Horas Extras** | - Sistema de autorización/seguimiento - Compensación justa - Seguimiento preciso del tiempo                     | Según sea necesario             | - Horas extras como % del total - Costo por empleado |
+
+## 5. Legal y Cumplimiento
+
+### Subsecciones
+
+- [[#Cumplimiento Ambiental]]
+- [[#Cumplimiento de la Legislación Laboral]]
+- [[#Licencias y Permisos Comerciales]]
+
+### 5.1 Cumplimiento Ambiental
+
+| Proceso                     | Requisitos                                                                                                      | Frecuencia                      | KPIs                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------|
+| **Monitoreo e Informes Regulatorios** | - Mantenerse actualizado sobre las regulaciones - Realizar monitoreo ambiental - Presentar informes precisos | Continuo, informes según sea necesario | - Cumplimiento regulatorio - Incidentes ambientales |
+| **Gestión de Permisos y Licencias** | - Identificar/obtener permisos necesarios - Mantener registros - Gestionar renovaciones                     | Continuo, renovaciones según sea necesario | - Permisos mantenidos - Puntualidad en las renovaciones |
+| **Prácticas e Iniciativas Sostenibles** | - Implementación de prácticas agrícolas sostenibles - Establecimiento de objetivos de sostenibilidad       | Continuo                        | - Reducción del uso de agua - Disminución de pesticidas - Uso de fertilizantes orgánicos |
+
+### 5.2 Cumplimiento de la Legislación Laboral
+
+| Proceso                     | Requisitos                                                                                                      | Frecuencia                      | KPIs                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------|
+| **Desarrollo e Implementación de Políticas** | - Desarrollar e implementar políticas conformes - Comunicar a los empleados                              | Revisión/actualizaciones periódicas | - Violaciones de la ley laboral - Conocimiento de los empleados |
+| **Derechos de los Empleados y Gestión de Quejas** | - Procedimiento claro de quejas - Garantizar el conocimiento de los derechos                             | Continuo                        | - Quejas presentadas - Puntualidad en la resolución |
+| **Auditorías e Informes de Cumplimiento** | - Auditorías internas - Informes de cumplimiento a las agencias reguladoras                              | Auditorías anuales o más frecuentes | - Éxito de la auditoría - Puntualidad de los informes |
+
+### 5.3 Licencias y Permisos Comerciales
+
+| Proceso                     | Requisitos                                                                                                      | Frecuencia                      | KPIs                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------|
+| **Adquisición y Renovación de Licencias** | - Comprender los requisitos de licencia - Presentar solicitudes precisas - Gestionar las renovaciones   | Solicitud inicial, renovaciones periódicas | - Licencias mantenidas - Puntualidad en las renovaciones |
+| **Monitoreo de Cumplimiento** | - Monitorear el cumplimiento de las condiciones - Mantenerse actualizado sobre los cambios                   | Continuo                        | - Cumplimiento continuo - Resolución oportuna de problemas |
+
+## 6. Tecnología e Infraestructura
+
+### Subsecciones
+
+- [[#Gestión de Tecnología de la Información]]
+- [[#Gestión de Infraestructuras]]
+
+### 6.1 Gestión de Tecnología de la Información
+
+| Proceso                     | Requisitos                                                                                                      | Frecuencia                      | KPIs                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------|
+| **Selección e Implementación de Software** | - Planificación de Recursos Empresariales (ERP): Seleccionar e implementar un sistema ERP integrado que garantice la escalabilidad y proporcione capacitación | Implementación inicial, mantenimiento/actualizaciones continuos | - Implementación exitosa - Adopción por parte del usuario |
+| **Gestión y Seguridad de Datos** | - Copias de seguridad - Recuperación - Ciberseguridad - Cumplimiento de la normativa de privacidad de datos | Continuo                        | - Tasa de éxito de las copias de seguridad - Número de incidentes de seguridad |
+| **Administración de Redes y Sistemas** | - Gestionar/mantener la red informática, los servidores y la infraestructura de TI                        | Continuo                        | - Tiempo de actividad de la red - Velocidad/rendimiento |
+| **
+
+Soporte y Capacitación de Usuarios** | - Soporte técnico a usuarios - Resolución de problemas - Capacitación sobre nuevos sistemas/actualizaciones | Continuo, según sea necesario   | - Satisfacción del usuario con el soporte - Eficacia de la capacitación |
+
+### 6.2 Gestión de Infraestructuras
+
+| Proceso                     | Requisitos                                                                                                      | Frecuencia                      | KPIs                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------|
+| **Mantenimiento y Actualizaciones de la Infraestructura de Invernaderos** | - Inspecciones y mantenimiento regulares de las estructuras de los invernaderos                            | Mantenimiento regular, actualizaciones según sea necesario | - Tiempo de actividad del sistema - Costo de mantenimiento |
+| **Mantenimiento y Reparación de Equipos** | - Programas de mantenimiento preventivo para todos los equipos                                            | Basado en programas recomendados y uso | - Tiempo de inactividad - Vida útil del equipo |
+| **Gestión de Instalaciones** | - Mantenimiento y conservación de edificios (oficinas, planta de clasificación, etc.)                           | Limpieza, mantenimiento y reparaciones continuas | - Limpieza/seguridad - Satisfacción de los empleados |
+
+## 7. Gestión de Proyectos
+
+### Subsecciones
+
+- [[#Planificación de Proyectos]]
+- [[#Ejecución del Proyecto]]
+- [[#Cierre del Proyecto]]
+
+### 7.1 Planificación de Proyectos
+
+| Proceso                     | Requisitos                                                                                                      | Frecuencia                      | KPIs                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------|
+| **Planificación de Proyectos** | - Definición de objetivos - Alcance - Presupuesto - Cronograma - Recursos - Plan de gestión de riesgos        | Para cada proyecto              | - Precisión de la estimación de costos - Cumplimiento del cronograma |
+| **Ejecución del Proyecto**  | - Asignación de tareas - Seguimiento del progreso - Gestión de riesgos - Comunicación con las partes interesadas | Continuo, durante la vida del proyecto | - Cumplimiento de hitos - Satisfacción de las partes interesadas |
+| **Cierre del Proyecto**     | - Documentación del proyecto - Evaluación de los resultados - Lecciones aprendidas                              | Al finalizar el proyecto        | - Entrega a tiempo - Dentro del presupuesto |
+
+## 8. Gestión de Mantenimiento
+
+### Subsecciones
+
+- [[#Mantenimiento Preventivo]]
+- [[#Mantenimiento Correctivo]]
+- [[#Gestión de Repuestos]]
+
+### 8.1 Mantenimiento Preventivo
+
+| Proceso                     | Requisitos                                                                                                      | Frecuencia                      | KPIs                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------------------------|
+| **Mantenimiento Preventivo** | - Programas de mantenimiento regulares para equipos e infraestructuras                                          | Según el calendario de mantenimiento | - Tiempo de inactividad del equipo - Costo del mantenimiento preventivo |
+
+### 8.2 Mantenimiento Correctivo
+
+| Proceso                      | Requisitos                        | Frecuencia          | KPIs                                                        |
+| ---------------------------- | --------------------------------- | ------------------- | ----------------------------------------------------------- |
+| **Mantenimiento Correctivo** | - Reparación de equipos averiados | Según sea necesario | - Tiempo de reparación - Costo del mantenimiento correctivo |
+
+### 8.3 Gestión de Repuestos
+
+| Proceso                  | Requisitos                                                   | Frecuencia                                      | KPIs                                                             |
+| ------------------------ | ------------------------------------------------------------ | ----------------------------------------------- | ---------------------------------------------------------------- |
+| **Gestión de Repuestos** | - Inventario de repuestos - Sistema de gestión de inventario | Monitoreo continuo de los niveles de inventario | - Disponibilidad de repuestos - Costo de inventario de repuestos |
+
+## 9. Gestión de Documentos
+
+### Subsecciones
+
+- [[#Creación y Almacenamiento de Documentos]]
+- [[#Control de Versiones y Flujo de Trabajo]]
+
+### 9.1 Creación y Almacenamiento de Documentos
+
+| Proceso                                     | Requisitos                                                                                   | Frecuencia          | KPIs                                                            |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------------------------------- |
+| **Creación y Almacenamiento de Documentos** | - Plantillas de documentos - Procedimientos de aprobación - Sistema de almacenamiento seguro | Según sea necesario | - Precisión de los documentos - Accesibilidad de los documentos |
+
+### 9.2 Control de Versiones y Flujo de Trabajo
+
+| Proceso                                     | Requisitos                                                                                                 | Frecuencia          | KPIs                                                             |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------- | ---------------------------------------------------------------- |
+| **Control de Versiones y Flujo de Trabajo** | - Sistema para rastrear versiones de documentos - Gestionar el proceso de aprobación - Controlar el acceso | Para cada documento | - Precisión de las versiones - Cumplimiento del flujo de trabajo |
+
+## 10. Gestión de Activos
+
+### Subsecciones
+
+- [[#Adquisición de Activos]]
+- [[#Seguimiento y Mantenimiento de Activos]]
+- [[#Disposición de Activos]]
+
+### 10.1 Adquisición de Activos
+
+| Proceso                    | Requisitos                                                                                         | Frecuencia          | KPIs                                            |
+| -------------------------- | -------------------------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------- |
+| **Adquisición de Activos** | - Identificación de las necesidades de activos - Selección de proveedores - Negociación de precios | Según sea necesario | - Costo de adquisición - Calidad de los activos |
+
+### 10.2 Seguimiento y Mantenimiento de Activos
+
+| Proceso                                    | Requisitos                                                                              | Frecuencia | KPIs                                                          |
+| ------------------------------------------ | --------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------- |
+| **Seguimiento y Mantenimiento de Activos** | - Registro de activos - Seguimiento de la ubicación, el mantenimiento y la depreciación | Continuo   | - Precisión de los registros - Cumplimiento del mantenimiento |
+
+### 10.3 Disposición de Activos
+
+| Proceso                    | Requisitos                                                              | Frecuencia          | KPIs                                                       |
+| -------------------------- | ----------------------------------------------------------------------- | ------------------- | ---------------------------------------------------------- |
+| **Disposición de Activos** | - Procedimientos para la eliminación de activos obsoletos o no deseados | Según sea necesario | - Valor de recuperación - Cumplimiento de las regulaciones |
+
+## 11. Gestión de Riesgos
+
+### Subsecciones
+
+- [[#Identificación de Riesgos]]
+- [[#Evaluación de Riesgos]]
+- [[#Mitigación de Riesgos]]
+- [[#Monitoreo de Riesgos]]
+
+### 11.1 Identificación de Riesgos
+
+| Proceso                       | Requisitos                                                                   | Frecuencia                          | KPIs                                                                       |
+| ----------------------------- | ---------------------------------------------------------------------------- | ----------------------------------- | -------------------------------------------------------------------------- |
+| **Identificación de Riesgos** | - Evaluar todas las áreas de la empresa para identificar riesgos potenciales | Periódicamente, al menos anualmente | - Número de riesgos identificados - Categorización de riesgos por gravedad |
+
+### 11.2 Evaluación de Riesgos
+
+| Proceso                   | Requisitos                                                                                 | Frecuencia                    | KPIs                                                     |
+| ------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------- | -------------------------------------------------------- |
+| **Evaluación de Riesgos** | - Evaluar la probabilidad de ocurrencia y el impacto potencial de cada riesgo identificado | Para cada riesgo identificado | - Evaluación de la probabilidad - Evaluación del impacto |
+
+### 11.3 Mitigación de Riesgos
+
+| Proceso                   | Requisitos                                                                                                       | Frecuencia                    | KPIs                                                                 |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------- | -------------------------------------------------------------------- |
+| **Mitigación de Riesgos** | - Desarrollar e implementar planes para mitigar o reducir la probabilidad e impacto de los riesgos identificados | Para cada riesgo identificado | - Eficacia de las estrategias de mitigación - Costo de la mitigación |
+
+### 11.4 Monitoreo de Riesgos
+
+| Proceso                  | Requisitos                                                                            | Frecuencia | KPIs                                                                      |
+| ------------------------ | ------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------- |
+| **Monitoreo de Riesgos** | - Monitorear continuamente los riesgos y la eficacia de las estrategias de mitigación | Continuo   | - Número de riesgos mitigados - Eficacia de las estrategias de mitigación |
+
