@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8634a3ae06319296",
+        "id": "bcf730888d1432c2",
         "type": "tabs",
         "children": [
           {
-            "id": "d470c0d0abb926c6",
+            "id": "fa2fb8c79711873c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55b4adcc063e6644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ERP AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d99e29a78fb2d4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,25 +43,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "bcf730888d1432c2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e845bf10eff5ae04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
+                "file": "ERP AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
+                "file": "ERP AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian.md"
+                "file": "ERP AI.md"
               }
             }
           }
@@ -165,34 +172,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e845bf10eff5ae04",
+  "active": "55b4adcc063e6644",
   "lastOpenFiles": [
-    "misc commands.md",
+    "ICEBOX.md",
+    "ERP AI.md",
     "Obsidian.md",
-    "terminal.md",
-    "TODO.md",
-    "Plans.md",
-    "PARA.md",
-    "espeak.md",
-    "fonts.md",
-    "get public ip.md",
-    "piper tts.md",
-    "Things to Watch.md",
-    "Video Game Ideas.md",
-    "Vim.md",
-    "Vscode.md",
-    "Security ESP32CAM System.md",
-    "Piracy.md",
-    "Un-Suck Your React Components - Composable & Compound Components.md",
-    "Styles of Radio Announcing Through the Decades.md",
-    "Supermarket Robot Project.md",
-    "Python.md",
-    "Remote SSH.md",
-    "Robot Waiter Project.md",
-    "ROS2 Humble Installation.md",
-    "ROS (Robotic Operative System).md",
-    "Odometry.md",
-    "Online Cloud Storage.md",
+    "ROS/Creating and Launching a ROS 2 Python Package 1.md",
+    "Create programs that can be run like normal (2).md",
+    "Create programs that can be run like normal.md",
+    "Arduino OTA.md",
+    "Websites Design.md",
+    "The Drunkard s Walk How Randomness Rules Our Lives.md",
+    "Making Virtual Models (2).md",
+    "Practical Python Programing.md",
+    "Twelve Weeks of Sprint Interval Training Improves Indices of Cardiometabolic Health Similar to Traditional Endurance Training despite a Five-Fold Lower Exercise Volume and Time Commitment.md",
+    "Differential Drive Robot Mathematical Model (2).md",
+    "TODO (2).md",
+    "FrameRate independence and DeltaTime.md",
+    "David Macaulay_s Architecture Series (2).md",
+    "Plans (2).md",
+    "Stories Ideas (2).md",
+    "EcoEDA.md",
+    "Zalgo Text.md",
+    "Webots.md",
+    "Javascript (2).md",
+    "Markdown (2).md",
+    "Venv.md",
+    "Snoopy Robot.md",
+    "Circuits Simulators.md",
+    "Media",
     "Untitled.canvas",
     " (2).gitignore",
     "ICEBOX",
@@ -202,7 +210,6 @@
     "Scripts/Arduino",
     "Scripts",
     "ROS",
-    "MISC",
-    "Manga"
+    "MISC"
   ]
 }

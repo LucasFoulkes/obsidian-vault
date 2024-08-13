@@ -53,7 +53,7 @@ The goal of this project is to develop a robot that navigates between points and
 
 ### Implementing the RPi Node
 - Create ROS package `waiter_bot` and node `arduino_bridge`
-  - Execute shell commands to create the package and node (see [[Creating and Launching a ROS 2 Python Package]])
+  - Execute shell commands to create the package and node (see [[Creating and Launching a ROS 2 Python Package 1]])
 - Set up serial communication with Arduino and subscribe to "cmd_vel"
 - Process motion commands:
   - Extract linear and angular velocities

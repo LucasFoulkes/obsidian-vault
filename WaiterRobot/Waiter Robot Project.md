@@ -60,7 +60,7 @@ could connect rpi directly to l298n , but already have an arduino and why speend
 ### Creating ROS Package and Node
 - **Objective:** Set up the ROS package **waiter_bot** and node **arduino_bridge** .
 - **Action:** Executed the following shell commands to create the package and node:
-[[Creating and Launching a ROS 2 Python Package]]
+[[Creating and Launching a ROS 2 Python Package 1]]
 ###  Create node Arduino Bridge 
 - **Initialize:** Set up serial communication with Arduino and subscribe to "cmd_vel".
 - **Process Motion:** Extract linear and angular velocities, calculate wheel speeds, and send to Arduino.

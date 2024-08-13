@@ -269,3 +269,32 @@
 - Unity
 - Godot
 - Unreal
+- Empty files found:
+- 3dCoatPrint
+- Airtable
+- Bubble
+- Carrd
+- Docker
+- Draftbit
+- Drapcode
+- Fluterflow
+- github
+- Gmapping
+- Google Appsheet
+- howard schatz photographer athlete
+- Jupiter Notebooks
+- Kicad
+- Ltspice
+- Ncurses
+- Oneshape
+- OpenAI Gym
+- Poetry (Dependency Management)
+- Pymunk
+- pyzmq
+- RTABMap
+- Solar Charged Headphones
+- Stacker
+- The Drunkard s Walk How Randomness Rules Our Lives
+- Webflow
+- Zapier
+- "Lalala" by Hara Noda

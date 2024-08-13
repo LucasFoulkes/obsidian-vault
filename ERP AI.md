@@ -48,3 +48,13 @@ what types of data? like in what bins should the data retrieved be categorized h
 - mistral la plataforme
 - mistral agents ( not really agents)
 -  DSPy
+-  **Transformers**:
+    - A library from Hugging Face for NLP tasks with a vast collection of pre-trained models. It's user-friendly, versatile, and widely adopted for various applications like text classification, translation, and more.
+- **LlamaIndex**:
+    - A data framework designed for LLM use cases, particularly retrieval-augmented generation (RAG). It simplifies connecting LLMs with data sources and is easy to customize for different tasks.
+- **Langchain**:
+    - A framework that connects language models with various data sources and other LLMs. It is useful for building context-aware reasoning applications and creating intelligent agents.
+- **Ollama**:
+    - A tool that simplifies the deployment and management of multiple LLMs. It supports various models like Llama 3 and Mistral, making it easy to set up and manage local LLMs for development.
+- **Llamafile**:
+    - A tool for sharing and running LLMs with minimal complexity. It allows for one-click sharing and running of models, making it very beginner-friendly.
