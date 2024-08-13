@@ -4,5 +4,5 @@
   "showUnsupportedFiles": true,
   "showInlineTitle": false,
   "showRibbon": true,
-  "spellcheck": true
+  "spellcheck": false
 }

@@ -1,40 +1,18 @@
 {
   "main": {
-    "id": "e5215445e74e08c7",
+    "id": "9eab954906ffbb4e",
     "type": "split",
     "children": [
       {
-        "id": "8634a3ae06319296",
+        "id": "cc7daa792e2121d4",
         "type": "tabs",
         "children": [
           {
-            "id": "d470c0d0abb926c6",
+            "id": "8b76770298d7d1f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ICEBOX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "bcf730888d1432c2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e845bf10eff5ae04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -43,25 +21,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "73dafac5f8aa3759",
+    "id": "433bdab009d1ee4b",
     "type": "split",
     "children": [
       {
-        "id": "c0b591ee55127ce1",
+        "id": "aa81c1a03ac9a633",
         "type": "tabs",
         "children": [
           {
-            "id": "fd614bdfa25849f4",
+            "id": "84ac4f805bfa7593",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "46b19cce34b5fa1f",
+            "id": "3bdc84728753745f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,7 +54,7 @@
             }
           },
           {
-            "id": "37fdb2c1c99900ec",
+            "id": "fb7ad2a65f298e54",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 300
   },
   "right": {
-    "id": "a6baff87b495e00f",
+    "id": "2d7ee181bb7e4e6d",
     "type": "split",
     "children": [
       {
-        "id": "ae01d132ffa71414",
+        "id": "35720d130e71ddd8",
         "type": "tabs",
         "children": [
           {
-            "id": "e0e5d3e5913e6b07",
+            "id": "f348d4dbeac4790b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,19 +92,18 @@
             }
           },
           {
-            "id": "88802346a283d681",
+            "id": "349cf285ce3cf30c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "415dbf50d7a0c6b3",
+            "id": "f6acaf187df3ba48",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,13 +114,11 @@
             }
           },
           {
-            "id": "f1920c21286ea853",
+            "id": "c3cee62870a980be",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,53 +130,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e845bf10eff5ae04",
-  "lastOpenFiles": [
-    "misc commands.md",
-    "Obsidian.md",
-    "terminal.md",
-    "TODO.md",
-    "Plans.md",
-    "PARA.md",
-    "espeak.md",
-    "fonts.md",
-    "get public ip.md",
-    "piper tts.md",
-    "Things to Watch.md",
-    "Video Game Ideas.md",
-    "Vim.md",
-    "Vscode.md",
-    "Security ESP32CAM System.md",
-    "Piracy.md",
-    "Un-Suck Your React Components - Composable & Compound Components.md",
-    "Styles of Radio Announcing Through the Decades.md",
-    "Supermarket Robot Project.md",
-    "Python.md",
-    "Remote SSH.md",
-    "Robot Waiter Project.md",
-    "ROS2 Humble Installation.md",
-    "ROS (Robotic Operative System).md",
-    "Odometry.md",
-    "Online Cloud Storage.md",
-    "Untitled.canvas",
-    " (2).gitignore",
-    "ICEBOX",
-    "Day Planners",
-    "WaiterRobot",
-    "Scripts/Python",
-    "Scripts/Arduino",
-    "Scripts",
-    "ROS",
-    "MISC",
-    "Manga"
-  ]
+  "active": "8b76770298d7d1f9",
+  "lastOpenFiles": []
 }

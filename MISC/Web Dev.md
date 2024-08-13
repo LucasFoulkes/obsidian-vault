@@ -1,9 +1,0 @@
--  htmx website 
--  htmx pwa 
--  svelte website
--  svelte pwa
--  react website
--  react pwa
-- what is server side rendinrg and what other tipes of rendering are there
-- what is next
-- basic structures of server database and such, find out if there are difernt types of structures

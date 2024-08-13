@@ -1,3 +1,5 @@
+- **The Decameron** Italy, #verygood #seen
+- **The Lazarus Project  (TV series)** very good, cancelled on clifhanger. #verygood #seen
 - **Pushing Daisies** A quirky and charming fantasy series about a pie-maker who can bring dead things back to life, with a unique visual style and witty dialogue. #seen
 - **Letterkenny** A Canadian sitcom about a small town's eccentric residents, known for its fast-paced humor and quirky characters.
 - **Slow Horses** A spy thriller series about a team of MI5 agents who are relegated to a department for underperforming agents, featuring strong writing and character development.

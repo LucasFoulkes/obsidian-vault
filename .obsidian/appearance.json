@@ -6,6 +6,7 @@
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
   "baseFontSizeAction": true,
-  "monospaceFontFamily": "FiraCode Nerd Font Mono",
-  "nativeMenus": false
+  "monospaceFontFamily": "Inter",
+  "nativeMenus": false,
+  "baseFontSize": 15
 }
