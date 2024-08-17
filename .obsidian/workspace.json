@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Canan Valley.md",
+                "file": "AI File Organizer.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b38eb270aadf8c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manga.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canan Valley.md",
+                "file": "manga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canan Valley.md",
+                "file": "manga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canan Valley.md"
+                "file": "manga.md"
               }
             }
           }
@@ -171,16 +184,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "019c5200d2e4627e",
+  "active": "3b38eb270aadf8c0",
   "lastOpenFiles": [
+    "manga.md",
+    "AI File Organizer.md",
+    "FileMinder AI.md",
+    "Canan Valley.md",
     "ERP AI.md",
     "file_paths_20240816_011734.txt",
     "file_paths.txt",
-    "AI File Organizer.md",
     "TV Series.md",
     "Media/Film.md",
     "VR Bussines.md",
-    "Untitled.md",
     "ICEBOX.md",
     "2024-08-14.md",
     "Media/Books.md",
@@ -199,7 +214,6 @@
     "TODO (2).md",
     "FrameRate independence and DeltaTime.md",
     "David Macaulay_s Architecture Series (2).md",
-    "Plans (2).md",
     "Media",
     "Untitled.canvas",
     " (2).gitignore",
