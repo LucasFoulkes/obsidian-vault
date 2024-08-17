@@ -1,3 +1,6 @@
+https://web.netmovies.to/the-beast-3/
+https://web.netmovies.to/but-im-a-cheerleader/
+
 - **thief and the cobler**
 - **maritian express**
 - **martian express** really good 2d animated. #seen

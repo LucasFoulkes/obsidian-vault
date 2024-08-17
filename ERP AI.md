@@ -48,6 +48,7 @@ what types of data? like in what bins should the data retrieved be categorized h
 - mistral la plataforme
 - mistral agents ( not really agents)
 -  DSPy
+- ReACT framework
 -  **Transformers**:
     - A library from Hugging Face for NLP tasks with a vast collection of pre-trained models. It's user-friendly, versatile, and widely adopted for various applications like text classification, translation, and more.
 - **LlamaIndex**:
@@ -58,3 +59,5 @@ what types of data? like in what bins should the data retrieved be categorized h
     - A tool that simplifies the deployment and management of multiple LLMs. It supports various models like Llama 3 and Mistral, making it easy to set up and manage local LLMs for development.
 - **Llamafile**:
     - A tool for sharing and running LLMs with minimal complexity. It allows for one-click sharing and running of models, making it very beginner-friendly.
+- https://app.agentops.ai
+- llama extractor

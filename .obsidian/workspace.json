@@ -4,47 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "bcf730888d1432c2",
+        "id": "3ab3bb1e4703f98a",
         "type": "tabs",
         "children": [
           {
-            "id": "fa2fb8c79711873c",
+            "id": "019c5200d2e4627e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media/Books.md",
+                "file": "Canan Valley.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "55b4adcc063e6644",
+            "id": "dff7eddf2a237b40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERP AI.md",
+                "file": "Media/Film.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4d99e29a78fb2d4b",
+            "id": "0a46f2430fcf3501",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICEBOX.md",
+                "file": "AI File Organizer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ERP AI.md",
+                "file": "Canan Valley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ERP AI.md",
+                "file": "Canan Valley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ERP AI.md"
+                "file": "Canan Valley.md"
               }
             }
           }
@@ -172,10 +171,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55b4adcc063e6644",
+  "active": "019c5200d2e4627e",
   "lastOpenFiles": [
-    "ICEBOX.md",
     "ERP AI.md",
+    "file_paths_20240816_011734.txt",
+    "file_paths.txt",
+    "AI File Organizer.md",
+    "TV Series.md",
+    "Media/Film.md",
+    "VR Bussines.md",
+    "Untitled.md",
+    "ICEBOX.md",
+    "2024-08-14.md",
+    "Media/Books.md",
+    "Media/Anime.md",
     "Obsidian.md",
     "ROS/Creating and Launching a ROS 2 Python Package 1.md",
     "Create programs that can be run like normal (2).md",
@@ -191,15 +200,6 @@
     "FrameRate independence and DeltaTime.md",
     "David Macaulay_s Architecture Series (2).md",
     "Plans (2).md",
-    "Stories Ideas (2).md",
-    "EcoEDA.md",
-    "Zalgo Text.md",
-    "Webots.md",
-    "Javascript (2).md",
-    "Markdown (2).md",
-    "Venv.md",
-    "Snoopy Robot.md",
-    "Circuits Simulators.md",
     "Media",
     "Untitled.canvas",
     " (2).gitignore",
@@ -208,8 +208,6 @@
     "WaiterRobot",
     "Scripts/Python",
     "Scripts/Arduino",
-    "Scripts",
-    "ROS",
-    "MISC"
+    "Scripts"
   ]
 }

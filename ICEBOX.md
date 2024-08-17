@@ -298,3 +298,5 @@
 - Webflow
 - Zapier
 - "Lalala" by Hara Noda
+- https://taipy.io/
+- https://streamlit.io/

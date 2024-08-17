@@ -11,4 +11,8 @@
 - **Twisted Metal** An apocalyptic road trip series featuring an angry cop from Brooklyn Nine-Nine and a black Captain America. Not bad, campy. #watching 
 - **Sex Education**: A series about a kid who decides to offer sex therapy (just talking) for money. The first seasons are mid, lost interest in watching the last one, possibly due to excessive sexual content. #seen #mid
 - **Better of Ted** dark corporate comedy, cant find all the episodes tho #good #seen 
-- **Reno 911** Police comedy #good #seen
+- **Reno 911** Police comedy #good #seen 
+- The Big Door Prize
+- From
+- https://web.netmovies.to/swimming-with-sharks-2/
+- https://web.netmovies.to/poker-face-2/

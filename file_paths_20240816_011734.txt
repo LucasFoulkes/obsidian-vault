@@ -1,0 +1,766 @@
+.git
+.gitignore
+.obsidian
+3D Print.md
+AI File Organizer.md
+Arduino OTA.md
+Better Readme (2).md
+Braintenberg Cozy VR Game.md
+Canan Valley.md
+Cheapo Robot.md
+Circuit Design (PCB).md
+Circuits Simulators.md
+Create programs that can be run like normal (2).md
+David Macaulay_s Architecture Series (2).md
+Development Methodologies.md
+Differential Drive Robot Mathematical Model (2).md
+Documenting Projects.md
+EcoEDA.md
+ERP AI.md
+espeak.md
+FileMinder AI.md
+file_paths.txt
+fonts.md
+Game Engines.md
+get public ip.md
+Git.md
+Google Apps Script.md
+Graphic Novel.md
+Host a Server Online.md
+ICEBOX.md
+IMU 9250.md
+Javascript (2).md
+Journal
+Linux Alisases.md
+Lxd.md
+Machine Learning algorithms in python (3).md
+Making Virtual Models (2).md
+Markdown (2).md
+Media
+misc commands 1.md
+Misc Ideas.md
+Misc Python.md
+Obsidian (2).md
+Obsidian.md
+Odometry.md
+Online Cloud Storage.md
+PARA.md
+Personalized Commands Linux.md
+Piko.md
+piper tts.md
+Piracy.md
+PLANS (12).md
+Plans (2).md
+Plans.md
+PORTFOLIOS.md
+Practical Python Programing.md
+Python.md
+Remote SSH.md
+Robot Waiter Project.md
+ROS
+Scripts
+Security ESP32CAM System.md
+Snoopy Robot.md
+Stories Ideas (2).md
+Stories Ideas.md
+Styles of Radio Announcing Through the Decades.md
+Supermarket Robot Project.md
+terminal.md
+The Drunkard s Walk How Randomness Rules Our Lives.md
+Things to Watch.md
+TODO (2).md
+TODO.md
+TV Series.md
+Twelve Weeks of Sprint Interval Training Improves Indices of Cardiometabolic Health Similar to Traditional Endurance Training despite a Five-Fold Lower Exercise Volume and Time Commitment.md
+Un-Suck Your React Components - Composable & Compound Components (2).md
+Venv.md
+Video Game Ideas.md
+Vim.md
+VR Bussines.md
+Vscode (2).md
+Vscode.md
+WaiterRobot
+Web Design.md
+Webots.md
+Websites Design.md
+Zalgo Text.md
+.git\COMMIT_EDITMSG
+.git\config
+.git\description
+.git\FETCH_HEAD
+.git\HEAD
+.git\hooks
+.git\index
+.git\info
+.git\logs
+.git\objects
+.git\ORIG_HEAD
+.git\packed-refs
+.git\refs
+.obsidian\.obsidian
+.obsidian\app.json
+.obsidian\appearance.json
+.obsidian\community-plugins.json
+.obsidian\core-plugins-migration.json
+.obsidian\core-plugins.json
+.obsidian\graph.json
+.obsidian\plugins
+.obsidian\themes
+.obsidian\workspace.json
+Journal\2022-10-21 1.md
+Journal\2022-10-21.md
+Journal\2023-03-17 (2).md
+Journal\2023-03-17.md
+Journal\2023-03-20 (2).md
+Journal\2023-03-20.md
+Journal\2023-04-03 (2).md
+Journal\2023-04-03.md
+Journal\2023-04-05 (2).md
+Journal\2023-04-05.md
+Journal\2023-04-09 (2).md
+Journal\2023-04-09.md
+Journal\2023-04-10 (2).md
+Journal\2023-04-10.md
+Journal\2023-04-11 (2).md
+Journal\2023-04-11.md
+Journal\2023-04-13 (2).md
+Journal\2023-04-13.md
+Journal\2023-04-14 (2).md
+Journal\2023-04-14.md
+Journal\2023-04-24 (2).md
+Journal\2023-04-24.md
+Journal\2023-04-27 (2).md
+Journal\2023-04-27.md
+Journal\2023-04-29 (2).md
+Journal\2023-04-29.md
+Journal\2023-05-17 (2).md
+Journal\2023-05-17.md
+Journal\2023-05-21 (2).md
+Journal\2023-05-21.md
+Journal\2023-05-23 (2).md
+Journal\2023-05-23.md
+Journal\2023-05-26 (2).md
+Journal\2023-05-26.md
+Journal\2023-06-03 (2).md
+Journal\2023-06-03.md
+Journal\2023-06-08 (2).md
+Journal\2023-06-08.md
+Journal\2023-06-14 (2).md
+Journal\2023-06-14.md
+Journal\2023-06-23 (2).md
+Journal\2023-06-23.md
+Journal\2023-06-24 (2).md
+Journal\2023-06-24.md
+Journal\2023-07-03 (2).md
+Journal\2023-07-03.md
+Journal\2023-07-07 (2).md
+Journal\2023-07-07.md
+Journal\2023-07-21 (2).md
+Journal\2023-07-21.md
+Journal\2023-07-27 (2).md
+Journal\2023-07-27.md
+Journal\2023-07-29 (2).md
+Journal\2023-07-29.md
+Journal\2023-08-13 (2).md
+Journal\2023-08-13.md
+Journal\2023-09-01 (2).md
+Journal\2023-09-01.md
+Journal\2023-09-03 (2).md
+Journal\2023-09-03.md
+Journal\2023-09-16 (2).md
+Journal\2023-09-16.md
+Journal\2023-09-18 (2).md
+Journal\2023-09-18.md
+Journal\2023-10-02 (2).md
+Journal\2023-10-02.md
+Journal\2023-10-05 (2).md
+Journal\2023-10-05.md
+Journal\2023-11-02 (2).md
+Journal\2023-11-02.md
+Journal\2023-11-05 (2).md
+Journal\2023-11-05.md
+Journal\2023-11-09 (2).md
+Journal\2023-11-09.md
+Journal\2023-12-04 (2).md
+Journal\2023-12-04.md
+Journal\2023-12-12 (2).md
+Journal\2023-12-12.md
+Journal\2023-12-17 (2).md
+Journal\2023-12-17.md
+Media\Anime.md
+Media\Books.md
+Media\Entertainment.md
+Media\Film.md
+Media\Inugamihime ni Kuchizuke.md
+Media\Mysterious Girlfriend X.md
+Media\Yokohama Kaidashi Kikou.md
+ROS\Creating and Launching a ROS 2 Python Package 1.md
+ROS\Creating and Launching a ROS 2 Python Package.md
+ROS\ROS (Robotic Operative System).md
+ROS\ROS2 Humble Installation 1.md
+ROS\ROS2 Humble Installation.md
+Scripts\Arduino
+Scripts\Python
+WaiterRobot\Waiter Robot Draft.md
+WaiterRobot\Waiter Robot Project.md
+.git\hooks\applypatch-msg.sample
+.git\hooks\commit-msg.sample
+.git\hooks\fsmonitor-watchman.sample
+.git\hooks\post-update.sample
+.git\hooks\pre-applypatch.sample
+.git\hooks\pre-commit.sample
+.git\hooks\pre-merge-commit.sample
+.git\hooks\pre-push.sample
+.git\hooks\pre-rebase.sample
+.git\hooks\pre-receive.sample
+.git\hooks\prepare-commit-msg.sample
+.git\hooks\push-to-checkout.sample
+.git\hooks\sendemail-validate.sample
+.git\hooks\update.sample
+.git\info\exclude
+.git\logs\HEAD
+.git\logs\refs
+.git\objects\02
+.git\objects\03
+.git\objects\04
+.git\objects\06
+.git\objects\07
+.git\objects\08
+.git\objects\09
+.git\objects\0a
+.git\objects\0c
+.git\objects\0e
+.git\objects\10
+.git\objects\11
+.git\objects\12
+.git\objects\14
+.git\objects\15
+.git\objects\16
+.git\objects\17
+.git\objects\1b
+.git\objects\1c
+.git\objects\1d
+.git\objects\20
+.git\objects\23
+.git\objects\24
+.git\objects\25
+.git\objects\28
+.git\objects\29
+.git\objects\2a
+.git\objects\2b
+.git\objects\2c
+.git\objects\2f
+.git\objects\31
+.git\objects\32
+.git\objects\33
+.git\objects\35
+.git\objects\36
+.git\objects\38
+.git\objects\3d
+.git\objects\3e
+.git\objects\40
+.git\objects\41
+.git\objects\42
+.git\objects\44
+.git\objects\45
+.git\objects\46
+.git\objects\48
+.git\objects\49
+.git\objects\4a
+.git\objects\4c
+.git\objects\4d
+.git\objects\4e
+.git\objects\4f
+.git\objects\50
+.git\objects\52
+.git\objects\53
+.git\objects\54
+.git\objects\56
+.git\objects\57
+.git\objects\58
+.git\objects\5a
+.git\objects\5c
+.git\objects\5d
+.git\objects\5e
+.git\objects\60
+.git\objects\61
+.git\objects\63
+.git\objects\65
+.git\objects\66
+.git\objects\67
+.git\objects\6b
+.git\objects\6d
+.git\objects\6e
+.git\objects\6f
+.git\objects\70
+.git\objects\71
+.git\objects\72
+.git\objects\74
+.git\objects\75
+.git\objects\77
+.git\objects\79
+.git\objects\7a
+.git\objects\7b
+.git\objects\7c
+.git\objects\7e
+.git\objects\7f
+.git\objects\83
+.git\objects\84
+.git\objects\86
+.git\objects\87
+.git\objects\88
+.git\objects\89
+.git\objects\8a
+.git\objects\8c
+.git\objects\8d
+.git\objects\90
+.git\objects\91
+.git\objects\92
+.git\objects\93
+.git\objects\94
+.git\objects\97
+.git\objects\99
+.git\objects\9a
+.git\objects\9b
+.git\objects\9c
+.git\objects\9e
+.git\objects\9f
+.git\objects\a0
+.git\objects\a1
+.git\objects\a3
+.git\objects\a4
+.git\objects\a7
+.git\objects\a9
+.git\objects\ab
+.git\objects\ac
+.git\objects\af
+.git\objects\b0
+.git\objects\b3
+.git\objects\b4
+.git\objects\b6
+.git\objects\b8
+.git\objects\b9
+.git\objects\ba
+.git\objects\bb
+.git\objects\bc
+.git\objects\bd
+.git\objects\be
+.git\objects\c1
+.git\objects\c3
+.git\objects\c4
+.git\objects\c6
+.git\objects\c7
+.git\objects\c8
+.git\objects\ca
+.git\objects\cd
+.git\objects\cf
+.git\objects\d0
+.git\objects\d3
+.git\objects\d4
+.git\objects\d5
+.git\objects\d7
+.git\objects\d8
+.git\objects\d9
+.git\objects\da
+.git\objects\dd
+.git\objects\e0
+.git\objects\e3
+.git\objects\e4
+.git\objects\e5
+.git\objects\e6
+.git\objects\e7
+.git\objects\e8
+.git\objects\ed
+.git\objects\ee
+.git\objects\ef
+.git\objects\f1
+.git\objects\f3
+.git\objects\f5
+.git\objects\f8
+.git\objects\fa
+.git\objects\fb
+.git\objects\fc
+.git\objects\fd
+.git\objects\fe
+.git\objects\info
+.git\objects\pack
+.git\refs\heads
+.git\refs\remotes
+.git\refs\tags
+.git\logs\refs\heads
+.git\logs\refs\remotes
+.git\logs\refs\heads\main
+.git\logs\refs\remotes\origin
+.git\logs\refs\remotes\origin\HEAD
+.git\logs\refs\remotes\origin\main
+.git\objects\02\462dfe9dc986bde8d3d9cf4d1ca30dc9df0f9f
+.git\objects\02\abc13084e92889a514912d4f640b6b480fa3cc
+.git\objects\03\7a160c8f8b5c7650b4f5582d266ef9b23f019f
+.git\objects\04\de4e694aa32d3718fd0a882e70c32b5ca1a93b
+.git\objects\06\2a1e786a816583c1da6ece98f1a68943b1b209
+.git\objects\06\bdaee596c529d0932f9b861e8ef08965731aeb
+.git\objects\07\7579a8815a442302543b433997caf270f90ff2
+.git\objects\08\9b8cdda4ceebbfba1fca170f06a2d7b8a8d8f3
+.git\objects\08\b0c05540247427fe9a117d2e8eeb14835a9cc5
+.git\objects\09\43a09c8760cf1d78ce166183f5d90e72e34ef2
+.git\objects\09\dce1b2a8e9b5f05ce86e80cbd1f6e0c2953143
+.git\objects\0a\240e7b3e7be5794655ec205e5f7f89cce86425
+.git\objects\0c\1eb134f04e2d8e44fe56c7fd940873de3a1b70
+.git\objects\0e\524c047e35a0d394769cf4732abdcb62515cfb
+.git\objects\10\c240f9574593d4a6e3b3320c0236a6cd9f1edc
+.git\objects\11\28716a87e291edc53483d676367eabc4898951
+.git\objects\12\586668bfab3c184efaf801bb3119cab67a6401
+.git\objects\14\022932108a6beb5704962a018a5fa3edbf26cb
+.git\objects\15\2475860ee09b7951c779d3aa00d3ad0375f0ec
+.git\objects\16\865dbaa461e44d4cd1bf1a4adc854fe8f16291
+.git\objects\17\d1e8e835fbd0f341181cfb5e1307df21ae5905
+.git\objects\1b\d145f866a9fac869f31e43500576f433f38bdc
+.git\objects\1c\c5131151192624f53964f6e42b58c2fc68510a
+.git\objects\1c\e7d338f1f0aba78004b640de9ff2cf500b8476
+.git\objects\1d\009556993107927da2c1664a31e5d1db8de65a
+.git\objects\1d\7fc51147240fd72498127f9921dffbcaa4ad37
+.git\objects\1d\9949c004d06e85675a0a0c5e855a005b9c72c0
+.git\objects\20\f57593b4417526c040d76eaac0ae70f9070bd0
+.git\objects\23\1b82d4fc3f04d4179d9221e6153b24c432f9af
+.git\objects\23\bf7faac4e772268b67217a0cc22deb5c28f630
+.git\objects\24\08dc364511f9b9fa91a7ad3e532dafccfbb47a
+.git\objects\25\623333a189f9e542d847c09c5fdaa31882ae03
+.git\objects\25\d5241b5723018acd07952e200aedda56afa5f5
+.git\objects\25\e0d4c89b6a3950494a5ccd2890e4490c6cc7f7
+.git\objects\28\63ca92aaf3bd7b83e10d25de10874489fff533
+.git\objects\29\9f522a99d4d78ed43f13b560eddd5fdf14fabb
+.git\objects\2a\54d1a7df794692e1ad86895d840dee18140bf9
+.git\objects\2b\ae88a4f2b00e07d5fd02385e00a9db19176a6d
+.git\objects\2c\d47607b9ff6fa44d5b81851748d62b4c02ba39
+.git\objects\2c\f83333bcf2499eb9948470c6adc20720229ad7
+.git\objects\2f\37ab3e36fb6505b1dfce1563ffb72c22b3f424
+.git\objects\2f\42a277fb19841327a3383776497ee95b1c9106
+.git\objects\31\a8c6bcf478a421a59a3b6975c3c9aa4ae7f6da
+.git\objects\32\b1f3790396bd97e32efa66292471840b245964
+.git\objects\33\9a02abb089b6fde22cc13c5cffc7901def5a08
+.git\objects\35\d3dc7cdad3b27eedbab23aa4b9be9e43226dfa
+.git\objects\36\c43bda6186562198dc7d3b7d4baea81ef4b525
+.git\objects\38\0aadf0d38b3123caad3048ad831562e0cb4566
+.git\objects\3d\8998956478f1264e3949d0225d7de1938d10ec
+.git\objects\3d\b32046e435d6ac3f3576c215bca7f6474c1fea
+.git\objects\3e\ae1629a49a0aeabc1d17801e1c34de10a3b89e
+.git\objects\40\8eab4fa7b88bdc88fcc4be6d7677f827b4fcac
+.git\objects\40\dd93264749eeffaf38ca933ce0262a3c0fedc7
+.git\objects\41\6fc7a3d2daaede6976de409eb51fd5888ee1b6
+.git\objects\42\5ebc1617a8e48259dbb295e047e53cde9499de
+.git\objects\44\99933a96780ddcb7d5ccb1dd185752f7bdc3bb
+.git\objects\44\c148252bdbcc141631603eda15424e2c370575
+.git\objects\45\6252b71f650de0b5d59e01f931ff94efe22904
+.git\objects\46\2d9df419fcbc74f76a16fd760e32cde1b07145
+.git\objects\46\43d3ad643e943fae148ebafe7cb7cae423e239
+.git\objects\48\4aa78689c449c3112640d024cdbf631aa2e026
+.git\objects\48\56d7275c1d397bac211c13efcc68216d4afabc
+.git\objects\49\b020985f1ba298845126fb66c6a470c4b3cec7
+.git\objects\4a\b23f2be1ec8dccc6e2633412141780446890b8
+.git\objects\4c\3f173b4c84743ba1de9aa1648b4c2a096cd17e
+.git\objects\4c\67f1fb5de66c1f5bd6a3bae8f467f5885ee2f9
+.git\objects\4c\bda84a44a9088ecb8c74d4a45a209548e8bdb6
+.git\objects\4c\fa3986841a8d51e8e0681ab85f404a0a46f1d3
+.git\objects\4d\9e0df424e6e26a196628722896bc3b734f02af
+.git\objects\4e\4a006f787b297cf4cef0672017e1e1cbc3ef5e
+.git\objects\4e\e90d6fedf272baac5b0aabab5a5606700bc983
+.git\objects\4f\1890db9405e4f6d32274ba527798affa0e1e7d
+.git\objects\4f\4735a3813905952bb30e419a66ab89a56e0422
+.git\objects\50\1a6bbaf1e2cec78ba2c39f1bd551a43638094b
+.git\objects\50\c141379b1127f48cc8eac89c62e296b109b502
+.git\objects\52\e8f3090ade848d04eac15a4b7c5c7197b2a63c
+.git\objects\53\2f33f15b6ecb9771649a502e53c3e04064a97c
+.git\objects\54\8c47cd0bb61d4c6a6d2bf4e15332c598bc3400
+.git\objects\54\aab925df4549b07a0e2a0bce14240015993253
+.git\objects\54\e3ca9e5eb86c25052fffcb2ea4ad0563ea81d8
+.git\objects\56\e13791bc43ffe2baca0fb5bbbff1eaf56270cf
+.git\objects\57\5e8bf55ad9640e83eb5a4a32f246d1db72b36a
+.git\objects\57\75f64bfdf63236bc59bc6b462ba88aecac704f
+.git\objects\57\b729b974369f27cf8a9ec4b97247490533f6d2
+.git\objects\58\069adc1b5e03c1d2c585101dc0f0258984b162
+.git\objects\58\2c9b8a6b123bbf46ffd1f5f057d0f23ede282a
+.git\objects\5a\cd7b37bb886258f00dbb2d2471970ed72f1cdd
+.git\objects\5c\41901f736f2ea2a2dda64596bb556b3c57f8bb
+.git\objects\5d\3022036ba8f95a45fe6bcf164f8541a54dcd7f
+.git\objects\5d\3af4d14962bdf0c68b6ccc640ae7a24c2189ec
+.git\objects\5e\0164c7ddc812e6b5096765ec70c406070624bf
+.git\objects\5e\13426aff80b0b496c8a6be7382ad2bbf80787d
+.git\objects\5e\77a8dc37ae18f00197e79b14118084c85c01d8
+.git\objects\5e\e04ff801dfdb0d959414ea98326402d26a58e4
+.git\objects\60\6e00c1751978a5aa38ac1993c720bb2728fd7a
+.git\objects\61\4d7c35247523522d090cf06687627a0feef840
+.git\objects\61\78691ca6114ba2ee9ee106fa62afddb7e9050f
+.git\objects\63\1d288ddb34f09635ee2585236798d9e211460f
+.git\objects\63\30a406c0b36a8cc0a97e4b22f0e1a1fa082109
+.git\objects\63\54c742945748c0e6aaf8fd2e63015e24e796d7
+.git\objects\63\df4dc1de18a283a7c62bd875066474b30aa7fa
+.git\objects\65\d316c710b6d6fcdd4d169da03c5c6f3dd682d0
+.git\objects\66\b9af7efe4e499716a916528f5dca35ec05025e
+.git\objects\67\eb2de625cbedc64172424321b4e372294ad048
+.git\objects\6b\565378794d1ca9136a6d3fd47dd16811ac1195
+.git\objects\6b\dfab3984c0af89a816c6a2b69abf91ab6753bd
+.git\objects\6d\b17803c395f652ceee31ba933f04477b866619
+.git\objects\6e\b037bbd178eaa743e0308584650a2068291ffd
+.git\objects\6e\e44d02af8afc27ddfa927b3a5792bf40c88773
+.git\objects\6f\06287cdcf7d85177e9ab68008972e680b4168d
+.git\objects\70\7483e1f94ed07c4b275f749a3b04f01c1cedb6
+.git\objects\70\ccf18760c93a633b54b791b608b2dd9bffb9e6
+.git\objects\71\49e42c32db1db942b33001b4a25726566527fa
+.git\objects\72\67fa763424a1c21eb1c47bc3d67b9b081c103a
+.git\objects\72\e1f1386be4464fb8bbd91a6b557dc62428c4c6
+.git\objects\74\0746100ce2ed4531c27a1ae84868c976bd1efa
+.git\objects\74\79d410b0cafee671e8d167faea53d0bede84d8
+.git\objects\75\e9a0548b71668e7bf1b55f0c6493f7c0a26cc6
+.git\objects\77\d58c8d33e978e021df9307e4ebc7957e4e7f75
+.git\objects\79\3c739dec14c2481ec38f55d0e6dbea4bea42cb
+.git\objects\7a\b19e2e22c8607b1d0d9b96591203fff8a5d898
+.git\objects\7b\d80823eedc9704dd0bd986cc72d3b6de0c88cb
+.git\objects\7c\2f54881d20b4124f9211bf5c54f47fbca5a80f
+.git\objects\7e\1fe66efa69f16b6b7510bfad500c4363e26c62
+.git\objects\7e\8efbe57779a1649dd1e4f3831cb3e47d7a3231
+.git\objects\7f\6935bb1d1c6b37c27b49c5d028bba15ec61c28
+.git\objects\83\37f5ee3dd1339b3537e16036132028f9b0fef5
+.git\objects\84\cc92c3d54567524a4c3282624c3f6d49231753
+.git\objects\86\7a5a92006d4050ec2adc71ff4bcf3307722dae
+.git\objects\86\dda6f92f529b4c8b1a0007270ea6b35113a36e
+.git\objects\87\63baa697ee815c142aa9fe57c51427cf452661
+.git\objects\88\bce16688e286605cf8ea9fe6b49d881676ba5b
+.git\objects\89\8c18a27f033de405f7ea43e06ca898e3d1bdee
+.git\objects\8a\33b364166bfd6d25a3a3c13c3836c3306a271c
+.git\objects\8a\e568fe1481cb8861d953a678ccd284ef27c238
+.git\objects\8c\38d5e6b42c49e2ca83640afcb52c46b3c237d3
+.git\objects\8d\200e73a832b14215e59228048d2fdd67ff30dd
+.git\objects\90\094659b6f8f38d1d28eb99e2c9e66dfb056778
+.git\objects\91\7319b957f9ea23a4ff99caf14ebf2fb5b33037
+.git\objects\92\3454e1117fe0da20b28dd2654209d4147e5783
+.git\objects\93\4c7970244b02c89a6ec6b923208c4168ecfb74
+.git\objects\94\0020820c96afb10abf5d9ac79401a2a9e3fa64
+.git\objects\94\6947da6b2def2804670d47af6072decd9f2467
+.git\objects\97\52b3bdcbf07a3e8fcb461072107cfdd2ae4861
+.git\objects\97\f36d34a19065cc10194aa4cec64d437526b5e9
+.git\objects\99\d383b8333abc3f4c75917fff038e9453286032
+.git\objects\9a\2d6bb28793ce984fafc5d9d173b61cf1d31252
+.git\objects\9b\052142b5575268287f4fa04d1a121d51764f2a
+.git\objects\9b\d158412be75dc491142c63802657eb0b043f2e
+.git\objects\9b\ea01ec77fa2090b29816fbce17bd0402eec20e
+.git\objects\9b\f51f52ca7066740706d606517c306fc4b68680
+.git\objects\9c\991bcfdb80162b53e7d1bd85eddbb5a8dae23b
+.git\objects\9e\26dfeeb6e641a33dae4961196235bdb965b21b
+.git\objects\9e\34123d4d133ae1bba95a2dc8606a9ed94118b6
+.git\objects\9e\6504c0119525d1237127547f58978387822f70
+.git\objects\9e\862e3e8bd93f04bd9e3c0ed41ead38da0f8ae7
+.git\objects\9f\18aa3fb352b40644abce24709a9c936e7befa4
+.git\objects\9f\c8e9493581221a55f389ee364b8e721c41e207
+.git\objects\a0\cbd053723034feecbcc973897ab54a1f7fa797
+.git\objects\a1\4a9f18a333055a6bb21278cc7a214872688658
+.git\objects\a3\10e7b4879ea906dabf73ac1e937213d5ded0cb
+.git\objects\a3\4146e447b139d0f57467cbb585336659eff363
+.git\objects\a4\6b1d9921c79d7cd916ea7ae960009eb3c21c91
+.git\objects\a7\8f98b7a5b06b7772d8e2083c06f81a53afa08b
+.git\objects\a9\ca501a24edec41427f46113974181c0200b6f4
+.git\objects\ab\247f6061838105012ac50178e79a5f975e2434
+.git\objects\ac\8a30611590db4d4feade7b3df267fc141b6b86
+.git\objects\af\a79c0dfde79a8b35c4dfe78ec7d2323e707437
+.git\objects\b0\1edc5b47abe0530c2c0b051b089c7ba4eb5801
+.git\objects\b3\5f844bffd346b6619eb90d8b1a4f520ce9b6bc
+.git\objects\b4\948ea101f2f9cc0d47034efaffc4503f47a177
+.git\objects\b4\a6584ac580fea16369db58075f7d17044357f0
+.git\objects\b6\244dfdaea221db7d19fdfa1f819d6e387ac416
+.git\objects\b6\40e261b7c10a4ffdfebaafb20f21f4bfa17461
+.git\objects\b8\013a6057f5daeeeeab7b6e72f3810014c4655f
+.git\objects\b8\0d53dd3119a515273f3e8e289d514401cf4193
+.git\objects\b8\857037000a95cf71ffb3fcae034d3c90ade193
+.git\objects\b9\982125367a6a28a8a9492b4520b993ac27881f
+.git\objects\ba\17a85be6264a109821d0b5a32106aaffd21fac
+.git\objects\bb\4f4326e38eef87f623c6a07a263e6385db0bb9
+.git\objects\bc\dbc81667ea52eb882269d3629cd81729421f6f
+.git\objects\bd\5030aff3cf2ede0e8d9f50bd7f0f414bfe7b86
+.git\objects\be\dfafe65eeeac607ccfb24cad392ae2acc39545
+.git\objects\be\e9f01b1c74ff21230f4da7a3ba15b2fe7fef02
+.git\objects\c1\757e8bcc34d423884f5d23ab1706f1170f2ae4
+.git\objects\c3\5f37214ae4ec43daa5eea418cc104d721fd5f0
+.git\objects\c3\a357fbca52296c3a0869bdafd66f8a90bdd04e
+.git\objects\c4\c28a628624eb24efa1314955508d7f13dee067
+.git\objects\c6\a695b4430ca788143f6ec10c0d1a0e03dc5c81
+.git\objects\c7\1a19880e9e165db5c63f0b3b8bd7240c0b4a5a
+.git\objects\c7\3a9122b822b53749ab1bd7305cae45114a8ef9
+.git\objects\c8\08bc343013fb7c222cd53bdb8d6ba35cf815be
+.git\objects\c8\0b2d78f1492b5df6eec950a02834973ff49758
+.git\objects\c8\242bee1140379068ac1ca61a6703a096797453
+.git\objects\c8\9f86bd9978964d2015fd19cde18b75832883c9
+.git\objects\ca\0afb93af853effe94851a4f997032dc41437d0
+.git\objects\ca\f7c6a2043eba526acef8f4c488813574f2b988
+.git\objects\cd\49e43824d312fd59ed9b157ddb00ea7b9b1dc2
+.git\objects\cd\c1026531fc70e6083abd493fbb87e40a2a6354
+.git\objects\cf\b8ed2b0ba72ac8dc3648584b7b872f2dc44f44
+.git\objects\d0\d338f283b7ba79809ce1be36e2a173cce0964d
+.git\objects\d3\dc1a0198d83b66d32d8945a613a5f8ff4da9ae
+.git\objects\d4\ee99dcc09d63508c09c9ae8ba79b6c9570c14a
+.git\objects\d5\1201f350068f9e371b321b5a70be0e7ee15066
+.git\objects\d5\1804e12a07561b20a52515ff870b76ad03a669
+.git\objects\d5\8e86da4273384727876736bdc9fdaa31f7b276
+.git\objects\d5\ba8181ba29e55bb5717338f86b6e70e9108fe6
+.git\objects\d7\1f5190271134b2f77d449600dc1a8bc9ab816c
+.git\objects\d7\bf29765c6bde0af97565585bf0831b211ccee2
+.git\objects\d8\97bba9227d2bc0de0d212b6d921f601652a28f
+.git\objects\d8\9f3c5868b766c17418721a1f2a8b115333aae0
+.git\objects\d8\df351413086f318147a3642e43944cc274eaaf
+.git\objects\d9\13bbc494066a4ddb4e292b01e5e9363d73aeca
+.git\objects\d9\8895f57bc467836ed90d59ec0920c54b68ed6e
+.git\objects\da\0dc26c8e0cc3ba7313dfa4d81c85a911857c75
+.git\objects\da\2a413aad09fdba0d57b2aed51fafdb8b38234a
+.git\objects\dd\d2f870df18f399781377822a21a2ed48ba585d
+.git\objects\e0\906052b20c6441edea0fd972c900c8f5e701f1
+.git\objects\e3\81b8b0b85bf39008f620a6bc5da512d6526a0e
+.git\objects\e4\d0a1ca98fc90c21a422eef30ba4cc131f45a51
+.git\objects\e5\93f75971f223725afc344b237eb44c94367328
+.git\objects\e5\be89dff6d7e22cfaead0b9a4a3536797f43bba
+.git\objects\e6\42eda0c236933cbeeb502cb3c5f479086e10fb
+.git\objects\e6\6e2a5e8b357a3b05c6c0372301504ae50a44cb
+.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+.git\objects\e6\a02085db8ac048115054b0c9108ada1d4bd7e3
+.git\objects\e6\eb7711ad192660a67f0b6ee122306031ea0b59
+.git\objects\e7\14bfdde755fb0664aa270de364101c4a4a6487
+.git\objects\e8\c6e46a034f3eb7fb10e5735fe1e2040187f245
+.git\objects\ed\86e6ee9192d4735171d9eb4c8cf1697e35d88b
+.git\objects\ee\b615c18eab609db1d2e091d0979630ca897c22
+.git\objects\ef\3dfa0e308d317ed7b74879f5485bf0e8bebcb4
+.git\objects\ef\d0d266ecdd8dabe9cb0be29032b45205cc0497
+.git\objects\f1\bbdcf9dfb1f48c11e8724e647f57b94b1bce50
+.git\objects\f3\0410f43c66013944e891df7b148215ff2cd426
+.git\objects\f3\8556b41514d7343e7301c6553d3c88e133b4d2
+.git\objects\f5\28997f04bf1bc4f0d0aa1dc1325099aa4df4d7
+.git\objects\f8\8e4a9e7801710a583457377eae2676c62709d0
+.git\objects\f8\abb69c2cc0be07eb64d70527e40dd9fb8ebd10
+.git\objects\f8\bddcc55f2594f3a47e687d90a74eac360ead43
+.git\objects\fa\29cdfff915566d202c195607a42b9445919261
+.git\objects\fb\319b2879b0ef99f339c313b050d32977af9ef9
+.git\objects\fc\31785c49e9c8c1e8a62c02cb1f101a671f7d1b
+.git\objects\fc\76e7c24c3db839e81ab1efb9d3e810177f2a19
+.git\objects\fd\6ef35a1bd0757e0e02553acecdc71eee3ebe3a
+.git\objects\fd\90094abf9662eedaa1d390ac9cf9cf6b478d49
+.git\objects\fe\075202285e76c5cc2ddbf89d4c973d2b8bdc7e
+.git\objects\pack\pack-dc7219a77632182eb58a789d2d99605d402dbcbe.idx
+.git\objects\pack\pack-dc7219a77632182eb58a789d2d99605d402dbcbe.pack
+.git\objects\pack\pack-dc7219a77632182eb58a789d2d99605d402dbcbe.rev
+.git\refs\heads\main
+.git\refs\remotes\origin
+.git\refs\remotes\origin\HEAD
+.git\refs\remotes\origin\main
+.obsidian\.obsidian\.obsidian
+.obsidian\.obsidian\app.json
+.obsidian\.obsidian\appearance.json
+.obsidian\.obsidian\core-plugins-migration.json
+.obsidian\.obsidian\core-plugins.json
+.obsidian\.obsidian\workspace.json
+.obsidian\plugins\obsidian-style-settings
+.obsidian\plugins\table-editor-obsidian
+.obsidian\themes\80s Neon
+.obsidian\themes\AnuPpuccin
+.obsidian\themes\Atom
+.obsidian\themes\Blue Topaz
+.obsidian\themes\Border
+.obsidian\themes\Catppuccin
+.obsidian\themes\Cybertron
+.obsidian\themes\Dracula for Obsidian
+.obsidian\themes\Everforest
+.obsidian\themes\Fusion
+.obsidian\themes\GitHub Theme
+.obsidian\themes\ITS Theme
+.obsidian\themes\Minimal
+.obsidian\themes\Moonlight
+.obsidian\themes\Notation
+.obsidian\themes\Obsidian gruvbox
+.obsidian\themes\Obsidian Nord
+.obsidian\themes\Obsidianite
+.obsidian\themes\Obuntu
+.obsidian\themes\PLN
+.obsidian\themes\Primary
+.obsidian\themes\Prism
+.obsidian\themes\Sanctum
+.obsidian\themes\Shimmering Focus
+.obsidian\themes\Things
+.obsidian\themes\Tokyo Night
+.obsidian\themes\Typewriter
+.obsidian\themes\Ultra Lobster
+.obsidian\themes\Wasp
+.obsidian\.obsidian\.obsidian\.obsidian
+.obsidian\.obsidian\.obsidian\app.json
+.obsidian\.obsidian\.obsidian\appearance.json
+.obsidian\.obsidian\.obsidian\core-plugins-migration.json
+.obsidian\.obsidian\.obsidian\core-plugins.json
+.obsidian\.obsidian\.obsidian\workspace.json
+.obsidian\.obsidian\.obsidian\.obsidian\app.json
+.obsidian\.obsidian\.obsidian\.obsidian\appearance.json
+.obsidian\.obsidian\.obsidian\.obsidian\core-plugins-migration.json
+.obsidian\.obsidian\.obsidian\.obsidian\core-plugins.json
+.obsidian\.obsidian\.obsidian\.obsidian\workspace.json
+.obsidian\plugins\obsidian-style-settings\data.json
+.obsidian\plugins\obsidian-style-settings\main.js
+.obsidian\plugins\obsidian-style-settings\manifest.json
+.obsidian\plugins\obsidian-style-settings\styles.css
+.obsidian\plugins\table-editor-obsidian\data.json
+.obsidian\plugins\table-editor-obsidian\main.js
+.obsidian\plugins\table-editor-obsidian\manifest.json
+.obsidian\plugins\table-editor-obsidian\styles.css
+.obsidian\themes\80s Neon\manifest.json
+.obsidian\themes\80s Neon\theme.css
+.obsidian\themes\AnuPpuccin\manifest.json
+.obsidian\themes\AnuPpuccin\theme.css
+.obsidian\themes\Atom\manifest.json
+.obsidian\themes\Atom\theme.css
+.obsidian\themes\Blue Topaz\manifest.json
+.obsidian\themes\Blue Topaz\theme.css
+.obsidian\themes\Border\manifest.json
+.obsidian\themes\Border\theme.css
+.obsidian\themes\Catppuccin\manifest.json
+.obsidian\themes\Catppuccin\theme.css
+.obsidian\themes\Cybertron\manifest.json
+.obsidian\themes\Cybertron\theme.css
+.obsidian\themes\Dracula for Obsidian\manifest.json
+.obsidian\themes\Dracula for Obsidian\theme.css
+.obsidian\themes\Everforest\manifest.json
+.obsidian\themes\Everforest\theme.css
+.obsidian\themes\Fusion\manifest.json
+.obsidian\themes\Fusion\theme.css
+.obsidian\themes\GitHub Theme\manifest.json
+.obsidian\themes\GitHub Theme\theme.css
+.obsidian\themes\ITS Theme\manifest.json
+.obsidian\themes\ITS Theme\theme.css
+.obsidian\themes\Minimal\manifest.json
+.obsidian\themes\Minimal\theme.css
+.obsidian\themes\Moonlight\manifest.json
+.obsidian\themes\Moonlight\theme.css
+.obsidian\themes\Notation\manifest.json
+.obsidian\themes\Notation\theme.css
+.obsidian\themes\Obsidian gruvbox\manifest.json
+.obsidian\themes\Obsidian gruvbox\theme.css
+.obsidian\themes\Obsidian Nord\manifest.json
+.obsidian\themes\Obsidian Nord\theme.css
+.obsidian\themes\Obsidianite\manifest.json
+.obsidian\themes\Obsidianite\theme.css
+.obsidian\themes\Obuntu\manifest.json
+.obsidian\themes\Obuntu\theme.css
+.obsidian\themes\PLN\manifest.json
+.obsidian\themes\PLN\theme.css
+.obsidian\themes\Primary\manifest.json
+.obsidian\themes\Primary\theme.css
+.obsidian\themes\Prism\manifest.json
+.obsidian\themes\Prism\theme.css
+.obsidian\themes\Sanctum\manifest.json
+.obsidian\themes\Sanctum\theme.css
+.obsidian\themes\Shimmering Focus\manifest.json
+.obsidian\themes\Shimmering Focus\theme.css
+.obsidian\themes\Things\manifest.json
+.obsidian\themes\Things\theme.css
+.obsidian\themes\Tokyo Night\manifest.json
+.obsidian\themes\Tokyo Night\theme.css
+.obsidian\themes\Typewriter\manifest.json
+.obsidian\themes\Typewriter\theme.css
+.obsidian\themes\Ultra Lobster\manifest.json
+.obsidian\themes\Ultra Lobster\theme.css
+.obsidian\themes\Wasp\manifest.json
+.obsidian\themes\Wasp\theme.css
+Scripts\Arduino\ArduinoDiffDrive.md
+Scripts\Python\arduino_diff_controller.md
+Scripts\Python\velocity_smoother.md
