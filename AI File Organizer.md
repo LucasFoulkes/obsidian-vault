@@ -1,11 +1,22 @@
 ## programs that already do this. 
+chromadb
+ollama embedings , what are embedings?
+crew ai
+from langchain.agents import create_csv_agent
+ipython relp
+ollama embeding
+nomic enveding
+gradio
+nomic-embed-text
+pydantic
+ComfyUI
 ## steps
 
-- pick folder (directory) (using fzf like but with python)
-- get all files (explore tree) make it into a list of paths for every file. also consider exisiting extructure or organisation
-- 
-## organiszational models 
-
+1.  pick folder (directory) (using fzf like but with python)
+2.  get all files (explore tree) make it into a list of paths for every file. also consider exisiting extructure or organisation
+	## organiszational models 
+3. this will need a couple programs like fzf and ollama. ollama works on windows but i think it needs to installed besides the code i think. like it cant be packaged. 
+4. can llm be made part of a project and installed as a wathever. 
 ### Scenario:
 You're a small business owner managing files related to multiple business operations, such as marketing, finances, product development, customer support, and personal files related to your hobbies and travel.
 

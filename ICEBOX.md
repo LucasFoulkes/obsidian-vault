@@ -1,4 +1,6 @@
 #icebox #resources
+
+
 ## Table of Contents
 - [[#Hosting and Deployment Platforms]]
 - [[#Development Tools and Frameworks]]
@@ -300,3 +302,75 @@
 - "Lalala" by Hara Noda
 - https://taipy.io/
 - https://streamlit.io/
+- dupeGuru
+- Ogami Tsumiki to Kinichijou. 
+- Obokoi Majo wa Majiwaritai!?
+- Sono Bisque Doll wa Koi wo suru
+- Isekai Ojisan
+- Doku Mushi - The Ruins Hotel 
+- Sousou no Frieren
+- peach sorbet
+- endevi
+- widget (installs stuff on windows)
+- chocolatelly ( installs stuff on windows)
+- chatts
+- runpod
+- vultr (honestly good prices)
+- the art of electronics , paul horowitz, winfield hill
+- Jackpot! film with aquafina. quite good
+- The Drunkard s Walk How Randomness Rules Our Lives
+- yojouhan-time-machine-blue
+- The Tatami Galaxy Watch
+- gradio
+- box2d
+- tumblr
+- Nashville man arrested for running “laptop farm” to get jobs for North Koreans
+- [Source](https://skerritt.blog/make-popular-open-source-projects/)
+- [source](https://pubmed.ncbi.nlm.nih.gov/27115137/)
+- things to watch
+	-  Bottoms (film)
+	- Down Low (film)
+	- Self Reliance (film)
+	- Molli and Max in the Future
+	- The Artifice Girl
+	- Martian Land
+1. **2001: A Space Odyssey** (1968)
+2. **Beyond the Black Rainbow** (2010)
+3. **Naked Lunch** (1991)
+4. **eXistenZ** (1999)
+5. **Altered States** (1980)
+6. **Vanilla Sky** (2001)
+7. **The Fountain** (2006)
+8. **Solaris** (1972)
+9. **Enter the Void** (2009)
+10. **Everything Everywhere All at Once** (2022)
+11. **Annihilation** (2018)
+12. **Primer** (2004)
+13. **12 Monkeys** (1995)
+14. **Waking Life** (2001)
+15. **Brazil** (1985)
+16. **Blade Runner** (1982)
+17. **Moon** (2009)
+18. **Dark City** (1998)
+19. **Barbarella** (1968)
+20. **Forbidden Planet** (1956)
+- mc - folder browser
+- parlertts
+- piperts
+- DSPy
+- https://cadmium-co.github.io/CADmium/
+- kaggle
+- hugging face
+- Kalman filter
+- bayesian filter
+- cadmium
+- https://natureofcode.com/introduction/#what-is-this-book
+- https://github.com/coollabsio/coolify
+- nice font pixelated: https://departuremono.com/
+- aseprite
+- cool font is from electronics books i thingk: https://webonastick.com/fonts/routed-gothic/
+- Build WebGPU Apps Today with PlayCanvas
+- https://labs.google/
+- TinyBERT
+- MobileBERT
+- 

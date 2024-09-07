@@ -1,5 +1,0 @@
-- Advanced Tables
-- chatgpt md
-- checklist
-- copy button
-- editor syntax highlight

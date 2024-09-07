@@ -1,2 +1,0 @@
-mc - folder browser
-espeak

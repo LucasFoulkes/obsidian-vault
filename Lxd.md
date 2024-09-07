@@ -1,1 +1,0 @@
-how is it different from docker, or windows wsl2
