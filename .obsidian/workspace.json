@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf8ef6b76e246188",
+            "id": "aebe875c245ce471",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3D Print.md",
+                "file": "ICEBOX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72b9f07d2c56dc9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cananvalle cable replacement radio system.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D Print.md",
+                "file": "cananvalle cable replacement radio system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D Print.md",
+                "file": "cananvalle cable replacement radio system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D Print.md"
+                "file": "cananvalle cable replacement radio system.md"
               }
             }
           }
@@ -147,34 +160,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf8ef6b76e246188",
+  "active": "72b9f07d2c56dc9e",
   "lastOpenFiles": [
+    "escarab.md",
+    "cananvalle cable replacement radio system.md",
     "ICEBOX.md",
-    "Websites Design.md",
-    "Plans.md",
-    "AI File Organizer.md",
-    "3D Print.md",
+    "TODO.md",
+    "scarab replacement.md",
+    "Supermarket Robot Project.md",
+    "EcoEDA.md",
+    "Documenting Projects.md",
+    "Differential Drive Robot Mathematical Model.md",
+    "Development Methodologies.md",
+    "David Macaulay_s Architecture Series.md",
     "Create programs that can be run like normal.md",
     "Cheapo Robot.md",
     "Braintenberg Cozy VR Game.md",
+    "canavalle cable replacement.md",
+    "Arduino OTA.md",
+    "espeak.md",
+    "cananvalley rebrand.md",
+    "AI File Organizer.md",
+    "3D Print.md",
+    "WaiterRobot/Waiter Robot Draft.md",
+    "Websites Design.md",
+    "Plans.md",
     "Canan Valley.md",
     "AI that Makes AI's.md",
     "Vscode.md",
-    "VR Bussines.md",
-    "Vim.md",
-    "Video Game Ideas.md",
-    "Un-Suck Your React Components - Composable & Compound Components.md",
-    "TV Series.md",
-    "TODO.md",
-    "Supermarket Robot Project.md",
-    "Styles of Radio Announcing Through the Decades.md",
-    "Stories Ideas.md",
-    "Snoopy Robot.md",
-    "simplified program maker.md",
-    "Security ESP32CAM System.md",
-    "Robot Waiter Project.md",
-    "Remote SSH.md",
-    "Python Pickle.md",
     "file_paths_20240816_011734.txt",
     "file_paths.txt",
     "Media",

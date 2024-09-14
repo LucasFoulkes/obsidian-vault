@@ -1,4 +1,15 @@
 # TODO
+9/10/2024
+- brand cananvalley
+lets try to drive the marketing guy to the diresction i want before doing it myself let give til friday. 
+- cananvalley irrigation repeater
+- cananvalley travel bot
+- tiny car after cutting cannavalley
+- replacement for scarab
+- ask about asinfo unosoft
+- message kristen before 8pm so 6-7
+- robot sales man for vr becouse like jesus im loosing so much money
+---
 - buy piano chair
 - hair stuff
 - skin stuff
