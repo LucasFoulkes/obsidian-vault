@@ -145,3 +145,16 @@ battery , solar panel, know the state of solar panel and battery, (cant guess so
 1. apaerently for the battery stuff i need someting called a bms. what do i need to track of the battery , wich contains severl , 4, cells, voltage amperage, internal resistance? ai calins voltafe current power, tho i think power is voltage times current  but we shall se
 https://avelectronics.cc/producto/sensor-de-corriente-dc-ina219/
 https://avelectronics.cc/producto/panel-solar-12v-6w/
+
+---
+### Components. 
+https://megatronica.cc/producto/modulo-rele-5v-8-canales-con-led-indicadores-low/
+https://megatronica.cc/producto/controlador-de-carga-solar-20a/
+https://megatronica.cc/producto/par-de-llantas-de-goma-para-mini-sumo-27x15mm-eje-3mm/
+https://megatronica.cc/producto/modulo-rele-8-canales/
+https://megatronica.cc/producto/chasis-2wd-robot-inteligente-de-dos-pisos-redondo-mini/
+https://megatronica.cc/producto/modulo-rele-de-estado-solido-5v-2a-de-4-canales/
+https://megatronica.cc/producto/chasis-seguidor-linea-robot-movil-mdf-2-ruedas/
+https://megatronica.cc/producto/modulo-rele-5v-8-canales-con-led-indicadores-optoacoplado-high-low/
+https://megatronica.cc/producto/controlador-de-carga-solar-10a-pwm/
+

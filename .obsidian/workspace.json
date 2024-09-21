@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aebe875c245ce471",
+            "id": "f2937fdd7709090b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICEBOX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72b9f07d2c56dc9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cananvalle cable replacement radio system.md",
+                "file": "Games.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cananvalle cable replacement radio system.md",
+                "file": "Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cananvalle cable replacement radio system.md",
+                "file": "Games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cananvalle cable replacement radio system.md"
+                "file": "Games.md"
               }
             }
           }
@@ -160,11 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72b9f07d2c56dc9e",
+  "active": "f2937fdd7709090b",
   "lastOpenFiles": [
-    "escarab.md",
-    "cananvalle cable replacement radio system.md",
     "ICEBOX.md",
+    "Games.md",
+    "Video Game Ideas.md",
+    "cananvalle cable replacement radio system.md",
+    "escarab.md",
     "TODO.md",
     "scarab replacement.md",
     "Supermarket Robot Project.md",
@@ -186,8 +175,6 @@
     "Websites Design.md",
     "Plans.md",
     "Canan Valley.md",
-    "AI that Makes AI's.md",
-    "Vscode.md",
     "file_paths_20240816_011734.txt",
     "file_paths.txt",
     "Media",
