@@ -1,6 +1,5 @@
+
 #icebox #resources
-
-
 ## Table of Contents
 - [[#Hosting and Deployment Platforms]]
 - [[#Development Tools and Frameworks]]
@@ -381,3 +380,7 @@
 - heathers (film)
 - Sabriel is a fantasy novel written by Garth Nix
 - https://github.com/knee-koh/MarIOnette
+- Slow Horses
+- Paul Lockhart's book _Measurement_
+- rapamycin
+- patlabor

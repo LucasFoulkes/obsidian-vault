@@ -1,4 +1,10 @@
 # TODO
+24/10/2024
+- bed for finca
+- fix 3d printer
+- pest monitoring app
+
+---
 9/10/2024
 - brand cananvalley
 lets try to drive the marketing guy to the diresction i want before doing it myself let give til friday. 

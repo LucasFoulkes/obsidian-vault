@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games.md",
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f02251f66449b5e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pest Control Software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2be667035be83a8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lora Protocols.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games.md",
+                "file": "Lora Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games.md",
+                "file": "Lora Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Games.md"
+                "file": "Lora Protocols.md"
               }
             }
           }
@@ -147,14 +172,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2937fdd7709090b",
+  "active": "fd614bdfa25849f4",
   "lastOpenFiles": [
-    "ICEBOX.md",
-    "Games.md",
-    "Video Game Ideas.md",
+    "Pest Control Software.md",
+    "Lora Protocols.md",
     "cananvalle cable replacement radio system.md",
-    "escarab.md",
+    "Games.md",
+    "ICEBOX.md",
     "TODO.md",
+    "Video Game Ideas.md",
+    "escarab.md",
     "scarab replacement.md",
     "Supermarket Robot Project.md",
     "EcoEDA.md",
@@ -173,8 +200,6 @@
     "3D Print.md",
     "WaiterRobot/Waiter Robot Draft.md",
     "Websites Design.md",
-    "Plans.md",
-    "Canan Valley.md",
     "file_paths_20240816_011734.txt",
     "file_paths.txt",
     "Media",
