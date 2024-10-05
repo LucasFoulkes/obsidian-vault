@@ -384,3 +384,10 @@
 - Paul Lockhart's book _Measurement_
 - rapamycin
 - patlabor
+- Silero VAD
+- **Starting Electronics (Third Edition)** by **Keith Brindley**: Beginner's guide to electronics fundamentals with hands-on projects using breadboards and basic circuits.  
+- **Practical Electronics for Inventors (Fourth Edition)** by **Paul Scherz and Simon Monk**: Comprehensive coverage of electronics theory and practical projects for hobbyists and advanced learners【14†source】【15†source】.  
+- **The Art of Electronics** by **Paul Horowitz and Winfield Hill**: In-depth exploration of electronics theory and circuit design, aimed at professionals and advanced learners.  
+"Practical Electronics for Inventors" by Paul Scherz and Simon Monk.
+"The Art of Electronics" by Paul Horowitz and Winfield Hill.
+"Grubbs Basic Electronics" by E.J. Grubbs.

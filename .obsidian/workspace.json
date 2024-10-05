@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "ICEBOX.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2be667035be83a8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lora Protocols.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lora Protocols.md",
+                "file": "ICEBOX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lora Protocols.md",
+                "file": "ICEBOX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lora Protocols.md"
+                "file": "ICEBOX.md"
               }
             }
           }
@@ -172,14 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd614bdfa25849f4",
+  "active": "f2937fdd7709090b",
   "lastOpenFiles": [
+    "Media/Books.md",
+    "Media/Film.md",
+    "TODO.md",
     "Pest Control Software.md",
+    "Websites Design.md",
+    "ICEBOX.md",
     "Lora Protocols.md",
     "cananvalle cable replacement radio system.md",
     "Games.md",
-    "ICEBOX.md",
-    "TODO.md",
     "Video Game Ideas.md",
     "escarab.md",
     "scarab replacement.md",
@@ -197,9 +187,6 @@
     "espeak.md",
     "cananvalley rebrand.md",
     "AI File Organizer.md",
-    "3D Print.md",
-    "WaiterRobot/Waiter Robot Draft.md",
-    "Websites Design.md",
     "file_paths_20240816_011734.txt",
     "file_paths.txt",
     "Media",
