@@ -391,3 +391,28 @@
 "Practical Electronics for Inventors" by Paul Scherz and Simon Monk.
 "The Art of Electronics" by Paul Horowitz and Winfield Hill.
 "Grubbs Basic Electronics" by E.J. Grubbs.
+Here’s the full list, including *The Boys from County Hell*:
+
+1. **Strange Darling (2023)**: A twisted, unpredictable horror thriller about a serial killer's rampage, shot in rich 36mm film. It stands out for its creative direction and standout performances, especially from Kyle Gallner and Willa Fitzgerald.
+
+2. **Nightcrawler (2014)**: A psychological thriller with horror elements, focusing on a man’s descent into the gritty world of LA crime journalism. Jake Gyllenhaal gives a transformative performance in this dark, moody film.
+
+3. **Excision (2012)**: A disturbing psychological horror about a delusional high school student obsessed with surgery. Dark, twisted, and uncomfortable, it's a standout in bizarre, demented horror cinema.
+
+4. **The Ruins (2008)**: A brutal and gruesome body-horror film about a group of friends trapped by an ancient evil at a jungle archaeological site. The gruesome special effects and relentless tension make it unforgettable.
+
+5. **Coming Home in the Dark (2021)**: A bleak New Zealand thriller where a family is terrorized by drifters, leading to brutal confrontations. It’s dark, oppressive, and unsettling with shocking, unexpected moments.
+
+6. **Horror Hotel (1960)**: A classic black-and-white supernatural horror film about a student researching witchcraft in a creepy town. Featuring Christopher Lee, this atmospheric film is enhanced by its moody black-and-white cinematography.
+
+7. **Piggy (2022)**: A Spanish horror-thriller about an overweight teen who witnesses her bullies' kidnapping and faces a moral dilemma. It’s a dark, emotional exploration of bullying, highlighted by a strong performance from Laura Galán.
+
+8. **Candy Land (2022)**: A layered horror-thriller about a young woman who gets involved with truck stop sex workers, with brutal and shocking twists. It’s dark, slow-burning, and deeply psychological, offering gore and gripping dialogue.
+
+9. **Hellraiser (2022)**: A reimagining of the Clive Barker classic, featuring stunning visuals and fresh takes on the Cenobites. While not a perfect film, it's creative and deserved more recognition for its style and approach to the Hellraiser mythos.
+
+10. **The Serpent and the Rainbow (1988)**: A Wes Craven psychological horror based loosely on true events involving black magic and zombies in Haiti. It’s a creepy, mind-bending film, and one of Craven’s most underappreciated works.
+
+11. **The Boys from County Hell (2020)**: An Irish horror-comedy that mixes folklore, humor, and gore as a group of workers accidentally awaken an ancient vampire. Set in rural Ireland, it’s a fresh and fun take on the vampire genre, with likable characters and a unique setting.
+
+This list features a variety of horror films, from dark and twisted thrillers to more fun and atmospheric supernatural tales.
