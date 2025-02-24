@@ -5,7 +5,6 @@ https://store.steampowered.com/app/370360/TIS100/
 https://store.steampowered.com/app/2519830/Resonite/
 https://store.steampowered.com/app/375820/Human_Resource_Machine/
 https://store.steampowered.com/app/1532200/Mars_First_Logistics/
-
 https://en.wikipedia.org/wiki/Endgame:_Singularity
 https://play.elevatorsaga.com/
 https://turingcomplete.game/

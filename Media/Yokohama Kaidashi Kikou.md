@@ -1,1 +1,0 @@
-manga, futuristic , apocaliptic but calm and rested

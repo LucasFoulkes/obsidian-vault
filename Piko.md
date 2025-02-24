@@ -1,9 +1,3 @@
-### Obsidian Note: Piko Overview
-
-To create a detailed and useful Obsidian note for the Piko project, we will structure the note to cover the main aspects of the project based on the GitHub repository information. Here’s the complete document with all necessary sections.
-
----
-
 # Piko Overview
 
 ## Introduction

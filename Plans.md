@@ -1,15 +1,15 @@
 # Plans 
-- robot stuff
+- robotics
 	- beam robots 
-	- the furniture moving robot
-	- Lego robot
-	- humanoid selling stuff robot (VR machine)
+	- the furniture moving robot, small thing that kinda lifts from the botttom almost swarm. 
+	- 3d printed Lego-like robot
+	- humanoid selling stuff robot (VR machine), for vr. 
 	- whistle controlled robot
 	- Braitenberg vehicles
 - comics
 	- the robot on mats fighting other robots that seem like mythical stuff
 - painting art stuff
-	- the old relative president
+	- my ancestor who was president
 - music
 	- finish knowing all the piano songs
 	- learn guitar
@@ -18,7 +18,7 @@
 	- harmonica
 - web making stuff
 	- Portfolio
-	- the stuff already got paid for
+	- the stuff already got paid for (pay them back somepoint)
 - VR
 	- robot making game
 	- VR roller coaster

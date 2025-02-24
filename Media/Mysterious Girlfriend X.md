@@ -1,1 +1,0 @@
-Good I think, very strange, childhood romance?

@@ -1,13 +1,38 @@
 # TODO
+10/2/2025
+- finish at least one irrigation node
+- finish central node
+- finish basic design of scarab app like textually what is should be in every page and shown and what it links to 
+---
+3/1/2025
+- radio lucuma
+	- finish architrcutrue desgin , to find out wich compoents to use
+	- find components, to know what to put on the pcb
+	- send gerber file from pcv to smeltroniks see price and time
+	- (explore posibility of selenoid replacement ac)
+- dating profile update improve
+- excercise plan
+- food plan
+- software lucuma
+- biometric lucuma
+- window automatic
+---
+31/1/2025
+- make core desing of lucuma software core monitor and admin
+- finish highlevel design for lucuma radio
+---
+6/1/2025
+- the radio thing for farm
+- the app becouse im dead broke
+- fake pictures for app
+---
 24/10/2024
 - bed for finca
 - fix 3d printer
 - pest monitoring app
-
 ---
 9/10/2024
-- brand cananvalley
-lets try to drive the marketing guy to the diresction i want before doing it myself let give til friday. 
+- brand cananvalley lets try to drive the marketing guy to the diresction i want before doing it myself let give til friday. 
 - cananvalley irrigation repeater
 - cananvalley travel bot
 - tiny car after cutting cannavalley
@@ -327,4 +352,3 @@ lets try to drive the marketing guy to the diresction i want before doing it mys
 - [ ] find out information about skin hair
 
 
-mc - folder browser

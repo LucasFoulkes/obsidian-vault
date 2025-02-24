@@ -1,0 +1,4 @@
+- [hey/hola] [kristen] im in athens is fucking freezing! what do you recomend here
+- hey im gonna be in philly in 2 weeks are you in philly around that time, do you want a 3d printer?
+- hey do you still have that spare kindle?
+- trying boston accent was a mistake

@@ -1,4 +1,34 @@
+https://peachweb.io/
+https://dennissnellenberg.com/
+https://itscrazydev.netlify.app/?ref=dailydev
+https://raad.com/
+drone website
+https://www.poulos.co/
+https://franciscamoura.com/projects/student-app/
+https://rauno.me/
+really cool effect squares color responsive mouse position, maybe good for farms. 
 https://www.monicavinader.com/us/
+https://www.kikin.io/
+https://www.buildwithflow.io/
+https://www.storefilter.com/?ref=onepagelove
+https://hyypatia.com/?ref=onepagelove
+https://www.mergewebdev.com/
+https://www.pacolui.com/
+https://minhpham.design/
+https://electronicmaterialsoffice.com/
+great product site
+https://teatrlalka.pl/en
+https://silencio.es/
+product site
+https://lusion.co/
+https://resend.com/
+https://0x.se/
+https://azumbrunnen.me/
+https://www.harjot.pro/
+https://michellegore.com/
+https://kellyhu.me/
+https://teenage.engineering/products/ep-1320
+wild interesting medieval vibe website
 https://monopo.paris/
 really cool paper like texture, maybe good for the rose stuff. 
 https://hasque.com/
@@ -8,10 +38,7 @@ https://www.perryw.ca/
 also cool portfolio
 https://dontboardme.com/
 https://openbook.im/
-
 https://www.together.ai/products#inference
-
-tools
 https://products.ls.graphics/graints/
 https://minimal.gallery/
 https://www.navbar.gallery/navbar/raw-materials

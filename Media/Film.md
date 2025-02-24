@@ -1,31 +1,38 @@
-https://web.netmovies.to/the-beast-3/
-https://web.netmovies.to/but-im-a-cheerleader/
-
-- **thief and the cobler**
-- **maritian express**
-- **martian express** really good 2d animated. #seen
-- **Colossus: The Forbin Project**
-- **Abigail** Vampires girl trap. funny good #seen
-- **Beau Is Afraid**: A surrealist horror comedy film starring Joaquin Phoenix, exploring themes of anxiety and paranoia.
-- **BlackBerry**: A biographical drama about the rise and fall of the BlackBerry smartphone, offering a nostalgic look at the early 2000s tech industry.
-- **How to Have Sex**: A coming-of-age drama about a teenage girl's sexual awakening, tackling themes of identity and self-discovery.
-- **Rye Lane**: A romantic comedy set in South London, following two young people as they navigate love and relationships.
-- **Theater Camp**: A mockumentary comedy about a theater camp, poking fun at the quirks and passions of the theater community.
-- **Barbie**: A comedy film based on the popular Mattel doll, starring Margot Robbie and Ryan Gosling, offering a lighthearted and humorous take on femininity and identity. #seen
-- **Asteroid City**: A romantic comedy-drama set in a fictional American desert town in the 1950s, exploring themes of love, family, and community.
-- **Infinity Pool**: A science fiction horror film about a couple on vacation at a mysterious resort, delving into the darker side of human desire and excess.
-- **Past Lives**: A romantic drama about two childhood friends who reconnect as adults, exploring the complexities of love and relationships.
-- **Anatomy of a Fall**: A courtroom drama about a woman accused of murdering her husband, raising questions about justice and morality.
-- **The Boy and the Heron**: No additional information available.
-- **Showing Up**: A comedy-drama about an artist preparing for a new exhibition, offering a relatable and humorous take on creative struggles.
-- **Oppenheimer**: A biographical drama about J. Robert Oppenheimer, the physicist who led the Manhattan Project, providing a historical and thought-provoking look at the development of the atomic bomb.
-- **Fallen Leaves**: A drama about a budding romance between two lonely people, exploring themes of love, connection, and human vulnerability.
-- **Passages**: A drama about a German filmmaker whose life is upended when he falls in love with a French woman, delving into the complexities of love and identity.
-- **Killers of the Flower Moon**: A crime drama about the investigation into murders of Osage Native Americans in the 1920s, shedding light on a dark chapter in American history.
-- **Poor Things**: A science fiction film adaptation of the novel by Alasdair Gray, exploring themes of identity, humanity, and social hierarchy.
-- **Lisa Frankenstein**: A comedy horror film about a lonely teenage girl who reanimates a Victorian-era corpse, offering a darkly comedic and satirical take on teenage angst and identity.
-- **The Ministry of Ungentlemanly Warfare**: An action-comedy based on the true story of the first special forces unit in WWII, providing an entertaining and action-packed look at a pivotal moment in history.
-- **Antracite**: A film about a cult.
-- **Wifelike**: AI wives, somewhat overdone, mildly sexy. #seen #mid
-- **The Artifice Girl**: Good AI film, very minimal with only three sets. A girl AI used to bait predators becomes the first superintelligent AI. Good, but not great. #seen #good
-- **No One Will Save You**: Good alien horror film. The aliens, like most times, don't make much sense. Good, but not rewatchable. #seen #good
+---
+tags:
+  - films
+  - notes
+  - "#watchlist"
+---
+# Films
+- **Wolf man** kinda meh , has that actress i really like from the series ozark but really doesnt do much. interesting concept where the werewolf not only sees diferent but hears diferent in such a way it cant understand human speech anymore #mid #seen 
+- **But I’m a Cheerleader**: Megan, an all-American cheerleader, is sent to a “sexual redirection” school by her conservative parents to learn how to be straight. A satirical take on conversion therapy. `#watchlist` `#comedy` `#drama` `#LGBTQ`
+- **The Beast**: In the near future, emotions are a threat. Gabrielle decides to purify her DNA using a machine that immerses her in her past lives to rid her of strong feelings. She meets Louis and feels a powerful connection. `#watchlist` `#sci-fi` `#drama`
+- **The Artifice Girl**: Good AI film, very minimal with only three sets. A girl AI used to bait predators becomes the first superintelligent AI. Good, but not great. `#seen` `#good` `#AI`
+- **Wifelike**: AI wives, somewhat overdone, mildly sexy. `#seen` `#mid` `#AI`
+- **Colossus: The Forbin Project**: Classic sci-fi about a supercomputer gaining control over humanity. `#seen` `#sci-fi`
+- **Infinity Pool**: Sci-fi horror about a couple at a mysterious resort. Explores human desire and excess. `#seen` `#horror` `#sci-fi`
+- **Poor Things**: Sci-fi adaptation of Alasdair Gray’s novel. Explores identity, humanity, and social hierarchy. `#seen` `#sci-fi`
+- **Companion**: Film about a sex robot. Surprisingly good. `#seen` `#AI`
+- **No One Will Save You**: Good alien horror film. The aliens don’t make much sense, but it’s engaging. Not rewatchable. `#seen` `#good` `#horror`
+- **Lisa Frankenstein**: Comedy-horror about a teenage girl who reanimates a Victorian-era corpse. Darkly comedic and satirical. `#seen` `#horror` `#comedy`
+- **Abigail**: Vampire girl trap. Funny and good. `#seen` `#horror` `#comedy`
+- **Antracite**: Film about a cult. `#seen` `#thriller`
+- **Past Lives**: Romantic drama about two childhood friends reconnecting as adults. Explores love and relationships. `#seen` `#drama` `#romance`
+- **Fallen Leaves**: Drama about a budding romance between two lonely people. Themes of love and human vulnerability. `#seen` `#drama` `#romance`
+- **Rye Lane**: Romantic comedy set in South London. Follows two young people navigating love. `#seen` `#comedy` `#romance`
+- **Passages**: Drama about a German filmmaker whose life is upended when he falls in love with a French woman. `#seen` `#drama`
+- **Beau Is Afraid**: Surrealist horror-comedy starring Joaquin Phoenix. Explores anxiety and paranoia. `#seen` `#comedy` `#horror`
+- **Theater Camp**: Mockumentary comedy about a theater camp. Pokes fun at the quirks of the theater community. `#seen` `#comedy`
+- **Barbie**: Comedy based on the Mattel doll, starring Margot Robbie and Ryan Gosling. Lighthearted and humorous. `#seen` `#comedy`
+- **Showing Up**: Comedy-drama about an artist preparing for an exhibition. Relatable and humorous. `#seen` `#comedy` `#drama`
+- **The Ministry of Ungentlemanly Warfare**: Action-comedy based on the true story of the first special forces unit in WWII. Entertaining and action-packed. `#seen` `#action` `#comedy`
+- **Killers of the Flower Moon**: Crime drama about the Osage Native American murders in the 1920s. Sheds light on a dark chapter in American history. `#seen` `#drama` `#crime`
+- **Oppenheimer**: Biographical drama about J. Robert Oppenheimer and the Manhattan Project. Historical and thought-provoking. `#seen` `#drama` `#historical`
+- **The Thief and the Cobbler**: Classic 2D animated film. `#seen` `#animation`
+- **Martian Express**: Really good 2D animated film. `#seen` `#animation`
+- **Asteroid City**: Romantic comedy-drama set in a fictional 1950s desert town. Explores love, family, and community. `#seen` `#comedy` `#drama`
+- **How to Have Sex**: Coming-of-age drama about a teenage girl’s sexual awakening. Tackles identity and self-discovery. `#seen` `#drama`
+- **Anatomy of a Fall**: Courtroom drama about a woman accused of murdering her husband. Raises questions about justice and morality. `#seen` `#drama` `#thriller`
+- **The Boy and the Heron**: No additional information available. `#seen`
+- **Gunless** is kinda good, weirdly cozy, guncowboy falls inlove with woman and town spite himself. the actor who plays a dumb military guy in Dirk Gently's Holistic Detective Agency is in it , also mayb one of the actors who plays one of soul sucking homeless guys #seen #western

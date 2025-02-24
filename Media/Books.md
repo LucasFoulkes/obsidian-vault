@@ -1,5 +1,10 @@
 # Organized Science Fiction and Fantasy Book List
 
+### Landscape with invisible hand
+about aliens kinda cute there is a film about it. UNREAD
+
+### Dragon's Egg
+hard science tiny aliens on neutron start hard science. UNREAD
 ## Classic Science Fiction
 - "1984" by George Orwell
 - "The Time Machine" by H.G. Wells

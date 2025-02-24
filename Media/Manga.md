@@ -1,0 +1,31 @@
+- stanofani
+- sakamoto days
+- Sousou no Frieren
+- Furitsumore Kodoku na Shiyo
+- obokoi_majo_wa_majiwarita
+- Myth of Chinese Monsters [link]([Myth of Chinese Monsters](https://www.mangahere.cc/manga/myth_of_chinese_monsters/))
+- Fukei-san to Ansatsu-san
+- Kaii to otome to kamigakushi
+- Endevi
+- fukei_san_to_ansatsu_san
+- kowloon_generic_romance
+- sentai_daishikkaku
+- planetes
+- endevi
+- World's End Harem
+- Super no Ura de Yani Suu Futari
+- peach sorbet
+- shadow house
+- undead unluck
+- Oogami-san, Dadamore desu 
+- Sousou no Frieren
+- Isekai Ojisan
+- Gaishuu Isshoku
+- Ura Baito: Toubou Kinshi
+- Seishokuki 
+- Mahou Tsukai no Yome
+- Hoshi o Tsugu Mono
+- Isekai Ojisan
+- Mahou Tsukai no Yome
+- Tengoku Daimakyou
+- bibliomania

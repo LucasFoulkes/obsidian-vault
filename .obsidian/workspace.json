@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "29830e9f1c008c28",
+        "id": "80ac4fd4599eb20d",
         "type": "tabs",
         "children": [
           {
-            "id": "f2937fdd7709090b",
+            "id": "8e9595bd8ab859cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lucuma/Scarab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scarab"
+            }
+          },
+          {
+            "id": "98defa7a663eaf7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,22 +30,13 @@
                 "file": "ICEBOX.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f02251f66449b5e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pest Control Software.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ICEBOX"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,8 +55,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
-              }
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -60,13 +68,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#deployment  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -74,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ICEBOX.md",
+                "file": "Lucuma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lucuma"
             }
           },
           {
@@ -114,10 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ICEBOX.md",
+                "file": "Lucuma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lucuma"
             }
           },
           {
@@ -128,7 +144,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -137,15 +155,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ICEBOX.md"
-              }
+                "file": "Lucuma.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lucuma"
+            }
+          },
+          {
+            "id": "6a91c4c5a9be053c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -159,44 +189,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2937fdd7709090b",
+  "active": "98defa7a663eaf7e",
   "lastOpenFiles": [
-    "Media/Books.md",
+    "Lucuma/Scarab.md",
+    "Journal/2025-02-22.md",
+    "tmp.md",
     "Media/Film.md",
-    "TODO.md",
-    "Pest Control Software.md",
     "Websites Design.md",
     "ICEBOX.md",
-    "Lora Protocols.md",
-    "cananvalle cable replacement radio system.md",
-    "Games.md",
-    "Video Game Ideas.md",
-    "escarab.md",
-    "scarab replacement.md",
-    "Supermarket Robot Project.md",
-    "EcoEDA.md",
-    "Documenting Projects.md",
-    "Differential Drive Robot Mathematical Model.md",
-    "Development Methodologies.md",
-    "David Macaulay_s Architecture Series.md",
-    "Create programs that can be run like normal.md",
-    "Cheapo Robot.md",
-    "Braintenberg Cozy VR Game.md",
-    "canavalle cable replacement.md",
-    "Arduino OTA.md",
+    "Two Robots and a Pig.md",
+    "Lucuma/Irrigation Center.md",
+    "Vendedores Componentes Electronicos.md",
+    "Waterfall Methology.md",
+    "Perfect Boiled Egg.md",
+    "Lucuma/Lucuma Prediction.md",
+    "Lucuma/Lucuma Irrigation System.md",
+    "Lucuma/Scarab Notes.md",
+    "Untitled 1.md",
     "espeak.md",
-    "cananvalley rebrand.md",
-    "AI File Organizer.md",
+    "Plans.md",
+    "Kegels.md",
+    "notes waterfall methodology.md",
+    "TODO.md",
+    "Lucuma/Entrada Biometrica.md",
+    "Lucuma",
+    "Lucuma.md",
+    "Untitled.canvas",
+    "2025-02-03.md",
+    "Piko.md",
+    "IMU 9250.md",
+    "Host a Server Online.md",
     "file_paths_20240816_011734.txt",
     "file_paths.txt",
     "Media",
-    "Untitled.canvas",
     " (2).gitignore",
     "ICEBOX",
     "Day Planners",
     "WaiterRobot",
     "Scripts/Python",
-    "Scripts/Arduino",
-    "Scripts"
+    "Scripts/Arduino"
   ]
 }

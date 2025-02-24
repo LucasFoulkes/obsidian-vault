@@ -8,5 +8,9 @@
   "baseFontSizeAction": true,
   "monospaceFontFamily": "Inter",
   "nativeMenus": false,
-  "baseFontSize": 15
+  "baseFontSize": 14,
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "svg"
+  ]
 }
